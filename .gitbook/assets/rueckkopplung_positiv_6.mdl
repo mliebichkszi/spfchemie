@@ -1,0 +1,219 @@
+{UTF-8}
+********************************************************
+	.rueckkopplung positiv 6
+********************************************************~
+		Simulation: Peter Bützer
+	|
+
+Einheit=
+	1*1
+	~	K/J [1,1]
+	~		|
+
+"RG-Konstante"=
+	Frequenzfaktor*EXP(-Aktivierungsenergie/(8.314*Temperatur)*Einheit)
+	~	1/Second [0,?]
+	~	Simulation: Peter Bützer
+	|
+
+Temp °C=
+	(Temperatur-273)*Einheiten
+	~	°C [0,?]
+	~		|
+
+Einheiten=
+	1*1
+	~	°C/K [1,?]
+	~		|
+
+Kühlkonstante=
+	Abkühlkonstante*Temperaturdiff*Wärmekapazität
+	~	J/Second [0,?]
+	~		|
+
+abkühlen=
+	Kühlkonstante
+	~	J/Second [0,?]
+	~		|
+
+Abkühlkonstante=
+	0.003
+	~	1/Second [0,0.01]
+	~		|
+
+Aktivierungsenergie=
+	63800
+	~	J [60000,70000]
+	~	Aus der Abschätzung: 64590 J/mol, der beste Wert für die Simulation ist \
+		63800 J/mol
+	|
+
+Temperatur=
+	Umgebungstemperatur+Energiefreisetzung/Wärmekapazität
+	~	K [0,?]
+	~		|
+
+Eduktenergie= INTEG (
+	-aufheizen,
+		20000)
+	~	J [0,?]
+	~		|
+
+Energiefreisetzung= INTEG (
+	+aufheizen-abkühlen,
+		0)
+	~	J [0,?]
+	~		|
+
+Frequenzfaktor=
+	1.33e+009
+	~	1/Second [0,?]
+	~		|
+
+Konzentration=
+	17400
+	~	mol/m3 [0,?]
+	~	mol/m3
+	|
+
+spez Wärmekapazität=
+	4200
+	~	J/mol/K [0,?]
+	~		|
+
+Stoffmenge=
+	Konzentration*Volumen
+	~	mol/m3*m3
+	~	n= c*V
+	|
+
+Wärmekapazität=
+	spez Wärmekapazität*Stoffmenge
+	~	J/K
+	~		|
+
+Temperaturdiff=
+	Temperatur-Umgebungstemperatur
+	~	K
+	~		|
+
+Umgebungstemperatur=
+	298
+	~	K
+	~		|
+
+Volumen=
+	5e-006
+	~	m3 [0,5e-005]
+	~	m3
+	|
+
+aufheizen=
+	"RG-Konstante"*Eduktenergie
+	~	J/Second [0,?]
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 240
+	~	Second
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Second
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 1
+	~	Second [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.1
+	~	Second [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,100,0
+10,1,Energiefreisetzung,586,194,90,44,3,3,0,6,0,0,0,0,0-0-0,255-0-0,|12||255-255-255
+12,2,48,878,193,10,8,0,3,0,0,-1,0,0,0
+1,3,5,2,4,0,0,22,0,0,0,-1--1--1,,1|(819,190)|
+1,4,5,1,100,0,0,22,0,0,0,-1--1--1,,1|(717,190)|
+11,5,48,764,190,6,8,34,3,0,0,3,0,0,0
+10,6,abkühlen,764,171,36,11,40,3,0,1,-1,0,0,0,0-255-255,0-0-0,|12||0-0-0
+1,7,8,1,4,0,0,22,0,0,0,-1--1--1,,1|(446,186)|
+11,8,412,390,186,6,8,34,3,0,0,3,0,0,0
+10,9,aufheizen,390,166,55,11,40,3,0,4,-1,0,0,0,0-0-0,255-255-255,|12||0-255-255
+12,10,48,226,-16,10,8,0,3,0,0,-1,0,0,0
+10,11,Kühlkonstante,838,123,63,10,8,3,0,0,0,0,0,0
+1,12,11,5,1,0,0,0,0,64,0,-1--1--1,,1|(775,148)|
+10,13,Eduktenergie,230,190,91,44,3,3,0,4,0,0,0,0,0-0-0,255-255-128,|12||0-0-0
+1,14,8,13,100,0,0,22,0,0,0,-1--1--1,,1|(352,186)|
+1,15,13,8,1,0,0,0,0,64,0,-1--1--1,,1|(325,119)|
+10,16,"RG-Konstante",464,274,64,11,8,3,0,0,0,0,0,0
+1,17,16,8,1,0,0,0,0,64,0,-1--1--1,,1|(408,230)|
+10,18,Volumen,146,354,35,11,8,3,0,0,0,0,0,0
+10,19,Konzentration,151,305,58,10,8,3,0,0,0,0,0,0
+10,20,Temperatur,628,301,51,20,8,3,0,0,0,0,0,0
+1,21,1,20,1,0,0,0,0,64,0,-1--1--1,,1|(634,275)|
+1,22,20,16,1,0,0,0,0,64,0,-1--1--1,,1|(491,274)|
+10,23,Umgebungstemperatur,778,366,91,30,8,3,0,0,0,0,0,0
+1,24,23,20,1,0,0,0,0,64,0,-1--1--1,,1|(709,360)|
+10,25,Stoffmenge,266,368,45,11,8,3,0,0,0,0,0,0
+1,26,18,25,1,0,0,0,0,64,0,-1--1--1,,1|(233,366)|
+1,27,19,25,1,0,0,0,0,64,0,-1--1--1,,1|(210,310)|
+10,28,Abkühlkonstante,640,108,71,18,8,3,0,0,0,0,0,0
+1,29,28,11,1,0,0,0,0,64,0,-1--1--1,,1|(746,90)|
+10,30,Wärmekapazität,506,370,73,19,8,3,0,0,0,0,0,0
+1,31,25,30,1,0,0,0,0,64,0,-1--1--1,,1|(370,346)|
+1,32,30,20,1,0,0,0,0,64,0,-1--1--1,,1|(589,313)|
+10,33,Temperaturdiff,791,236,64,18,8,3,0,0,0,0,0,0
+1,34,20,33,1,0,0,0,0,64,0,-1--1--1,,1|(700,281)|
+1,35,23,33,1,0,0,0,0,64,0,-1--1--1,,1|(765,265)|
+1,36,33,11,1,0,0,0,0,64,0,-1--1--1,,1|(818,204)|
+10,37,Temp °C,672,407,39,13,8,131,0,0,0,0,0,0
+1,38,20,37,1,0,0,0,0,64,0,-1--1--1,,1|(610,381)|
+10,39,spez Wärmekapazität,286,420,89,21,8,3,0,0,0,0,0,0
+1,40,39,30,1,0,0,0,0,64,0,-1--1--1,,1|(334,434)|
+10,41,Aktivierungsenergie,230,268,84,19,8,3,0,0,0,0,0,0
+10,42,Frequenzfaktor,326,304,59,18,8,3,0,0,0,0,0,0
+1,43,42,16,1,0,0,0,0,64,0,-1--1--1,,1|(430,315)|
+1,44,41,16,1,0,0,0,0,64,0,-1--1--1,,1|(306,250)|
+1,45,30,11,1,0,0,0,0,64,0,-1--1--1,,1|(870,376)|
+10,46,Einheiten,793,415,39,12,8,3,0,0,0,0,0,0
+1,47,46,37,1,0,0,0,0,64,0,-1--1--1,,1|(717,439)|
+10,48,Einheit,493,331,30,12,8,3,0,0,0,0,0,0
+1,49,48,16,1,0,0,0,0,64,0,-1--1--1,,1|(497,302)|
+12,50,0,792,656,330,165,3,188,0,0,1,0,0,0
+Temperaturverlauf
+///---\\\
+:GRAPH Temperaturverlauf
+:TITLE Temperaturverlauf
+:X-AXIS Time
+:X-DIV 60
+:X-MIN 0
+:SCALE
+:VAR Temp °C
+:Y-MIN 20
+:LINE-WIDTH 2
+:L<%^E!@
+1:Current.vdf
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:2,
+34:0,
+4:Time
+5:abkühlen
+24:0
+25:240.005
+26:240.005

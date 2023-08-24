@@ -1,0 +1,64 @@
+Produkte= INTEG (
+	Verbrennung,
+		0)
+	~	
+	~		|
+
+Verbrennung=
+	Konstante
+	~	
+	~		|
+
+Konstante=
+	0.072
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 5
+	~	Minute
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Minute
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 0.5
+	~	Minute [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.5
+	~	Minute [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,200
+10,1,Produkte,279,117,40,20,3,3,0,0,0,0,0,0
+10,2,Konstante,87,59,41,12,8,3,0,0,0,0,0,0
+12,3,48,58,117,10,8,0,3,0,0,-1,0,0,0
+1,4,6,1,4,0,0,22,0,0,0,-1--1--1,,1|(202,114)|
+1,5,6,3,100,0,0,22,0,0,0,-1--1--1,,1|(111,114)|
+11,6,48,160,114,6,8,34,3,0,0,1,0,0,0
+10,7,Verbrennung,160,143,55,21,40,3,0,0,-1,0,0,0
+1,8,2,6,1,0,0,0,0,64,0,-1--1--1,,1|(150,70)|
+///---\\\
+:L<%^E!@
+9:Kerze
+15:0,0,0,0,0,0
+19:200,0
+27:2,
+5:Konstante
+24:0
+25:0
+26:0

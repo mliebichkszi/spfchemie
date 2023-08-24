@@ -1,0 +1,88 @@
+{UTF-8}
+********************************************************
+	.rueckkopplung positiv 1
+********************************************************~
+		Simulation: Peter Bützer
+	|
+
+kr=
+	0.05
+	~	1/Second [0,0.1]
+	~	Reaktionsgeschwindigkeitskonstante
+	|
+
+reagieren=
+	kr*Produkt
+	~	kJ/Second [0,?]
+	~	Reaktionsgeschwindigkeit rückgekoppelt
+	|
+
+Edukt= INTEG (
+	-reagieren,
+		4.32)
+	~	kJ [0,?]
+	~	Verfügbare Energie des Edukts, 5 ml 30% H2O2 --> 300 g/l, MG = 34 g/mol, \
+		5 ml --> 4.32 kJ
+	|
+
+Produkt= INTEG (
+	reagieren,
+		0.001)
+	~	kJ [0,?]
+	~	Der Anfangswert darf nicht Null sein, weil sonst keine Rückkopplung \
+		auftreten kann (Multiplikation mit 0!); Simulation: Peter Bützer
+	|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 240
+	~	Second
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Second
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 1
+	~	Second [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.1
+	~	Second [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,100,0
+10,1,Edukt,264,190,40,20,3,3,0,0,0,0,0,0
+10,2,Produkt,460,193,40,20,3,3,0,0,0,0,0,0
+1,3,5,2,4,0,0,22,0,0,0,-1--1--1,,1|(395,191)|
+1,4,5,1,100,0,0,22,0,0,0,-1--1--1,,1|(331,191)|
+11,5,204,364,191,6,8,34,3,0,0,1,0,0,0
+10,6,reagieren,364,213,42,14,40,131,0,0,-1,0,0,0
+10,7,kr,274,134,21,17,8,131,0,0,0,0,0,0
+1,8,7,5,1,0,0,0,0,64,0,-1--1--1,,1|(348,160)|
+1,9,2,5,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(399,151)|
+///---\\\
+:L<%^E!@
+1:C:\Dokumente und Einstellungen\Peter\Eigene Dateien\Vensim Files\Current.vdf
+9:Current
+23:0
+15:0,0,0,1,0,0
+19:100,0
+27:2,
+34:0,
+4:Time
+5:Produkt
+24:0
+25:240.005
+26:240.005

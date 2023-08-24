@@ -1,0 +1,42 @@
+K=
+	2
+	~	s/s [0,10]
+	~	Gleichgewichtskonstante K = kb/kd, falls grösser als 1 heisst das, das die \
+		Bindung rascher ist als der Zerfall und dass mehr Hb-O2 vorliegt, als Hb
+	|
+
+"Hb-Bindung"=
+	kb*Hb*pO2
+	~	mol*mol/l/l/s
+	~	Die Bindungsgeschwindigkeit ist umso grösser, je höher die Konzentration \
+		an O2 und die Konzentration von Hb ist (sie treffen sich häufiger)
+	|
+
+"Hb-O2"= INTEG (
+	"Hb-Bindung"-"HbO2-Dissoz",
+		0.1)
+	~	mol/l
+	~	Hämoglobinkonzentration von Hämoglobin, das Sauerstoff gebunden hat. Die \
+		Startkonzentration darf nicht 0 sein, daher wurde ein physiologisch \
+		unbedeutend tiefer Wert eingesetzt.
+	|
+
+pO2=
+	Time
+	~	mol/l
+	~	Der Sauerstoffdruck ist direkt proportional der Sauerstoffkonzentration p= \
+		c*R*T
+	|
+
+kd=
+	kb/K
+	~	1/s
+	~	Reaktionsgeschwindigkeitskonstante für die Disssoziation (Zerfall) von \
+		Hb-O2 in Hb und O2
+	|
+
+Hb= INTEG (
+	+"HbO2-Dissoz"-"Hb-Bindung",
+		100)
+	~	mol/l
+	~	Hämoglobinkonzentration von Hämoglobin, das noch frei ist und ke

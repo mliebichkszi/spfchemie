@@ -1,0 +1,98 @@
+"Aktivität Cs-137"= INTEG (
+	-biologische Elimination-physikalischer Zerfall,
+		1)
+	~	
+	~		|
+
+biologische Elimination=
+	k biol*"Aktivität Cs-137"
+	~	
+	~		|
+
+HWZ biol=
+	80
+	~	Day
+	~		|
+
+HWZ phys=
+	30.2*365
+	~	Day
+	~		|
+
+k biol=
+	LN(2)/HWZ biol
+	~	
+	~		|
+
+k phys=
+	LN(2)/HWZ phys
+	~	
+	~		|
+
+physikalischer Zerfall=
+	k phys*"Aktivität Cs-137"
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 365
+	~	Day
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Day
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Day [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Day [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,200
+10,1,"Aktivität Cs-137",175,219,40,20,3,3,0,0,0,0,0,0
+12,2,48,370,130,10,8,0,3,0,0,-1,0,0,0
+1,3,5,2,4,0,0,22,0,0,0,-1--1--1,,1|(314,132)|
+1,4,5,1,100,0,0,22,0,0,0,-1--1--1,,1|(175,132)|
+11,5,48,263,132,6,8,34,3,0,0,1,0,0,0
+10,6,biologische Elimination,263,162,49,22,40,3,0,0,-1,0,0,0
+12,7,48,386,311,10,8,0,3,0,0,-1,0,0,0
+1,8,10,7,4,0,0,22,0,0,0,-1--1--1,,1|(325,308)|
+1,9,10,1,100,0,0,22,0,0,0,-1--1--1,,1|(175,308)|
+11,10,48,269,308,6,8,34,3,0,0,1,0,0,0
+10,11,physikalischer Zerfall,269,338,60,22,40,3,0,0,-1,0,0,0
+10,12,HWZ biol,107,135,40,12,8,3,0,0,0,0,0,0
+10,13,HWZ phys,111,333,42,12,8,3,0,0,0,0,0,0
+10,14,k biol,197,97,25,12,8,3,0,0,0,0,0,0
+10,15,k phys,190,362,27,12,8,3,0,0,0,0,0,0
+1,16,12,14,1,0,0,0,0,64,0,-1--1--1,,1|(139,90)|
+1,17,13,15,1,0,0,0,0,64,0,-1--1--1,,1|(130,368)|
+1,18,15,10,1,0,0,0,0,64,0,-1--1--1,,1|(237,374)|
+1,19,14,5,1,0,0,0,0,64,0,-1--1--1,,1|(238,84)|
+1,20,1,5,1,0,0,0,0,64,0,-1--1--1,,1|(255,206)|
+1,21,1,10,1,0,0,0,0,64,0,-1--1--1,,1|(269,248)|
+///---\\\
+:L<%^E!@
+9:Current
+15:0,0,0,0,0,0
+19:200,0
+27:2,
+5:Aktivität Cs-137
+24:0
+25:0
+26:0

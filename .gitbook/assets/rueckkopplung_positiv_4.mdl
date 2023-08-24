@@ -1,0 +1,174 @@
+{UTF-8}
+********************************************************
+	.rueckkopplung positiv 4
+********************************************************~
+		Simulation: Peter Bützer
+	|
+
+Produkt= INTEG (
+	reagieren,
+		0.001)
+	~	kJ [0,?]
+	~	Total freigesetzte Energie = Summe aller bei der Reaktion freigesetzten \
+		Energien
+	|
+
+reagieren=
+	kr*Q10*Edukt*Katalysator
+	~	kJ/Second [0,?]
+	~	Das ist die Reaktionsgeschwindigkeit der Reaktion
+	|
+
+Katalysator=
+	0.042
+	~	Dmnl [0.021,0.063,0.021]
+	~	Katalysator
+	|
+
+Aussen Temperatur=
+	23
+	~	°C [10,30]
+	~	Anfangswert der Messung
+	|
+
+Temperatur Verlauf=
+	Tz*Einheiten+Aussen Temperatur
+	~	°C [0,?]
+	~		|
+
+Einheiten=
+	1*1
+	~	°C/K
+	~	Die Temperaturzunahme in K entspricht der Temperaturzunahme in K
+	|
+
+Basis=
+	3
+	~	Dmnl [1,3]
+	~	Die RG nimmt um einen Faktor 1-3 zu bei einer Erhöhung der Temperatur um \
+		10 K.
+	|
+
+T10=
+	10*1
+	~	K [0,?]
+	~	Pro 10 K verdoppelt sich die RG
+	|
+
+Q10=
+	Basis^(Tz/T10)
+	~	Dmnl [0,?]
+	~	RGT-Regel: Faktor um den die Geschwindigkeit bei einer Temperaturzunahme \
+		um 10 K steigt.
+	|
+
+Tz=
+	Produkt/Wärme Kapazität
+	~	K [0,?]
+	~	Temperaturzunahme der Reaktionsmischung
+	|
+
+Wärme Kapazität=
+	0.07
+	~	kJ/K [0.01,0.1]
+	~	Wärmekapazität des Reaktionsgemisches mit Gefäss
+	|
+
+kr=
+	0.11
+	~	1/Second [0.001,0.01]
+	~	Reaktions-Geschwindigkeits-Konstante k = ln(2)/HWZ, Wert aus dem Anstieg \
+		bei den Messungen, daraus leitet sich der Wert für den Katalysator ab.
+	|
+
+Edukt= INTEG (
+	-reagieren,
+		4.32)
+	~	kJ [0,?]
+	~	Verfügbare Energie des Edukts, 5 ml 30% H2O2 --> 300 g/l, MG = 34 g/mol, \
+		5 ml --> 4.32 kJ
+	|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 240
+	~	Second
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Second
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 1
+	~	Second [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.01
+	~	Second [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,100,0
+10,1,Edukt,137,306,40,20,3,3,0,0,0,0,0,0
+10,2,Produkt,361,304,40,20,3,3,0,0,0,0,0,0
+1,3,5,2,4,0,0,22,0,0,0,-1--1--1,,1|(285,304)|
+1,4,5,1,100,0,0,22,0,0,0,-1--1--1,,1|(207,304)|
+11,5,140,243,304,6,8,34,3,0,0,1,0,0,0
+10,6,reagieren,243,325,42,13,40,131,0,0,-1,0,0,0
+10,7,kr,123,232,21,17,8,131,0,0,0,0,0,0
+1,8,7,5,1,0,0,0,0,64,0,-1--1--1,,1|(185,244)|
+10,9,Wärme Kapazität,452,156,40,22,8,3,0,0,0,0,0,0
+10,10,T10,298,139,19,12,8,3,0,0,0,0,0,0
+10,11,Tz,362,191,13,12,8,3,0,0,0,0,0,0
+10,12,Q10,255,228,29,13,8,131,0,0,0,0,0,0
+1,13,12,5,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(246,261)|
+1,14,11,12,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(298,202)|
+1,15,2,11,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(361,253)|
+1,16,10,12,1,0,0,0,0,64,0,-1--1--1,,1|(290,174)|
+1,17,9,11,1,0,0,0,0,64,0,-1--1--1,,1|(384,159)|
+10,18,Basis,213,144,24,12,8,3,0,0,0,0,0,0
+1,19,18,12,1,0,0,0,0,64,0,-1--1--1,,1|(237,182)|
+1,20,1,5,1,0,0,0,0,64,0,-1--1--1,,1|(189,266)|
+10,21,Temperatur Verlauf,589,178,48,22,8,3,0,0,0,0,0,0
+1,22,11,21,1,0,0,0,0,64,0,-1--1--1,,1|(483,195)|
+10,23,Aussen Temperatur,529,88,48,29,8,131,0,0,0,0,0,0
+1,24,23,21,1,0,0,0,0,64,0,-1--1--1,,1|(594,113)|
+10,25,Einheiten,677,119,39,12,8,3,0,0,0,0,0,0
+1,26,25,21,1,0,0,0,0,64,0,-1--1--1,,1|(652,164)|
+12,27,0,864,451,300,188,3,188,0,0,1,0,0,0
+Temperaturverlauf
+10,28,Katalysator,101,169,48,12,8,3,0,0,0,0,0,0
+1,29,28,5,1,0,0,0,0,64,0,-1--1--1,,1|(200,200)|
+///---\\\
+:GRAPH Temperaturverlauf
+:TITLE Temperaturverlauf
+:X-AXIS Time
+:X-DIV 8
+:Y-DIV 9
+:SCALE
+:VAR Temperatur Verlauf
+:Y-MAX 90
+:LINE-WIDTH 2
+:L<%^E!@
+1:Current.vdf
+9:Current
+23:0
+15:0,0,0,1,0,0
+19:100,0
+27:2,
+34:0,
+4:Time
+5:Produkt
+24:0
+25:239.947
+26:239.947

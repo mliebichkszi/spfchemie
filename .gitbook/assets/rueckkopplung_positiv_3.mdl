@@ -1,0 +1,138 @@
+{UTF-8}
+********************************************************
+	.rueckkopplung positiv 3
+********************************************************~
+		Simulation: Peter Bützer
+	|
+
+reagieren=
+	kr*Q10*Edukt*Katalysator
+	~	kJ/Second [0,?]
+	~	Reaktionsgeschwindigkeit
+	|
+
+Katalysator=
+	0.042
+	~	Dmnl [0.021,0.063,0.021]
+	~		|
+
+Basis=
+	3
+	~	Dmnl [1,3]
+	~	Die RG nimmt um einen Faktor 1-3 zu bei einer Erhöhung der Temperatur um \
+		10 K. Das ist diese Basis 1-3.
+	|
+
+T10=
+	10*1
+	~	K [0,?]
+	~	Pro 10 K verdoppelt sich die RG
+	|
+
+Q10=
+	Basis^(Tp/T10)
+	~	Dmnl [0,?]
+	~	RGT-Regel: Faktor um den die Geschwindigkeit bei einer Temperaturzunahme \
+		um 10 K steigt.
+	|
+
+Tp=
+	Produkt/Wärme Kapazität
+	~	K [0,?]
+	~		|
+
+Wärme Kapazität=
+	0.07
+	~	kJ/K [0.01,0.1]
+	~	Wärmekapazität des Reaktionsgemisches mit dem Gefäss
+	|
+
+kr=
+	0.11
+	~	1/Second [0.001,0.01]
+	~	Reaktions-Geschwindigkeits-Konstante k = ln(2)/HWZ, Wert aus dem Anstieg \
+		bei den Messungen, daraus leitet sich der Wert für den Katalysator ab.
+	|
+
+Edukt= INTEG (
+	-reagieren,
+		4.32)
+	~	kJ [0,?]
+	~	Verfügbare Energie des Edukts, 5 ml 30% H2O2 --> 300 g/l, MG = 34 g/mol, \
+		5 ml --> 4.32 kJ
+	|
+
+Produkt= INTEG (
+	reagieren,
+		0.001)
+	~	kJ [0,?]
+	~	Total freigesetzte Energie = Summe aller bei der Reaktion freigesetzten \
+		Energien; Simulation: Peter Bützer
+	|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 300
+	~	Second
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Second
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Second [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.1
+	~	Second [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|120,120,100,0
+10,1,Edukt,105,233,40,20,3,3,0,0,0,0,0,0
+10,2,Produkt,329,231,40,20,3,3,0,0,0,0,0,0
+1,3,5,2,4,0,0,22,0,0,0,-1--1--1,,1|(253,231)|
+1,4,5,1,100,0,0,22,0,0,0,-1--1--1,,1|(175,231)|
+11,5,332,211,231,6,8,34,3,0,0,1,0,0,0
+10,6,reagieren,211,252,43,13,40,131,0,0,-1,0,0,0
+10,7,kr,114,155,21,17,8,131,0,0,0,0,0,0
+1,8,7,5,1,0,0,0,0,64,0,-1--1--1,,1|(167,168)|
+10,9,Wärme Kapazität,402,104,40,22,8,3,0,0,0,0,0,0
+10,10,T10,250,72,19,12,8,3,0,0,0,0,0,0
+10,11,Tp,304,126,13,12,8,3,0,0,0,0,0,0
+10,12,Q10,224,147,19,18,8,131,0,0,0,0,0,0
+1,13,12,5,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(210,173)|
+1,14,11,12,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(268,114)|
+1,15,2,11,1,0,0,13,3,64,0,255-0-0,|12||0-0-0,1|(352,181)|
+1,16,10,12,1,0,0,0,0,64,0,-1--1--1,,1|(245,102)|
+1,17,9,11,1,0,0,0,0,64,0,-1--1--1,,1|(330,92)|
+10,18,Basis,167,83,24,12,8,3,0,0,0,0,0,0
+1,19,18,12,1,0,0,0,0,64,0,-1--1--1,,1|(197,112)|
+1,20,1,5,1,0,0,0,0,64,0,-1--1--1,,1|(157,193)|
+10,21,Katalysator,61,105,48,12,8,3,0,0,0,0,0,0
+1,22,21,5,1,0,0,0,0,64,0,-1--1--1,,1|(161,127)|
+///---\\\
+:L<%^E!@
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:2,
+34:0,
+4:Time
+5:Basis
+24:0
+25:300.009
+26:300.009
