@@ -57,6 +57,10 @@
 * [Aufgaben zu Nanotechnologie](nanotechnologie/aufgaben-zu-nanotechnologie.md)
 * [News zur Nanotechnologie](nanotechnologie/news-zur-nanotechnologie.md)
 
+## Komplexchemie
+
+* [🦎 Komplexchemie](komplexchemie/komplexchemie.md)
+
 ## ⚗ Synthesen
 
 * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
