@@ -59,7 +59,8 @@
 
 ## Komplexchemie
 
-* [🦎 Komplexchemie](komplexchemie/komplexchemie.md)
+* [Komplex-Verbindungen](komplexchemie/komplex-verbindungen.md)
+* [Geschichte](komplexchemie/geschichte.md)
 
 ## ⚗ Synthesen
 
