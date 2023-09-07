@@ -45,7 +45,7 @@
   * [Das NO2/N2O4 - Gleichgewicht](thermodynamik/systemdynamik/das-no2-n2o4-gleichgewicht.md)
   * [Katalyse](thermodynamik/systemdynamik/katalyse.md)
 
-## Nanotechnologie
+## 🧑🔬 Nanotechnologie
 
 * [Der Nano-Bereich](nanotechnologie/der-nano-bereich.md)
 * [Das AFM](nanotechnologie/das-afm.md)
@@ -57,9 +57,11 @@
 * [Aufgaben zu Nanotechnologie](nanotechnologie/aufgaben-zu-nanotechnologie.md)
 * [News zur Nanotechnologie](nanotechnologie/news-zur-nanotechnologie.md)
 
-## Komplexchemie
+## 🩸 Komplexchemie
 
 * [Einführung](komplexchemie/einfuehrung.md)
+* [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
+* [Wie sich Komplex-Ionen bilden](komplexchemie/wie-sich-komplex-ionen-bilden.md)
 * [Geschichte](komplexchemie/geschichte.md)
 * [Hämoglobin](komplexchemie/haemoglobin.md)
 
