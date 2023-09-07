@@ -60,10 +60,9 @@
 ## 🩸 Komplexchemie
 
 * [Einführung](komplexchemie/einfuehrung.md)
-* [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
-* [Wie sich Komplex-Ionen bilden](komplexchemie/wie-sich-komplex-ionen-bilden.md)
-* [Geschichte](komplexchemie/geschichte.md)
 * [Hämoglobin](komplexchemie/haemoglobin.md)
+* [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
+* [Nomenklatur von Komplexen](komplexchemie/nomenklatur-von-komplexen.md)
 
 ## ⚗ Synthesen
 
