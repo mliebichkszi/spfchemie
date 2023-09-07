@@ -59,9 +59,9 @@
 
 ## Komplexchemie
 
-* [Komplex-Verbindungen](komplexchemie/komplex-verbindungen.md)
+* [Einführung](komplexchemie/einfuehrung.md)
 * [Geschichte](komplexchemie/geschichte.md)
-* [Page](komplexchemie/page.md)
+* [Hämoglobin](komplexchemie/haemoglobin.md)
 
 ## ⚗ Synthesen
 
