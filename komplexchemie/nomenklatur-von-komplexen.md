@@ -129,6 +129,8 @@ Weil es sich bei dem Komplex um ein Anion handelt, wird das Metall als Nickelat(
 
 ## Übungen
 
+{% embed url="https://learningapps.org/20809594" %}
+
 <details>
 
 <summary>Es soll ein Komplex mit einem Eisen(III)-Ion als Zentralteilchen und insgesamt 6 Liganden gebildet werden. Davon sind 2 Chlorid-Ionen und 4 Wasser-Moleküle.</summary>
@@ -168,3 +170,4 @@ $$\mathrm{Na}\left[\mathrm{Ru}\left(\mathrm{H}_2 \mathrm{O}\right)_2\left(\mathr
 
 
 </details>
+
