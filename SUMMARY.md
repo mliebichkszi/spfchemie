@@ -63,6 +63,7 @@
 * [Hämoglobin](komplexchemie/haemoglobin.md)
 * [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
 * [Nomenklatur von Komplexen](komplexchemie/nomenklatur-von-komplexen.md)
+* [Warum sind Komplexe farbig?](komplexchemie/warum-sind-komplexe-farbig.md)
 
 ## ⚗ Synthesen
 
