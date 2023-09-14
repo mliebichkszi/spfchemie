@@ -62,8 +62,11 @@
 * [Einführung](komplexchemie/einfuehrung.md)
 * [Hämoglobin](komplexchemie/haemoglobin.md)
 * [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
+* [Die Metall-Ligand-Bindung](komplexchemie/die-metall-ligand-bindung.md)
+* [Struktur von Komplexen](komplexchemie/struktur-von-komplexen.md)
+* [Metalle und Chelatkomplexe in lebendingen Systemen](komplexchemie/metalle-und-chelatkomplexe-in-lebendingen-systemen.md)
 * [Nomenklatur von Komplexen](komplexchemie/nomenklatur-von-komplexen.md)
-* [Warum sind Komplexe farbig?](komplexchemie/warum-sind-komplexe-farbig.md)
+* [Isomere](komplexchemie/isomere.md)
 
 ## ⚗ Synthesen
 

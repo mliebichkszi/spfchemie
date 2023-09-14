@@ -1,4 +1,10 @@
-# Komplex-Verbindungen
+---
+description: >-
+  Brown, Theodore L.; LeMay, H. Eugene; Bursten, Bruce E.. Chemie: Studieren
+  kompakt (Pearson Studium - Chemie) (German Edition)
+---
+
+# Einführung
 
 Löst man Salze in Wasser, so werden die ursprünglichen Coulomb-Kräfte zwischen den entgegengesetzt geladenen Ionen durch Wechselwirkungen zwischen den einzelnen Ionen und Wasser-Molekülen ersetzt. Die Ionen werden durch Wasser-Moleküle hydratisiert. Dabei bilden sich neue, etwas grössere kleinste Teilchen aus, sogenannte <mark style="background-color:yellow;">Komplex-Verbindungen</mark>.
 
@@ -40,12 +46,6 @@ Eine Komplex-Verbindung besteht aus einem Zentral-Ion und mehreren Liganden. Die
 | Ligand                 | Ion oder Molekül um Zentral-Ion                                                                  |                                                                             |
 | Koordinations-Zahl     | Anzahl Atome, die an das Zentral-Ion gebunden sind.                                              | Meisten 2, 4 oder 6.                                                        |
 | Koordinations-Polyeder | Polyeder, das entsteht, wenn man die an das Zentral-Ion gebundenen Atome durch Linien verbindet. | Bei 6 Liganden Oktaeder, bei 4 Liganden ein Quadrat, bei 2 Liganden linear. |
-
-
-
-
-
-
 
 
 

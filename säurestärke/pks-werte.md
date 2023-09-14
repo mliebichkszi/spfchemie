@@ -24,7 +24,7 @@ Das Methyl-Anion reagiert mit Wasser zu Methan und Hydroxid-Ionen. Methan hat ei
 {% tab title="Übung" %}
 Betrachte die folgende pKs- Tabelle. Versuche, die unterschiedlichen pKs-Werte auf molekularer Ebene zu begründen.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -36,13 +36,13 @@ Betrachte die folgende pKs- Tabelle. Versuche, die unterschiedlichen pKs-Werte a
 
 Betrachten wir die pKs-Werte der Hydride der ersten Periode:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
 
 Offenbar sinkt der pKs-Wert mit zunehmender Elektronegativität des an das azide H-Atom gebundene Element. HF ist also die stärkste Säure in dieser Gruppe.
 
 Betrachten wir jetzt die Hauptgruppe 7:
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Hydride der Hauptgruppe 7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Hydride der Hauptgruppe 7</p></figcaption></figure>
 
 Erstaunlicherweise nimmt die Säurestärke nach unten zu, obwohl die Elektronegativität abnimmt. Der Grund liegt in der abnehmenden Bindungsstärke. Die Elektronen der konjugierten Base können zudem über einen grösseren Raum verteilt werden, was stabilisierend wirkt (das kennen wir bereits von der Anregung von Molekülen mit delokalisierten Systemen :smile:).
 
@@ -82,7 +82,7 @@ Ist Cyclohexanol oder Phenol eine stärkere Säure?
 Cyclohexanol hat einen pKs-Wert von 16, Phenol einen pKs-Wert von 10. Bei Cyclohexanol sind die Elektronen auf das Sauerstoff-Atom verteilt, bei Phenol über den gesamten Ring delokalisiert:\
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -95,6 +95,6 @@ Phenol hat einen pKs von 10. _p_-Nitrophenol hat einen pKs von 7.14. Wie erklär
 Die Elektronen in _p_-Nitrophenol können über ein grösseres System verteilt werden:\
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
