@@ -135,7 +135,7 @@ Weil es sich bei dem Komplex um ein Anion handelt, wird das Metall als Nickelat(
 
 <summary>Es soll ein Komplex mit einem Eisen(III)-Ion als Zentralteilchen und insgesamt 6 Liganden gebildet werden. Davon sind 2 Chlorid-Ionen und 4 Wasser-Moleküle.</summary>
 
-
+$$[Fe(H_20)_4Cl_2]^+$$
 
 </details>
 
@@ -143,7 +143,7 @@ Weil es sich bei dem Komplex um ein Anion handelt, wird das Metall als Nickelat(
 
 <summary>Benennen Sie die folgenden Komplexe:<br><span class="math">\left[\mathrm{Ag}\left(\mathrm{NH}_3\right)_2\right] \mathrm{Cl}</span>, <span class="math">\left[\underline{\left.\mathrm{Co}\left(\mathrm{NH}_3\right)_3 \mathrm{Cl}_3\right]}\right.</span>, <span class="math">\mathrm{K}_3\left[\mathrm{CuCl}_4\right]</span>, <span class="math">\mathrm{K}_2\left[\mathrm{Hg}(\mathrm{CN})_4\right]</span></summary>
 
-
+Silberdiamminchlorid, Trichlorotriammincobalt(III), Kaliumtetrachlorocuprat(I), Kaliumtetracyanomercurat(II)
 
 </details>
 
@@ -167,7 +167,13 @@ $$\mathrm{Na}\left[\mathrm{Ru}\left(\mathrm{H}_2 \mathrm{O}\right)_2\left(\mathr
 
 <summary>Notieren Sie dir Fomeln für die folgenden Komplex-Namen:<br><strong>Diamminsilber(I)-Ion,</strong> Hexaamminnickel(II)-chlorid, Quecksilbertetrathiocyanato-cobaltat(II), Tetraaquadichlorocobalt(III)-Ion</summary>
 
+$$[Ag(NH_3)_2]^{+}$$
 
+$$[Ni(NH_3)_6]Cl_2$$
+
+$$[Co(Hg(SCN)_4)]$$
+
+$$[Co(H_2O)_4Cl_2]^{+}$$
 
 </details>
 
