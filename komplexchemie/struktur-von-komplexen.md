@@ -60,7 +60,9 @@ Chelatbildner wie EDTA werden in Verbrauchsprodukten eingesetzt (z.B. in vielen 
 
 
 
+### Verwendung von Komplexen zur Abwasser-Reinigung
 
+{% file src="../.gitbook/assets/komplexierung.pdf" %}
 
 
 
