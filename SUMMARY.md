@@ -66,6 +66,8 @@
 * [Metalle und Chelatkomplexe in lebendingen Systemen](komplexchemie/metalle-und-chelatkomplexe-in-lebendingen-systemen/README.md)
   * [Hämoglobin](komplexchemie/metalle-und-chelatkomplexe-in-lebendingen-systemen/haemoglobin.md)
 * [Nomenklatur von Komplexen](komplexchemie/nomenklatur-von-komplexen.md)
+* [🥼 Labor](komplexchemie/labor.md)
+* [Farbigkeit von Komplexen](komplexchemie/farbigkeit-von-komplexen.md)
 * [Isomere](komplexchemie/isomere.md)
 
 ## ⚗ Synthesen
