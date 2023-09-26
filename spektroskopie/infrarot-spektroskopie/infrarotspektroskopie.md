@@ -21,7 +21,7 @@ Der Proportionalitätsfaktor $$\mathcal{\varepsilon}_\lambda$$ heißt _molarer E
 
 Oft interessiert das Absorptionsverhalten in einem größeren Spektral­bereich. Dazu misst man mit einem _Spektralphotometer_ die Extinktion einer Probe bei unterschiedlichen Wellenlängen. Trägt man in einem Diagramm die Extinktion in Abhängigkeit von der Wellenlänge auf, so erhält man das **Absorptionsspektrum** des Stoffes.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Anregung durch Wechselwirkung mit elektromagnetischer Strahlung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Anregung durch Wechselwirkung mit elektromagnetischer Strahlung</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Wechselwirkung von Licht und Materie</p></figcaption></figure>
 

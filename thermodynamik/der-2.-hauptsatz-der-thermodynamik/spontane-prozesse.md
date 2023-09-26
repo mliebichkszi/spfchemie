@@ -37,7 +37,7 @@ Mit dem 1. Hauptsatz wird nicht klar, wie stark der Austausch zwischen System un
 
 Ob ein Prozess spontan oder nicht spontan abläuft, hängt von der Umgebung ab. Eis bildet sich bspw. spontan bei Temperaturen unter 0° C, die Verflüssigung ist jetzt nicht mehr spontan.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Aufgabe 1" %}
