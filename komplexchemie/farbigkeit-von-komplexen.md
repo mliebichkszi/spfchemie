@@ -61,10 +61,47 @@ Wir wollen das etwas genauer am Beispiel der oktaedrischen Komplexe von Eisen(II
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+Das Bild oben zeigt das Energieschema der 3d-Orbitale des Zentralteilchens $$Fe^{2+}$$. Im freien  Zentralteilchen (links) sind die d-Orbitale fünffach entartet, haben also alle gleiche Energie (links). Wenn sich die sechs Liganden nähern, steigt aufgrund der Abstoßung deren Energie (Mitte). Nach Einklinken der Liganden spalten die d-Orbitale in zwei Gruppen auf (rechts). Die $$d_g$$-Gruppe hat eine höhere und die $$d_e$$-Gruppe eine niedrigere Energie. Die Energiedifferenz D ("Kristallfeldaufspaltungsenergie") zwischen den beiden d-Orbitalgruppen entscheidet darüber, welche Komplextypen gebildet werden. Ist die Differenz D gering, so verteilen sich die 3d-Elektronen gleichmässig über beide d-Orbitalgruppen. Es bildet sich ein Anlagerungs-, Outer-orbital- bzw. High-spin-Komplex. (Das zeigt das obere Bild.) Ist die Differenz D gross, so ist es günstiger, wenn sich alle 3d-Elektronen in der energetisch tiefgelegenen de-Orbitalgruppe versammeln. In diesem Fall bildet sich ein Durchdringungs-, Inner-orbital- bzw. Low-spin-Komplex.
+
+&#x20;                                                                   $$\left[\mathrm{Fe}^{\mathrm{II}}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{2+}$$&#x20;
+
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>High-spin-Komplex Outer-orbital-Komplex Anlagerungs-Komplex hoch paramagnetisch</p></figcaption></figure>
+
+&#x20;                                                                      $$\left[\mathrm{Fe}^{\mathrm{Il}}(\mathrm{CN})_6\right]^{4^{-}}$$
+
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>Low-spin-Komplex Inner-orbital-Komplex Durchdringungs-Komplex nicht paramagnetisch</p></figcaption></figure>
+
+### Die spektroskopische Ligandenreihe
+
+Auf welche Art sich ein bestimmter Ligand auf die Aufspaltung der d-Orbitale auswirkt, muss empirisch untersucht werden. Das hängt direkt zusammen mit der experimentellen Bestimmung der Differenz D. Dies geschieht spektroskopisch. Man untersucht dabei, wie unter Einstrahlung von UV oder sichtbarem Licht Elektronen aus dem de- in das dg-Orbital gehoben werden. Das setzt voraus, dass sich im dg-Orbital freie Plätze befinden.\
+Die Farbigkeit der Komplexe sagt also grob etwas über die Grösse von D aus. Zum Beispiel ist der Aqua-Komplex von Fe(II) blassgrün (absorbiert also Orange), der Cyano-Komplex ist gelb (absorbiert also Violett). Ersterer benötigt zur Anregung der d-Elektronen also eine geringere Energie D (längerwellige Strahlung) als der andere (kurzwelligere Strahlung). Farblose Komplexe lassen sich nur spektroskopisch beurteilen, da sie UV- (grosses D) oder IR-aktiv (sehr kleines D) sein können.\
+Ein anderes bekanntes Beispiel: Der hellblaugrüne Komplex $$\left[\mathrm{Cu}\left(\mathrm{H}_2 \mathrm{O}\right)_4\right]^{2+}$$ hat sein Absorptionsmaximum bei der Komplementärfarbe Rot, also bei 800 nm. Der dunkelblaue Komplex $$\left[\mathrm{Cu}\left(\mathrm{NH}_3\right)_4\right]^{2+}$$ absorbiert dagegen bei Orange, nämlich um 600 nm. Das zeigt, dass die Einwirkung von Ammoniak auf das Zentralfeld des $$\mathrm{Cu}^{2+}$$-Ions stärker ist als die des Wassers. Ammoniak hat also ein stärkeres Ligandenfeld oder ein grösseres D.
+
+\
+Mit solchen Erkenntnissen kann man eine **spektroskopische Ligandenreihe** aufbauen. Im folgenden Beispiel sind einige bekannte Liganden entsprechend ihrer Wirkung von schwach nach stark eingeordnet.
+
 Die Grösse der Energielücke (ΔE oder auch nur Δ) und damit die Farbe des Komplexes hängen sowohl vom Metall als auch von den Liganden ab. Liganden können in der Reihenfolge ihrer Fähigkeit geordnet werden, die Energielücke zu erhöhen. Im Folgenden sind einige häufig auftretende Liganden in der Reihenfolge eines ansteigenden Werts von Δ aufgeführt:
 
 $$\mathrm{SCN}^{-}<\mathrm{Cl}^{-}<\mathrm{F}^{-}<\mathrm{H}_2 \mathrm{O}<\mathrm{NH}_3<\mathrm{en}^{-} \mathrm{CN}^{-}$$
 
-Eine derartige Auflistung wird spektrochemische Reihe genannt. Die Grösse von Δ steigt in der spektrochemischen Reihe von links nach rechts etwa um den Faktor 2 an. Liganden, die auf der linken Seite stehen, werden als schwache Liganden, solche auf der rechten Seite als starke Liganden bezeichnet. Je grösser die Energielücke Δ ist, desto grösser muss die Frequenz des Lichts für die Anregung der Elektronen sein.\
+Eine derartige Auflistung wird spektrochemische Reihe genannt. Die Grösse von Δ steigt in der spektrochemischen Reihe von links nach rechts etwa um den Faktor 2 an. Liganden, die auf der linken Seite stehen, werden als schwache Liganden, solche auf der rechten Seite als starke Liganden bezeichnet. Je grösser die Energielücke Δ ist, desto grösser muss die Frequenz des Lichts für die Anregung der Elektronen sein.
+
+## Ligandenfeldtheorie
+
+Bei der Kristallfeldtheorie werden die Bindungen zwischen Zentralteilchen und Liganden als rein ionisch angenommen. Damit kann man zwar vieles erklären, nicht aber die spektroskopische Ligandenreihe. Es ist einzusehen, dass das $$F^-$$-Ion als kleine Punktladung ein stärkeres elektrostatisches Feld als ein $$Br^-$$-Ion und eine größere Aufspaltung D bewirkt. Wie erklärt man dann aber die Auswirkung von $$NH_3$$ auf die inneren Orbitale? So ist das grüne $$\left[\mathrm{CoF}_6\right]^{3^{-}}$$ ein Outer-orbital- bzw. High-spin-Komplex, das gelbe $$\left[\mathrm{Co}\left(\mathrm{NH}_3\right)_6\right]^{3+}$$ dagegen ein Inner-orbital- bzw. Low-spin-Komplex.
+
+Man muss offensichtlich auch die energetische Wechselwirkung der Molekülorbitale des Liganden mit den Orbitalen des Zentral-Ions und die Bildung der bindenden, nichtbindenden und antibindenden s-Molekülorbitale (MO) der gesamten Komplexeinheit mit berücksichtigen. Das tut die **Ligandenfeldtheorie**, auf die wir in dieser Webseitensammlung nicht weiter eingehen wollen. Kurzgesagt ist sie aber nichts anderes als die Anwendung der Regeln der MO-Theorie auf die Bildung von Komplexen.
+
+\
+
+
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption><p><em>Termschema von oktaedrischen Komplexen nach der Ligandenfeldtheorie</em></p></figcaption></figure>
+
+Dennoch zeigen wir hier das Termschema von oktaedrischen Fe(II)-High-Spin-Komplexen. Links stehen die Atomorbitale (AO) des Zentralteilchens $$Fe^{2+}$$, rechts die sechs Molekülorbitale (MO) eines Liganden wie z. B. $$F^-$$ oder $$H_2O$$. Es handelt sich um nichtbindende Elektronenpaare. Beim $$H_2O$$ sind dies s-Orbitale.
+
+\
+Die AOs und die MOs kombinieren zu den sechs bindenden s-Orbitalen des Komplexes: sd, sp und ss (Mitte). Von den antibindenden Orbitalen s\* sind die zu sp und ss gehörenden leer, üben also keinen störenden Einfluss auf die s-Bindungen zwischen Zentralteilchen und Liganden aus.
+
+Die d-Elektronen des Zentralteilchens nehmen nicht an der Komplexbildung teil, denn sie befinden sich im **nichtbindenden t2g-Orbital** und im **antibindenden eg-Orbital**, dem s\*d. Sie sind in unserem Beispiel durch ein kleines D getrennt. Deshalb sind nach der Hundschen Regel beide besetzt. Damit lassen sie aber auch keinen Platz für Liganden-Elektronen. Hinzu kommt, dass das antibindende eg-Orbital die sd-Bindung lockert. Insgesamt ist der Komplex relativ instabil; es handelt sich also um einen Outer-orbital- oder Anlagerungskomplex.\
 
 
