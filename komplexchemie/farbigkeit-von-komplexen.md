@@ -77,6 +77,10 @@ Auf welche Art sich ein bestimmter Ligand auf die Aufspaltung der d-Orbitale aus
 Die Farbigkeit der Komplexe sagt also grob etwas über die Grösse von D aus. Zum Beispiel ist der Aqua-Komplex von Fe(II) blassgrün (absorbiert also Orange), der Cyano-Komplex ist gelb (absorbiert also Violett). Ersterer benötigt zur Anregung der d-Elektronen also eine geringere Energie D (längerwellige Strahlung) als der andere (kurzwelligere Strahlung). Farblose Komplexe lassen sich nur spektroskopisch beurteilen, da sie UV- (grosses D) oder IR-aktiv (sehr kleines D) sein können.\
 Ein anderes bekanntes Beispiel: Der hellblaugrüne Komplex $$\left[\mathrm{Cu}\left(\mathrm{H}_2 \mathrm{O}\right)_4\right]^{2+}$$ hat sein Absorptionsmaximum bei der Komplementärfarbe Rot, also bei 800 nm. Der dunkelblaue Komplex $$\left[\mathrm{Cu}\left(\mathrm{NH}_3\right)_4\right]^{2+}$$ absorbiert dagegen bei Orange, nämlich um 600 nm. Das zeigt, dass die Einwirkung von Ammoniak auf das Zentralfeld des $$\mathrm{Cu}^{2+}$$-Ions stärker ist als die des Wassers. Ammoniak hat also ein stärkeres Ligandenfeld oder ein grösseres D.
 
+
+
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
 \
 Mit solchen Erkenntnissen kann man eine **spektroskopische Ligandenreihe** aufbauen. Im folgenden Beispiel sind einige bekannte Liganden entsprechend ihrer Wirkung von schwach nach stark eingeordnet.
 
