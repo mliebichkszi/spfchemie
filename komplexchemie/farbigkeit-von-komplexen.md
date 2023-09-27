@@ -77,7 +77,7 @@ Auf welche Art sich ein bestimmter Ligand auf die Aufspaltung der d-Orbitale aus
 Die Farbigkeit der Komplexe sagt also grob etwas über die Grösse von D aus. Zum Beispiel ist der Aqua-Komplex von Fe(II) blassgrün (absorbiert also Orange), der Cyano-Komplex ist gelb (absorbiert also Violett). Ersterer benötigt zur Anregung der d-Elektronen also eine geringere Energie D (längerwellige Strahlung) als der andere (kurzwelligere Strahlung). Farblose Komplexe lassen sich nur spektroskopisch beurteilen, da sie UV- (grosses D) oder IR-aktiv (sehr kleines D) sein können.\
 Ein anderes bekanntes Beispiel: Der hellblaugrüne Komplex $$\left[\mathrm{Cu}\left(\mathrm{H}_2 \mathrm{O}\right)_4\right]^{2+}$$ hat sein Absorptionsmaximum bei der Komplementärfarbe Rot, also bei 800 nm. Der dunkelblaue Komplex $$\left[\mathrm{Cu}\left(\mathrm{NH}_3\right)_4\right]^{2+}$$ absorbiert dagegen bei Orange, nämlich um 600 nm. Das zeigt, dass die Einwirkung von Ammoniak auf das Zentralfeld des $$\mathrm{Cu}^{2+}$$-Ions stärker ist als die des Wassers. Ammoniak hat also ein stärkeres Ligandenfeld oder ein grösseres D.
 
-
+<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption><p>Goethes Farbrad (1810)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
@@ -109,3 +109,30 @@ Die AOs und die MOs kombinieren zu den sechs bindenden s-Orbitalen des Komplexes
 Die d-Elektronen des Zentralteilchens nehmen nicht an der Komplexbildung teil, denn sie befinden sich im **nichtbindenden t2g-Orbital** und im **antibindenden eg-Orbital**, dem s\*d. Sie sind in unserem Beispiel durch ein kleines D getrennt. Deshalb sind nach der Hundschen Regel beide besetzt. Damit lassen sie aber auch keinen Platz für Liganden-Elektronen. Hinzu kommt, dass das antibindende eg-Orbital die sd-Bindung lockert. Insgesamt ist der Komplex relativ instabil; es handelt sich also um einen Outer-orbital- oder Anlagerungskomplex.\
 
 
+<details>
+
+<summary>Zeichne ein Energiediagramm mit der Energielücke von den folgenden Komplexen: <br><span class="math">\left[\mathrm{CrF}_6\right]^{3-}</span> <span class="math">\left[\mathrm{Cr}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+},\left[\mathrm{Cr}\left(\mathrm{NH}_3\right)_6\right]^{3+} \text { und }\left[\mathrm{Cr}(\mathrm{CN})_6\right]^{3-} .</span></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Welche der folgenden Komplexe des Ti3+ zeigen im sichtbaren Spektrum die Absorption bei der kürzesten Wellenlänge?<br><span class="math">\left[\mathrm{Ti}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+},\left[\mathrm{Ti}(\mathrm{en})_3\right]^{3+} \operatorname{oder}\left[\mathrm{TiCl}_6\right]^{3-}</span> ?</summary>
+
+Gemäss der spektroskopischen Reihe ist Cl− der Ligand mit dem geringsten Einfluss. $$H_2O$$ hat demgegenüber eine grössere Aufspaltung zur Folge und en die grösste. Eine kurze Wellenlänge bedeutet, dass die Übergang verhältnismässig energiereich ist. Daher korreliert die Absorption der kürzesten Wellenlänge mit dem Aufspaltung im Komplex
+
+</details>
+
+<details>
+
+<summary>Nachfolgend sind drei verschiedene Eisen(III)-Komplexe in Lösung gezeigt. Die drei Komplexe sind:<br><span class="math">\left[\mathrm{Fe}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+},\left[\mathrm{FeF}_6\right]^{3-} \text { und }\left[\mathrm{Fe}(\mathrm{SCN})_6\right]^{3-}</span><br>Ordnen Sie diese drei Komplexe der richtigen Lösung zu und begründen Sie die Zuordnung<br><br>.<img src="../.gitbook/assets/image (123).png" alt=""><br></summary>
+
+farblos: \[FeF6]3−. Grund: die Aufspaltung durch die 6 F−-Liganden ist so gross, dass nicht im farbigen Bereich absorbiert wird. \
+\
+gelb: \[Fe(H2O)6]3+. Grund: Die 6 H2O-Liganden erzeugen eine verhältnismässig grosse Aufspaltung, so dass nur knapp im sichtbaren Bereich, nämlich im violetten Bereich, absorbiert wird.\
+\
+rot: \[Fe(SCN)6]3−. Grund: Mit den 6 Schwachfeld-Liganden SCN−, wird nur eine kleine Aufspaltung erreicht. Es wird im bläulich-gründen Bereich absorbiert.
+
+</details>
