@@ -61,7 +61,7 @@ Wir wollen das etwas genauer am Beispiel der oktaedrischen Komplexe von Eisen(II
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Das Bild oben zeigt das Energieschema der 3d-Orbitale des Zentralteilchens $$Fe^{2+}$$. Im freien  Zentralteilchen (links) sind die d-Orbitale fünffach entartet, haben also alle gleiche Energie (links). Wenn sich die sechs Liganden nähern, steigt aufgrund der Abstoßung deren Energie (Mitte). Nach Einklinken der Liganden spalten die d-Orbitale in zwei Gruppen auf (rechts). Die $$d_g$$-Gruppe hat eine höhere und die $$d_e$$-Gruppe eine niedrigere Energie. Die Energiedifferenz D ("Kristallfeldaufspaltungsenergie") zwischen den beiden d-Orbitalgruppen entscheidet darüber, welche Komplextypen gebildet werden. Ist die Differenz D gering, so verteilen sich die 3d-Elektronen gleichmässig über beide d-Orbitalgruppen. Es bildet sich ein Anlagerungs-, Outer-orbital- bzw. High-spin-Komplex. (Das zeigt das obere Bild.) Ist die Differenz D gross, so ist es günstiger, wenn sich alle 3d-Elektronen in der energetisch tiefgelegenen de-Orbitalgruppe versammeln. In diesem Fall bildet sich ein Durchdringungs-, Inner-orbital- bzw. Low-spin-Komplex.
+Das Bild oben zeigt das Energieschema der 3d-Orbitale des Zentralteilchens $$Fe^{2+}$$. Im freien  Zentralteilchen (links) sind die d-Orbitale fünffach entartet, haben also alle gleiche Energie (links). Wenn sich die sechs Liganden nähern, steigt aufgrund der Abstossung deren Energie (Mitte). Nach Einklinken der Liganden spalten die d-Orbitale in zwei Gruppen auf (rechts). Die $$d_g$$-Gruppe hat eine höhere und die $$d_e$$-Gruppe eine niedrigere Energie. Die Energiedifferenz D ("Kristallfeldaufspaltungsenergie") zwischen den beiden d-Orbitalgruppen entscheidet darüber, welche Komplextypen gebildet werden. Ist die Differenz D gering, so verteilen sich die 3d-Elektronen gleichmässig über beide d-Orbitalgruppen. Es bildet sich ein Anlagerungs-, Outer-orbital- bzw. High-spin-Komplex. (Das zeigt das obere Bild.) Ist die Differenz D gross, so ist es günstiger, wenn sich alle 3d-Elektronen in der energetisch tiefgelegenen de-Orbitalgruppe versammeln. In diesem Fall bildet sich ein Durchdringungs-, Inner-orbital- bzw. Low-spin-Komplex.
 
 &#x20;                                                                   $$\left[\mathrm{Fe}^{\mathrm{II}}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{2+}$$&#x20;
 
@@ -71,9 +71,11 @@ Das Bild oben zeigt das Energieschema der 3d-Orbitale des Zentralteilchens $$Fe^
 
 <figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>Low-spin-Komplex Inner-orbital-Komplex Durchdringungs-Komplex nicht paramagnetisch</p></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=8lT21wKoXyQ" %}
+
 ### Die spektroskopische Ligandenreihe
 
-Auf welche Art sich ein bestimmter Ligand auf die Aufspaltung der d-Orbitale auswirkt, muss empirisch untersucht werden. Das hängt direkt zusammen mit der experimentellen Bestimmung der Differenz D. Dies geschieht spektroskopisch. Man untersucht dabei, wie unter Einstrahlung von UV oder sichtbarem Licht Elektronen aus dem de- in das dg-Orbital gehoben werden. Das setzt voraus, dass sich im dg-Orbital freie Plätze befinden.\
+Auf welche Art sich ein bestimmter Ligand auf die Aufspaltung der d-Orbitale auswirkt, muss empirisch untersucht werden. Das hängt direkt zusammen mit der experimentellen Bestimmung der Differenz D. Dies geschieht spektroskopisch. Man untersucht dabei, wie unter Einstrahlung von UV oder sichtbarem Licht Elektronen aus dem $$d_e$$- in das $$d_g$$-Orbital gehoben werden. Das setzt voraus, dass sich im $$d_g$$-Orbital freie Plätze befinden.\
 Die Farbigkeit der Komplexe sagt also grob etwas über die Grösse von D aus. Zum Beispiel ist der Aqua-Komplex von Fe(II) blassgrün (absorbiert also Orange), der Cyano-Komplex ist gelb (absorbiert also Violett). Ersterer benötigt zur Anregung der d-Elektronen also eine geringere Energie D (längerwellige Strahlung) als der andere (kurzwelligere Strahlung). Farblose Komplexe lassen sich nur spektroskopisch beurteilen, da sie UV- (grosses D) oder IR-aktiv (sehr kleines D) sein können.\
 Ein anderes bekanntes Beispiel: Der hellblaugrüne Komplex $$\left[\mathrm{Cu}\left(\mathrm{H}_2 \mathrm{O}\right)_4\right]^{2+}$$ hat sein Absorptionsmaximum bei der Komplementärfarbe Rot, also bei 800 nm. Der dunkelblaue Komplex $$\left[\mathrm{Cu}\left(\mathrm{NH}_3\right)_4\right]^{2+}$$ absorbiert dagegen bei Orange, nämlich um 600 nm. Das zeigt, dass die Einwirkung von Ammoniak auf das Zentralfeld des $$\mathrm{Cu}^{2+}$$-Ions stärker ist als die des Wassers. Ammoniak hat also ein stärkeres Ligandenfeld oder ein grösseres D.
 
@@ -106,14 +108,13 @@ Dennoch zeigen wir hier das Termschema von oktaedrischen Fe(II)-High-Spin-Komple
 \
 Die AOs und die MOs kombinieren zu den sechs bindenden s-Orbitalen des Komplexes: sd, sp und ss (Mitte). Von den antibindenden Orbitalen s\* sind die zu sp und ss gehörenden leer, üben also keinen störenden Einfluss auf die s-Bindungen zwischen Zentralteilchen und Liganden aus.
 
-Die d-Elektronen des Zentralteilchens nehmen nicht an der Komplexbildung teil, denn sie befinden sich im **nichtbindenden t2g-Orbital** und im **antibindenden eg-Orbital**, dem s\*d. Sie sind in unserem Beispiel durch ein kleines D getrennt. Deshalb sind nach der Hundschen Regel beide besetzt. Damit lassen sie aber auch keinen Platz für Liganden-Elektronen. Hinzu kommt, dass das antibindende eg-Orbital die sd-Bindung lockert. Insgesamt ist der Komplex relativ instabil; es handelt sich also um einen Outer-orbital- oder Anlagerungskomplex.\
-
+Die d-Elektronen des Zentralteilchens nehmen nicht an der Komplexbildung teil, denn sie befinden sich im **nichtbindenden t2g-Orbital** und im **antibindenden eg-Orbital**, dem s\*d. Sie sind in unserem Beispiel durch ein kleines D getrennt. Deshalb sind nach der Hundschen Regel beide besetzt. Damit lassen sie aber auch keinen Platz für Liganden-Elektronen. Hinzu kommt, dass das antibindende eg-Orbital die sd-Bindung lockert. Insgesamt ist der Komplex relativ instabil; es handelt sich also um einen Outer-orbital- oder Anlagerungskomplex.
 
 <details>
 
 <summary>Zeichne ein Energiediagramm mit der Energielücke von den folgenden Komplexen: <br><span class="math">\left[\mathrm{CrF}_6\right]^{3-}</span> <span class="math">\left[\mathrm{Cr}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+},\left[\mathrm{Cr}\left(\mathrm{NH}_3\right)_6\right]^{3+} \text { und }\left[\mathrm{Cr}(\mathrm{CN})_6\right]^{3-} .</span></summary>
 
-
+![](<../.gitbook/assets/image (126).png>)
 
 </details>
 
