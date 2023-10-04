@@ -14,6 +14,8 @@ In der Bindung zwischen dem Metall-Ion und dem Liganden wird das Elektronenpaar 
 
 Durch die Komplexbildung wird die Reduktionsneigung des $$Ag^+$$ reduziert, weil es durch die Ammoniak-Moleküle maskiert wird.
 
+{% embed url="https://www.youtube.com/watch?v=s72CB01ICZw" %}
+
 ## Die Koordinationszahl
 
 Die Koordinationszahl hängt von der Grösse der Liganden ab. Bei grösseren Liganden sind entsprechend kleinere Koordinationszahlen zu erwarten. So bildet das Eisen(III)-Ion bspw. mit Fluorid-Ionen einen **Hexa**fluoro-, mit Chlorid-Ionen hingegen nur einen **Tetra**chloro-Komplex.
