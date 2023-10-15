@@ -4,7 +4,7 @@
 
 ## 🎯 Lernziele
 
-* [Lernziele für die Prüfung vom 4. Juni](lernziele/lernziele-fuer-die-pruefung-vom-4.-juni.md)
+* [Lernziele für die Prüfung vom 1. November 2023 (Provisorisch)](lernziele/lernziele-fuer-die-pruefung-vom-1.-november-2023-provisorisch.md)
 
 ## 〰 Orbitalmodell
 
