@@ -2,6 +2,10 @@
 
 * [Inhaltsverzeichnis](README.md)
 
+## 🎯 Lernziele
+
+* [Lernziele für die Prüfung vom 4. Juni](lernziele/lernziele-fuer-die-pruefung-vom-4.-juni.md)
+
 ## 〰 Orbitalmodell
 
 * [Stehende Wellen](orbitalmodell/stehende-wellen.md)
@@ -112,7 +116,3 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
-
-## 🎯 Lernziele
-
-* [Lernziele für die Prüfung vom 4. Juni](lernziele/lernziele-fuer-die-pruefung-vom-4.-juni.md)
