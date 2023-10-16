@@ -1,4 +1,4 @@
-# Lernziele für die Prüfung vom 1. November 2023 (Provisorisch)
+# Lernziele für die Prüfung vom 1. November 2023
 
 _**Inhalt:** Kapitel Komplexchemie, Praktika Komplexchemie_
 
@@ -19,4 +19,4 @@ _**Hilfsmittel:** Periodensystem, Komplexbildungskonstanten-Tabelle, spektroskop
 * [ ] Ligandenfeldtheorie anwenden können (Grössere Aufspaltung --->....).
 * [ ] Entstehung der Farbigkeit erklären können.
 * [ ] Einfluss der Liganden auf die Farbigkeit erklären können.
-* [ ] Bestimmung der Wasserhärte mittels komplexometrischer Titration
+* [ ] Bestimmung der Wasserhärte mittels komplexometrischer Titration verstehen / auf Teilchenebene erklären können.
