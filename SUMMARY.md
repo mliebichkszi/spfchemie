@@ -73,6 +73,7 @@
 * [🥼 Labor](komplexchemie/labor.md)
 * [Farbigkeit von Komplexen](komplexchemie/farbigkeit-von-komplexen.md)
 * [Isomere](komplexchemie/isomere.md)
+* [Aufgaben](komplexchemie/aufgaben.md)
 * [Literatur](komplexchemie/literatur.md)
 
 ## ⚗ Synthesen

@@ -92,6 +92,8 @@ $$\mathrm{SCN}^{-}<\mathrm{Cl}^{-}<\mathrm{F}^{-}<\mathrm{H}_2 \mathrm{O}<\mathr
 
 Eine derartige Auflistung wird spektrochemische Reihe genannt. Die Grösse von Δ steigt in der spektrochemischen Reihe von links nach rechts etwa um den Faktor 2 an. Liganden, die auf der linken Seite stehen, werden als schwache Liganden, solche auf der rechten Seite als starke Liganden bezeichnet. Je grösser die Energielücke Δ ist, desto grösser muss die Frequenz des Lichts für die Anregung der Elektronen sein.
 
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+
 ## Ligandenfeldtheorie
 
 Bei der Kristallfeldtheorie werden die Bindungen zwischen Zentralteilchen und Liganden als rein ionisch angenommen. Damit kann man zwar vieles erklären, nicht aber die spektroskopische Ligandenreihe. Es ist einzusehen, dass das $$F^-$$-Ion als kleine Punktladung ein stärkeres elektrostatisches Feld als ein $$Br^-$$-Ion und eine größere Aufspaltung D bewirkt. Wie erklärt man dann aber die Auswirkung von $$NH_3$$ auf die inneren Orbitale? So ist das grüne $$\left[\mathrm{CoF}_6\right]^{3^{-}}$$ ein Outer-orbital- bzw. High-spin-Komplex, das gelbe $$\left[\mathrm{Co}\left(\mathrm{NH}_3\right)_6\right]^{3+}$$ dagegen ein Inner-orbital- bzw. Low-spin-Komplex.
