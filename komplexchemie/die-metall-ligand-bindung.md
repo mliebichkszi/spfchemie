@@ -14,7 +14,7 @@ In der Bindung zwischen dem Metall-Ion und dem Liganden wird das Elektronenpaar 
 
 Durch die Komplexbildung wird die Reduktionsneigung des $$Ag^+$$ reduziert, weil es durch die Ammoniak-Moleküle maskiert wird.
 
-{% embed url="https://www.youtube.com/watch?v=s72CB01ICZw" %}
+{% embed url="https://www.nanoo.tv/link/v/FqQNCEKX" %}
 
 ## Die Koordinationszahl
 
