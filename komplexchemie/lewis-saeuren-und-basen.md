@@ -57,7 +57,7 @@ DIe Bildung von Kohlensäure ( $$\mathrm{H}_2 \mathrm{CO}_3$$) kann auch als Lew
 
 <summary>Bestimmen Sie die Säure und die Base nach Lewis:<br><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""></summary>
 
-
+HCl ist der Elektronenakzeptor, also die Lewis-Säure, $$NH_3$$ ist der Elektronenspender, also die Lewis-Base.
 
 </details>
 
