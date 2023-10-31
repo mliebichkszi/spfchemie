@@ -43,7 +43,8 @@ Sauerstoff wird an das Eisen-Ion gebunden. Die Sauerstoffbindung bewirkt, dass s
 
 <summary>Wie viel Hämoglobin hat ein erwachsener Mensch in sich? Wie gross ist die molare Masse von Hämoglobin?</summary>
 
-
+Ca. 140g/L\
+M = 65'000 g/mol (ca.)
 
 </details>
 
