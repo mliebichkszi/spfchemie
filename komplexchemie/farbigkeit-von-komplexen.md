@@ -26,15 +26,17 @@ Jedes Atom besitzt eine andere Elektronenkonfiguration. Damit besitzen die Valen
 
 ## Einfluss der Liganden
 
-Auch Komplexe unterschiedlicher Liganden, die dasselbe Zentralteilchen besitzen, sind meist unterschiedlich gefärbt. So haben z. B. verschiedene Eisen(III)-Komplexe völlig unterschiedliche Farben.
+Auch Komplexe unterschiedlicher Liganden, die dasselbe Zentralteilchen besitzen, sind meist unterschiedlich gefärbt. So haben z. B. verschiedene Eisen(III)-Komplexe völlig unterschiedliche Farben:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><em>Farbreihe verschiedener Eisen(III)-Komplexlösungen</em></p></figcaption></figure>
-
-Dabei handelt es sich um folgende Eisen(III)-Komplexe:
-
-$$\begin{array}{|l|c|c|c|c|} \hline \text { Komplex } & {\left[\mathrm{Fe}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+}} & {\left[\mathrm{FeCl}\left(\mathrm{H}_2 \mathrm{O}\right)_5\right]^{2+}} & {\left[\mathrm{Fe}(\mathrm{SCN})_3\right]} & {\left[\mathrm{FeF}_6\right]^{3-}} \\ \hline \text { Farbe } & \text { blassviolett } & \text { gelb } & \text { rot } & \text { farblos } \\ \hline \end{array}$$
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 Der Grund für die unterschiedlichen Färbungen hängt mit dem **Ligandenfeld** zusammen, das durch die verschiedenen Liganden erzeugt wird. Denn dieses starke elektrische Feld nimmt auch großen Einfluss auf die Energieniveaus der Elektronen in den Komplexverbindungen.
+
+Farblos:  $$\left[\mathrm{FeF}_6\right]^{3-}$$. Grund: die Aufspaltung durch die 6 $$F^-$$-Liganden ist so gross, dass nicht im farbigen Bereich absorbiert wird.&#x20;
+
+Gelb: $$\left[\mathrm{Fe}\left(\mathrm{H}_2 \mathrm{O}\right)_6\right]^{3+}$$. Grund: Die 6 $$H_2O$$-Liganden erzeugen eine verhältnismässig grosse Aufspaltung, so dass nur knapp im sichtbaren Bereich, nämlich im violetten Bereich, absorbiert wird.
+
+Rot: $$\left[\mathrm{Fe}(\mathrm{SCN})_6\right]^{3-}$$. Grund: Mit den 6 Schwachfeld-Liganden $$SCN^-$$, wird nur eine kleine Aufspaltung erreicht. Es wird im bläulich-gründen Bereich absorbiert.
 
 ## Moderne Theorien der Komplexbildung
 
