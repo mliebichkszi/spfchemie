@@ -24,7 +24,7 @@ Interpretation:
 
 Metall-Ionen sind **Elektronen-Akzeptoren.** Sie bilden mit **Elektronen-Donoren** wie Wassermolekülen einen Komplex:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Hexaquaaluminat- und Pentaquahydroxoaluminat-Ion, Bildung von Oxonium-Ionen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hexaquaaluminat- und Pentaquahydroxoaluminat-Ion, Bildung von Oxonium-Ionen</p></figcaption></figure>
 
 Durch die Polarisierung der Wassermoleküle werden die H-Atome stark partiell positiv geladen und als Folge spalten sich Protonen ( $$H^+$$) ab.&#x20;
 
