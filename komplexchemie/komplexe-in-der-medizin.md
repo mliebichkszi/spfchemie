@@ -1,6 +1,6 @@
 # Komplexe in der Medizin
 
-## Cisplatin
+## ![](<../.gitbook/assets/image (139).png>)Cisplatin
 
 Cisplatin, Pt(NH3)2I2, ist ein Medikament zur Bekämpfung von Krebs.
 
@@ -68,7 +68,15 @@ Die Wirkung ist in beiden Fällen die selbe: durch das Binden von Cisplatin an d
 
 Cisplatin enthält ein zentrales Pt-Ion mit vier Liganden. Die beiden Chloridliganden können einer Ligandensubstitution unterzogen werden, damit Cisplatin an eine Guaninbase der DNA binden kann. Diese Eigenschaft ist grundlegend für den Mechanismus seiner Funktion als Krebsmedikament.
 
-Ergänzen Sie die folgende Tabelle:
+
+
+<details>
+
+<summary>Ergänzen Sie die folgende Tabelle</summary>
+
+![](<../.gitbook/assets/image (140).png>)
+
+</details>
 
 | Zentrales Metall-Ion       |   |
 | -------------------------- | - |
@@ -78,3 +86,12 @@ Ergänzen Sie die folgende Tabelle:
 | Winkel                     |   |
 | Gesamtladung des Komplexes |   |
 
+
+
+<details>
+
+<summary>Warum ist Cisplatin ein neutrales Komplexion?</summary>
+
+Das Platin ist ein 2+ Ion, das durch zwei $$Cl^-$$-ainden im Komplex aufgehoben wird, so dass eine Gesamtladung von 0 übrig bleibt.
+
+</details>
