@@ -72,7 +72,7 @@
 * [Nomenklatur von Komplexen](komplexchemie/nomenklatur-von-komplexen.md)
 * [🥼 Labor](komplexchemie/labor.md)
 * [Farbigkeit von Komplexen](komplexchemie/farbigkeit-von-komplexen.md)
-* [Isomere](komplexchemie/isomere.md)
+* [Komplexe in der Medizin](komplexchemie/komplexe-in-der-medizin.md)
 * [Aufgaben](komplexchemie/aufgaben.md)
 * [Literatur](komplexchemie/literatur.md)
 
