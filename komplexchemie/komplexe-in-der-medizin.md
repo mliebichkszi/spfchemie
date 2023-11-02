@@ -20,10 +20,11 @@ Die Formel \[Pt(NH3)2I2] gibt aber nicht eine eindeutige Auskunft über die Geo
 
 Obschon hier ein 50:50 Gemisch der beiden Verbindungen entstehen könnte, wird primär das cis-Isomer gebildet. Dies liegt an dem sogenannten trans-Effekt.
 
-
-
 {% hint style="info" %}
 **Trans-Effekt**
 
 Der trans-Effekt beschreibt die Fähigkeit eines trans-ständigen Liganden einen Effekt auf die Austauschgeschwindigkeit des anderen Liganden zu haben
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Herstellung des cis-Komplexes begünstigt durch den trans-Effekt</p></figcaption></figure>
+

@@ -24,7 +24,7 @@ Interpretation:
 
 Metall-Ionen sind **Elektronen-Akzeptoren.** Sie bilden mit **Elektronen-Donoren** wie Wassermolekülen einen Komplex:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hexaquaaluminat- und Pentaquahydroxoaluminat-Ion, Bildung von Oxonium-Ionen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hexaquaaluminat- und Pentaquahydroxoaluminat-Ion, Bildung von Oxonium-Ionen</p></figcaption></figure>
 
 Durch die Polarisierung der Wassermoleküle werden die H-Atome stark partiell positiv geladen und als Folge spalten sich Protonen ( $$H^+$$) ab.&#x20;
 
@@ -71,7 +71,7 @@ HCl ist der Elektronenakzeptor, also die Lewis-Säure, $$NH_3$$ ist der Elektron
 
 <details>
 
-<summary>Die folgende Reaktion stellt die saure Wirkung eines hydratisierten Kations dar. Wie verändert sich die Gleichgewichtskonstante dieser Reaktion mit der Ladung des Kations?<br><img src="../.gitbook/assets/image (1).png" alt=""><br> </summary>
+<summary>Die folgende Reaktion stellt die saure Wirkung eines hydratisierten Kations dar. Wie verändert sich die Gleichgewichtskonstante dieser Reaktion mit der Ladung des Kations?<br><img src="../.gitbook/assets/image (1) (1).png" alt=""><br> </summary>
 
 Je grösser die Ladung des Zentralkations, desto azider werden die H-Atome an den Wasser-Molekülen, also verschiebt sich das Gleichgewicht nach rechts.
 
