@@ -4,7 +4,7 @@ Viele Dinge im Leben passieren ohne grosses Zutun, die Dinge scheinen eine Richt
 
 Ein Nagel rostet spontan, Gase expandieren **spontan**. Der Rückprozess verläuft entsprechend **nicht spontan**.
 
-![](<../../.gitbook/assets/image (7) (1).png>)![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)![](<../../.gitbook/assets/image (64).png>)
 
 {% tabs %}
 {% tab title="Aufgabe" %}
@@ -37,7 +37,7 @@ Mit dem 1. Hauptsatz wird nicht klar, wie stark der Austausch zwischen System un
 
 Ob ein Prozess spontan oder nicht spontan abläuft, hängt von der Umgebung ab. Eis bildet sich bspw. spontan bei Temperaturen unter 0° C, die Verflüssigung ist jetzt nicht mehr spontan.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Aufgabe 1" %}

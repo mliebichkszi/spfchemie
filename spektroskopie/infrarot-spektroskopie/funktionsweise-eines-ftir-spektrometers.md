@@ -4,7 +4,7 @@
 
 Ursprünglich wurde Licht unterschiedlicher Wellenlänge schrittweise (nm für nm) durch die Probe geschickt. Die Aufnahme eines IR-Spektrums dauerte ziemlich lange und die Probenvorbereitung war deutlich aufwendiger.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Quelle: Bruker</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Quelle: Bruker</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 

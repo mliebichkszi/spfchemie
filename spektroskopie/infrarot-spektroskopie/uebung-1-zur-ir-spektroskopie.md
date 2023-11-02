@@ -9,7 +9,7 @@ Ordnen Sie in den unten abgebildeten IR-Spektren von Essigsäure und von Essigs�
 * Welche Banden stimmen überein?
 * Erklären Sie die Unterschiede in den beiden IR-Spektren.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Lösung" %}

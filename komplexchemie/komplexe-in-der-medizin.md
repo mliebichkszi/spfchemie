@@ -1,6 +1,6 @@
 # Komplexe in der Medizin
 
-## ![](<../.gitbook/assets/image (139).png>)Cisplatin
+![](<../.gitbook/assets/image (139).png>)Cisplatin
 
 Cisplatin, Pt(NH3)2I2, ist ein Medikament zur Bekämpfung von Krebs.
 
@@ -26,7 +26,7 @@ Obschon hier ein 50:50 Gemisch der beiden Verbindungen entstehen könnte, wird p
 Der trans-Effekt beschreibt die Fähigkeit eines trans-ständigen Liganden einen Effekt auf die Austauschgeschwindigkeit des anderen Liganden zu haben
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Herstellung des cis-Komplexes begünstigt durch den trans-Effekt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Herstellung des cis-Komplexes begünstigt durch den trans-Effekt</p></figcaption></figure>
 
 {% embed url="https://www.chemtube3d.com/symcisplatinc2v/" %}
 
@@ -86,12 +86,123 @@ Cisplatin enthält ein zentrales Pt-Ion mit vier Liganden. Die beiden Chloridlig
 | Winkel                     |   |
 | Gesamtladung des Komplexes |   |
 
-
-
 <details>
 
 <summary>Warum ist Cisplatin ein neutrales Komplexion?</summary>
 
-Das Platin ist ein 2+ Ion, das durch zwei $$Cl^-$$-ainden im Komplex aufgehoben wird, so dass eine Gesamtladung von 0 übrig bleibt.
+Das Platin ist ein 2+ Ion, das durch zwei $$Cl^-$$-Liganden im Komplex aufgehoben wird, so dass eine Gesamtladung von 0 übrig bleibt.
+
+</details>
+
+<details>
+
+<summary>Welche Eigenschaften haben sowohl das <span class="math">Cl^-</span>-Ion als auch das N im <span class="math">NH_3</span>, die es ihnen ermöglicht, sich an das zentrale Pt-Ion zu binden?</summary>
+
+Beide verfügen über ein freies Elektronenpaar.
+
+</details>
+
+<details>
+
+<summary>Erklären Sie, wie das <span class="math">Cl^-</span> und das <span class="math">NH_3</span> als Ligand wirken.</summary>
+
+Beide verfügen über ein freies Elektronenpaar, das an das Pt über eine koordinative Bindung abgegeben werden kann.
+
+</details>
+
+<details>
+
+<summary>Wenn Cisplatin in den menschlichen Körper aufgenommen wird, durchläuft es eine Ligandensubstitutionsreaktion. Ein Wassermolekül kann durch einen Chloridliganden ersetzt werden.</summary>
+
+![](../.gitbook/assets/image.png)
+
+</details>
+
+<details>
+
+<summary>Warum verändert der Austausch eines Chloridliganden gegen Wasser die Ladung des Komplexions?</summary>
+
+Die Ladung des $$Pt^{2+}$$-Ions wird nicht aufgehoben, da ein negatives Chlorid-Ion durch ein neutrales Wassermolekül ersetzt wurde, so dass es nur noch ein negativ geladenes Chlorid-Ion gibt und die Gesamtladung +1 beträgt.
+
+</details>
+
+<details>
+
+<summary>Das folgende Diagramm zeigt ein Nukleotid mit Guanin. Kreisen Sie zwei Atome ein, an das Cisplatin binden könnte.<br> <img src="../.gitbook/assets/image (1).png" alt=""></summary>
+
+
+
+![](<../.gitbook/assets/image (2).png>)
+
+
+
+</details>
+
+<details>
+
+<summary>Erläutern Sie zwei Möglichkeiten, wie Cisplatin B an das Guanin binden kann, indem Sie entweder den Chloridliganden oder den Wasserliganden verwenden.</summary>
+
+* Chlorid-Liganden-Austausch. Ein Chlorid wird durch ein N in Guanin getauscht.
+* H-Brücke mit dem N des Guanins.
+
+</details>
+
+<details>
+
+<summary>Es gibt zwei Möglichkeiten, wie Cisplatin an ein DNA-Molekül binden kann, entweder an zwei verschiedene Guanine am selben Strang (intramolekular) oder an zwei verschiedene Guanine an verschiedenen Strängen (intermolekular).<br>a) Zeigen Sie anhand der unten stehenden vereinfachten DNA zwei Möglichkeiten, wie Cisplatin durch Ligandensubstitution an eine Guaninbase binden kann.<br><img src="../.gitbook/assets/image (4).png" alt=""><br></summary>
+
+![](<../.gitbook/assets/image (5).png>)
+
+
+
+</details>
+
+<details>
+
+<summary>Transplatin ist ein Stereoisomer von Cisplatin und wirkt nicht als Krebs-Medikament. Erklären Sie, warum.</summary>
+
+Da die Chlorid-Liganden trans zueinander stehen, bindet Transplatin nicht stark genug an die DNA-Helix.
+
+</details>
+
+<details>
+
+<summary>Um neue Medikamente zu finden, können Chemiker:innen ein bestehendes Medikament nehmen und mit Hilfe von Computeriterationen viele verschiedene Versionen finden, aber jedes Mal nur mit einer kleinen Änderung. Diese ähnlichen Verbindungen könnten möglicherweise therapeutische Wirkungen haben, die auf demselben Mechanismus beruhen wie das Original, und weniger Nebenwirkungen haben oder - im Falle von Platinen - andere Tumorarten abtöten. Andere Platinmoleküle haben sich ebenfalls als erfolgreiche Krebsmedikamente erwiesen. Entscheiden Sie für jede der in der Tabelle aufgeführten Verbindungen:<br>a) Welche Liganden oder welcher Ligand substituiert das N von Guanin?<br>b) Ist der Ligand ein- oder mehrzähnig?</summary>
+
+![](<../.gitbook/assets/image (12).png>)![](<../.gitbook/assets/image (13).png>)![](<../.gitbook/assets/image (14).png>)![](<../.gitbook/assets/image (15).png>)![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (17).png>)
+
+</details>
+
+| Verbindung  | Platin-Komplex                                                            | Substituierter Ligand |
+| ----------- | ------------------------------------------------------------------------- | --------------------- |
+| Carboplatin | <img src="../.gitbook/assets/image (6).png" alt="" data-size="original">  |                       |
+| Oxaliplatin | <img src="../.gitbook/assets/image (7).png" alt="" data-size="original">  |                       |
+| Nedaplatin  | <img src="../.gitbook/assets/image (8).png" alt="" data-size="original">  |                       |
+| Lobaplatin  | <img src="../.gitbook/assets/image (9).png" alt="" data-size="original">  |                       |
+| Heptaplatin | <img src="../.gitbook/assets/image (10).png" alt="" data-size="original"> |                       |
+| Miriplatin  | <img src="../.gitbook/assets/image (11).png" alt="" data-size="original"> |                       |
+
+<details>
+
+<summary>Liganden sind unterschiedlich stabil:<br><img src="../.gitbook/assets/image (18).png" alt="" data-size="line"><br>Nehmen Sie <span class="math">NH_3</span> als Guanin-Ersatz.<br>a) Identifizieren Sie einen Liganden, der nicht das Chlorid-Ion als Liganden ersetzen könnte, um an das N von Guanin zu binden.<br>b) Identifizieren Sie einen Liganden, der das Chlorid-Ion als Liganden ersetzen könnte.</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Alle erwähnten Medikamente sind für den Menschen toxisch.<br>a) Warum?<br>b) Was wird von Mediziner:innen unternommen, um das Problem zu minimieren?</summary>
+
+a) Die Medikamente wirken unspezifisch.\
+b) Wenig abgeben, Patienten gut beobachten, Dosierung direkt in den Tumor (intratumorale Injektion).
+
+</details>
+
+<details>
+
+<summary>Nebenwirkungen der Chemotherapie sind bspw. Müdigkeit und Haarausfall. Was könnte der Grund für diese Nebenwirkungen sein?</summary>
+
+Das Medikament führt auch zum Absterben von gesunden Zellen, was die Müdigkeit bewirkt. Haarzellen teilen sich rasch, wie Tumorzellen. Das Medikament zielt auf alle sich rasch teilenden Zellen.
 
 </details>

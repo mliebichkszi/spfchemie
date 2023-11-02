@@ -2,7 +2,7 @@
 
 Die Entwicklung des Medikaments Cimetidin gegen Magengeschwüre zeigt die wichtige Rolle des pKs-Werts im Alltag. Magengeschwüre bezeichnen eine lokale Zerstörung der Schleimhaut, die von einer Übersäuerung im Magen resultiert. Die Magensäure-Produktion wird unter anderem von der Säure Histamin kontrolliert (Histamin ist auch verantwortlich für Symptome wie Heuschnupfen und Allergien).
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Histamin bindet an einen Rezeptor in der Magenschleimhaut und stimuliert die Produktion von Säure. Die Entwickler von Cimetidin suchten nach einem Wirkstoff, der an den Rezeptor bindet, somit blockiert aber die Säureproduktion nicht aktiviert.
 

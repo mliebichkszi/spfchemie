@@ -59,7 +59,7 @@ Nach dem hier dargestellten Mechanismus würde man erwarten, dass die Wasserstof
 {% tabs %}
 {% tab title="Frage" %}
 Bei der Reaktion\
-![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)\
 Ethen mit Platinoxid reagieren 0,500 mol Ethen mit \_\_\_\_\_\_\_ mol Wasserstoff. Eine Chemikerin könnte also sagen, dass Ethen mit einem \_\_\_\_\_\_\_ von Wasserstoff reagiert. Ethen wird \_\_\_\_\_\_\_; während \_\_\_\_\_\_\_ oxidiert wird. Die Oxidationszahl des Kohlenstoffs in Ethen ist \_\_\_\_\_\_\_; in Ethan ist sie \_\_\_\_\_\_\_.&#x20;
 {% endtab %}
 
