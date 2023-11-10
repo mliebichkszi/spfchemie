@@ -1,6 +1,10 @@
 # Komplexe in der Medizin
 
-![](<../.gitbook/assets/image (139).png>)Cisplatin
+
+
+{% embed url="https://www.nanoo.tv/link/v/rzsCoVia" %}
+
+![](<../.gitbook/assets/image (139).png>)
 
 Cisplatin, Pt(NH3)2I2, ist ein Medikament zur Bekämpfung von Krebs.
 
