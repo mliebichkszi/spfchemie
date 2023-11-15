@@ -49,7 +49,9 @@ DIe Bildung von Kohlensäure ( $$\mathrm{H}_2 \mathrm{CO}_3$$) kann auch als Lew
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+### Stärke von Lewis-Säuren und -Basen
 
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 ### Übungen
 
