@@ -1,11 +1,12 @@
 ---
+description: 'Quelle:'
 cover: ../.gitbook/assets/arzneimittel.png
 coverY: 0
 ---
 
 # Antiacida
 
-Definition
+## Woraus bestehen Antiacida
 
 Ein Antiacidum ist ein Arzneimittel, das überschüssige Magensäure (Salzsäure) bindet.
 
@@ -24,3 +25,39 @@ Schwache Basen wirken als Pufferbasen indem sie mit der Salzsäure reagieren:\
 $$\mathrm{NaHCO}_{3(\mathrm{aq})}+\mathrm{HCl}_{(\mathrm{aq})} \longrightarrow \mathrm{NaCl}_{(\mathrm{aq})}+\mathrm{CO}_{2(\mathrm{~g})}+\mathrm{H}_2 \mathrm{O}$$
 
 </details>
+
+Mit Antiacida werden Symptome wie das "saure Aufstossen" behandelt. Natriumhydrogencarbonat (auch: Natron, Natriumbicarbonat) sollte aber nicht mehr alleine verwendet werden, da es sehr rasch mit Salzsäure zu $$CO_2$$ reagiert und der pH-Wert zu rasch ansteigt, was wiederum zu einer vermehrten Ausschüttung von Gastrin, einem Hormon, führt, das die Sekretion von Salzsäure auslöst. Bis in die 70er-Jahre wurde Natron aber als Bestandteil von "Bullrich Salz" vertrieben.\
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Seit den 70er-Jahren gibt es Aluminium- und Magnesiumhydroxidgele vertrieben, sowie Mischungen aus Calcium- und Magnesiumcarbonat oder Aluminium-Magnesium-Silicathydrat entwickelt.
+
+Auch in Form von Kaugummis werden Antiacida heute angeboten. Die Kaugummis enthalten Calcium- und Magnesiumcarbonat.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## Experimente
+
+a) Lösen Sie wenig Antiacidum in Wasser und messen Sie den pH-Wert.
+
+b) Wie gut können die Lösungen zugetropfte Salzsäure abpuffern?
+
+c) Was beobachten Sie bei Zugabe einer 2% Iodlösung?
+
+
+
+## Alternativen zu klassischen Antiacida
+
+Neuere Medikamente enthalten $$H_2$$-Rezeptor-Antagonisten ( $$H_2$$ -Blocker) oder Protonenpumpenhemmer.
+
+### Wirkungsweise von $$H_2$$ - Blocker
+
+Spezielle Magenschleimhaut-Zellen (enterochromaffinartige Zellen, auch H-Zellen genannt) geben bei der Verdauung Histamin ab. Histamin stimuliert die Bildung von Magensäure. Die Sekretion von Histamin wird vom Vagusnerv im Gehirn acetylcholinvermittelt gesteuert. $$H_2$$-Antagonisten blockieren die Aufnahme von Histamin durch den $$H_2$$-Rezeptor (ein Rezeptor-Protein) von Parietalzellen der Magenschleimhaut. Parietalzellen sind grosse, mit Eosin anfärbbare Drüsenzellen, die aus Kohlensäure Protonen abspalten und im Austausch gegen Kaliumionen sezernieren (ein Sekret abgeben) können. Ausserdem transportieren sie Chloridionen in das Mageninnere, wodurch Salzsäure gebildet wird. $$H_2$$-Blocker verringern vor allem die nächtliche Säuresekretion. Die Hemmung ist aber schwächer als bei Protonenpumpenhemmern.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Histamin</p></figcaption></figure>
+
+### Wirkungsweise von Protonenpumpenhemmern
+
+Diese Wirkstoffe sind säureempfindlich und werden erst im Dünndarm resorbiert. Deshalb werden sie in speziellen säureresistenten Kapseln verabreicht.
+

@@ -118,7 +118,7 @@ Beide verfügen über ein freies Elektronenpaar, das an das Pt über eine koordi
 
 <summary>Wenn Cisplatin in den menschlichen Körper aufgenommen wird, durchläuft es eine Ligandensubstitutionsreaktion. Ein Wassermolekül kann durch einen Chloridliganden ersetzt werden.</summary>
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 </details>
 
@@ -132,11 +132,11 @@ Die Ladung des $$Pt^{2+}$$-Ions wird nicht aufgehoben, da ein negatives Chlorid-
 
 <details>
 
-<summary>Das folgende Diagramm zeigt ein Nukleotid mit Guanin. Kreisen Sie zwei Atome ein, an das Cisplatin binden könnte.<br> <img src="../.gitbook/assets/image (1).png" alt=""></summary>
+<summary>Das folgende Diagramm zeigt ein Nukleotid mit Guanin. Kreisen Sie zwei Atome ein, an das Cisplatin binden könnte.<br> <img src="../.gitbook/assets/image (1) (1).png" alt=""></summary>
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 
 
@@ -153,7 +153,7 @@ Die Ladung des $$Pt^{2+}$$-Ions wird nicht aufgehoben, da ein negatives Chlorid-
 
 <details>
 
-<summary>Es gibt zwei Möglichkeiten, wie Cisplatin an ein DNA-Molekül binden kann, entweder an zwei verschiedene Guanine am selben Strang (intramolekular) oder an zwei verschiedene Guanine an verschiedenen Strängen (intermolekular).<br>a) Zeigen Sie anhand der unten stehenden vereinfachten DNA zwei Möglichkeiten, wie Cisplatin durch Ligandensubstitution an eine Guaninbase binden kann.<br><img src="../.gitbook/assets/image (4).png" alt=""><br></summary>
+<summary>Es gibt zwei Möglichkeiten, wie Cisplatin an ein DNA-Molekül binden kann, entweder an zwei verschiedene Guanine am selben Strang (intramolekular) oder an zwei verschiedene Guanine an verschiedenen Strängen (intermolekular).<br>a) Zeigen Sie anhand der unten stehenden vereinfachten DNA zwei Möglichkeiten, wie Cisplatin durch Ligandensubstitution an eine Guaninbase binden kann.<br><img src="../.gitbook/assets/image (4) (1).png" alt=""><br></summary>
 
 ![](<../.gitbook/assets/image (5).png>)
 
