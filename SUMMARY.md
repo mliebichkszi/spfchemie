@@ -76,6 +76,10 @@
 * [Aufgaben](komplexchemie/aufgaben.md)
 * [Literatur](komplexchemie/literatur.md)
 
+## 💊 Arzneimittel
+
+* [Antiacida](arzneimittel/antiacida.md)
+
 ## ⚗ Synthesen
 
 * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
