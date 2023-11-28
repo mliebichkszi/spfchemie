@@ -48,7 +48,7 @@ Dazu war es notwendig, Molekülorbital (MO)-Theorien auf die Beschreibung der Ko
 \
 Sie basieren beide auf der Ungleichverteilung der Elektronen um das Zentralteilchen. Diese bilden [die fünf verschieden geformten **d-Orbitale**](https://www.chemtube3d.com/orbitals-d/).
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p><em>Die fünf d-Orbitale des Zentralteilchens mit sechs Liganden im oktaedrischen Komplex</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p><em>Die fünf d-Orbitale des Zentralteilchens mit sechs Liganden im oktaedrischen Komplex</em></p></figcaption></figure>
 
 Man kann die fünf d-Orbitale des Zentralteilchens in ein dreidimensionales Koordinatensystem zeichnen. Man erkennt zwei Gruppen:\
 Es gibt zwei d-Orbitale, die ihre grösste Elektronendichte in Richtung der x,y,z-Achsen haben. Man bezeichnet sie als $$d_g$$-Orbitale. Man nennt sie nach spektroskopischen Daten auch $$e_g$$-Orbital. Die restlichen drei d-Orbitale haben ihre größte Elektronendichte _zwischen_ den Achsen. Sie heissen $$d_e$$-Orbitale oder $$t_{2g}$$-Orbitale.
