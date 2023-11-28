@@ -61,7 +61,7 @@
 * [Aufgaben zu Nanotechnologie](nanotechnologie/aufgaben-zu-nanotechnologie.md)
 * [News zur Nanotechnologie](nanotechnologie/news-zur-nanotechnologie.md)
 
-## 🩸 Komplexchemie
+## 🎡 Komplexchemie
 
 * [Einführung](komplexchemie/einfuehrung.md)
 * [Lewis-Säuren und -Basen](komplexchemie/lewis-saeuren-und-basen.md)
