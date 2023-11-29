@@ -52,3 +52,7 @@ _**Neu**_ Stellen Sie Fragen über die Suchfunktion ("Lens" wählen).
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
