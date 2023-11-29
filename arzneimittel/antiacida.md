@@ -8,6 +8,8 @@ coverY: 0
 
 ## Woraus bestehen Antiacida
 
+{% embed url="https://www.nanoo.tv/link/v/MhARwgak" %}
+
 Ein Antiacidum ist ein Arzneimittel, das überschüssige Magensäure (Salzsäure) bindet.
 
 <details>
