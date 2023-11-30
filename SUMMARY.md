@@ -79,6 +79,7 @@
 ## 💊 Arzneimittel
 
 * [Antiacida](arzneimittel/antiacida.md)
+* [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
 
 ## ⚗ Synthesen
 
