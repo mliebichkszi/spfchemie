@@ -18,6 +18,10 @@ Aspirin bietet Abhilfe gegen Schmerzen, Fieber, Schutz vor Herzinfarkt und Hirns
 
 Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit: die Weltjahresproduktion liegt bei ca. 50 000 Tonnen des Wirkstoffs. Bayer verarbeitet ca. 6000 Tonnen Aspirin pro Jahr. Aspirin ist ein Symbol des Fortschritts der Arzneimittelforschung im 20. Jahrhundert und findet in Film und Literatur genauso seinen Platz wie in jeder Hausapotheke.
 
+## Artikel der NZZ zu Aspirin (2022)
+
 {% embed url="https://www.nzz.ch/gesellschaft/aspirin-von-bayer-eine-reise-von-der-fabrik-in-den-koerper-ld.1660184" %}
+
+## ZDF Dokumentation zu Aspirin
 
 {% embed url="https://www.nanoo.tv/link/v/QXiTLooX" %}
