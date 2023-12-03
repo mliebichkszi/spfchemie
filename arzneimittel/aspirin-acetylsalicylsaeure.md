@@ -25,3 +25,7 @@ Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit
 ## ZDF Dokumentation zu Aspirin
 
 {% embed url="https://www.nanoo.tv/link/v/QXiTLooX" %}
+
+## Labor: Synthese von Aspirin
+
+Sie erhalten die Anleitung in Papierform.
