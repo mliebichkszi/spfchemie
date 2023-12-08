@@ -53,6 +53,14 @@ c) Was beobachten Sie bei Zugabe einer 2% Iodlösung?
 
 Neuere Medikamente enthalten $$H_2$$-Rezeptor-Antagonisten ( $$H_2$$ -Blocker) oder Protonenpumpenhemmer.
 
+### Wirkungsweise von Protonenpumpenhemmer
+
+{% embed url="https://www.nanoo.tv/link/v/CLeZZfdW" %}
+
+### Protonenpumpenhemmer in der Kritik
+
+{% embed url="https://www.nanoo.tv/link/v/uyMwabbv" %}
+
 ### Wirkungsweise von $$H_2$$ - Blocker
 
 Spezielle Magenschleimhaut-Zellen (enterochromaffinartige Zellen, auch H-Zellen genannt) geben bei der Verdauung Histamin ab. Histamin stimuliert die Bildung von Magensäure. Die Sekretion von Histamin wird vom Vagusnerv im Gehirn acetylcholinvermittelt gesteuert. $$H_2$$-Antagonisten blockieren die Aufnahme von Histamin durch den $$H_2$$-Rezeptor (ein Rezeptor-Protein) von Parietalzellen der Magenschleimhaut. Parietalzellen sind grosse, mit Eosin anfärbbare Drüsenzellen, die aus Kohlensäure Protonen abspalten und im Austausch gegen Kaliumionen sezernieren (ein Sekret abgeben) können. Ausserdem transportieren sie Chloridionen in das Mageninnere, wodurch Salzsäure gebildet wird. $$H_2$$-Blocker verringern vor allem die nächtliche Säuresekretion. Die Hemmung ist aber schwächer als bei Protonenpumpenhemmern.
