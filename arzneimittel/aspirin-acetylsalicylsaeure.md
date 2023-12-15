@@ -24,6 +24,10 @@ Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit
 
 {% file src="../.gitbook/assets/aspirin.pdf" %}
 
+## [https://journals.sagepub.com/doi/10.4137/CMT.S4500](https://journals.sagepub.com/doi/10.4137/CMT.S4500)
+
+
+
 ## ZDF Dokumentation zu Aspirin
 
 {% embed url="https://www.nanoo.tv/link/v/QXiTLooX" %}
