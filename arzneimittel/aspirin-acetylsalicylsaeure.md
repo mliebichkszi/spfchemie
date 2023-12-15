@@ -20,7 +20,9 @@ Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit
 
 ## Artikel der NZZ zu Aspirin (2022)
 
-{% embed url="https://www.nzz.ch/gesellschaft/aspirin-von-bayer-eine-reise-von-der-fabrik-in-den-koerper-ld.1660184" %}
+
+
+{% file src="../.gitbook/assets/aspirin.pdf" %}
 
 ## ZDF Dokumentation zu Aspirin
 
