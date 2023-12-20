@@ -82,6 +82,10 @@
 * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
 * [Page](arzneimittel/page.md)
 
+## 🇬🇪 Science in English
+
+* [Nobel Prize Papers](science-in-english/nobel-prize-papers.md)
+
 ## ⚗ Synthesen
 
 * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
@@ -123,7 +127,3 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
-
-## Group 1
-
-* [Science in English](group-1/science-in-english.md)
