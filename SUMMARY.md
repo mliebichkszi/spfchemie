@@ -85,6 +85,7 @@
 ## 🇬🇪 Science in English
 
 * [Nobel Prize Papers](science-in-english/nobel-prize-papers.md)
+* [Poster Templates](science-in-english/poster-templates.md)
 
 ## ⚗ Synthesen
 
