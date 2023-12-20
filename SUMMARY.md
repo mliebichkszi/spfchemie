@@ -80,6 +80,7 @@
 
 * [Antiacida](arzneimittel/antiacida.md)
 * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
+* [Page](arzneimittel/page.md)
 
 ## ⚗ Synthesen
 
@@ -122,3 +123,7 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
+
+## Group 1
+
+* [Science in English](group-1/science-in-english.md)
