@@ -18,6 +18,24 @@ Aspirin bietet Abhilfe gegen Schmerzen, Fieber, Schutz vor Herzinfarkt und Hirns
 
 Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit: die Weltjahresproduktion liegt bei ca. 50 000 Tonnen des Wirkstoffs. Bayer verarbeitet ca. 6000 Tonnen Aspirin pro Jahr. Aspirin ist ein Symbol des Fortschritts der Arzneimittelforschung im 20. Jahrhundert und findet in Film und Literatur genauso seinen Platz wie in jeder Hausapotheke.
 
+### Wie entstehen Schmerzen?
+
+{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611315-Wie_entstehen_Schmerzen133143.mp4?play" %}
+
+### Wirkmechanismus von Schmerzmitteln
+
+{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611316-Wirkmechanismus_von_Schmerzmitteln133142.mp4?play" %}
+
+### Nebenwirkungen von Acetylsalicylsäure
+
+{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611317-Nebenwirkungen_von_Acetylsalicylsaeure133141.mp4?play" %}
+
+
+
+
+
+
+
 ## Artikel der NZZ zu Aspirin (2022)
 
 
