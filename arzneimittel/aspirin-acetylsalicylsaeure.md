@@ -16,7 +16,21 @@ Ohne den 10. August 1897 wäre all dies nicht möglich gewesen. Denn an diesem h
 
 Aspirin bietet Abhilfe gegen Schmerzen, Fieber, Schutz vor Herzinfarkt und Hirnschlag, vielleicht sogar vor Krebs. Der genaue Wirkmechanismus der Acetylsalicylsäure wurde vor ungefähr dreissig Jahren durch Sir John Vane entdeckt. Acetylsalicylsäure hemmt die Synthese von körpereigenen Stoffen, den Prostaglandinen, die u.a. Schmerzzustände auslösen und verstärken können. Zeitgleich wurde auch die Hemmung der Prostaglandinsynthese in den Blutplättchen (Thrombozyten) durch Acetylsalicylsäure entdeckt, durch die ein vermehrtes Zusammenballen der Blutplättchen verhindert wird.
 
-Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit: die Weltjahresproduktion liegt bei ca. 50 000 Tonnen des Wirkstoffs. Bayer verarbeitet ca. 6000 Tonnen Aspirin pro Jahr. Aspirin ist ein Symbol des Fortschritts der Arzneimittelforschung im 20. Jahrhundert und findet in Film und Literatur genauso seinen Platz wie in jeder Hausapotheke.
+Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit: die Weltjahresproduktion liegt bei ca. 50 000 Tonnen des Wirkstoffs. Bayer verarbeitet ca. 6000 Tonnen Aspirin pro Jahr. Aspirin ist ein Symbol des Fortschritts der Arzneimittelforschung im 20. Jahrhundert und findet in Film und Literatur genauso seinen Platz wie in jeder Hausapotheke
+
+{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611314-Vom_Salicin_zur_Acetylsalicylsaeure133140.mp4?play" %}
+
+{% file src="../.gitbook/assets/AB1_Historie_Lsg132672.pdf" %}
+
+{% file src="../.gitbook/assets/AB6_Wirkungen_Lsg132676.pdf" %}
+
+{% file src="../.gitbook/assets/AB5_Wirkmechanismus_Lsg132658.pdf" %}
+
+{% file src="../.gitbook/assets/AB4_Schmerzen_Lsg132668.pdf" %}
+
+{% file src="../.gitbook/assets/AB3_Tablette_Lsg132669.pdf" %}
+
+{% file src="../.gitbook/assets/AB2_Synthese_Lsg132638.pdf" %}
 
 ### Wie entstehen Schmerzen?
 
