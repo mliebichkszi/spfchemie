@@ -31,7 +31,7 @@ $$\mathrm{NaHCO}_{3(\mathrm{aq})}+\mathrm{HCl}_{(\mathrm{aq})} \longrightarrow \
 Mit Antiacida werden Symptome wie das "saure Aufstossen" behandelt. Natriumhydrogencarbonat (auch: Natron, Natriumbicarbonat) sollte aber nicht mehr alleine verwendet werden, da es sehr rasch mit Salzsäure zu $$CO_2$$ reagiert und der pH-Wert zu rasch ansteigt, was wiederum zu einer vermehrten Ausschüttung von Gastrin, einem Hormon, führt, das die Sekretion von Salzsäure auslöst. Bis in die 70er-Jahre wurde Natron aber als Bestandteil von "Bullrich Salz" vertrieben.\
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Seit den 70er-Jahren gibt es Aluminium- und Magnesiumhydroxidgele vertrieben, sowie Mischungen aus Calcium- und Magnesiumcarbonat oder Aluminium-Magnesium-Silicathydrat entwickelt.
 
@@ -73,7 +73,7 @@ Diese Wirkstoffe sind säureempfindlich und werden erst im Dünndarm resorbiert.
 
 Ein Beispiel für einen Protonenpumpenhemmer-Medikament ist Ranitidin:
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Ranitidin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Ranitidin</p></figcaption></figure>
 
 
 
