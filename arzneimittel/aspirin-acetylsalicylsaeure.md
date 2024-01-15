@@ -5,10 +5,8 @@ coverY: 0
 
 # Aspirin (Acetylsalicylsäure)
 
-
-
-> "Der gewöhnliche Mensch lebt heute leichter, bequemer und sicherer als früher der Mächtigste. Was schert es ihn, dass er nicht reicher ist als andere, wenn die Welt es ist und ihm die Strassen, Eisenbahnen, Hotels, Telegraphen, Gesundheit und **Aspirin** zur Verfügung stellt."\
-> José Ortega y Gasset, spanischer Philosoph (Aufstand der Massen 1930)
+"Der gewöhnliche Mensch lebt heute leichter, bequemer und sicherer als früher der Mächtigste. Was schert es ihn, dass er nicht reicher ist als andere, wenn die Welt es ist und ihm die Strassen, Eisenbahnen, Hotels, Telegraphen, Gesundheit und **Aspirin** zur Verfügung stellt."\
+José Ortega y Gasset, spanischer Philosoph (Aufstand der Massen 1930)
 
 ## Geschichte von Aspirin
 
@@ -32,33 +30,13 @@ Aspirin® ist das meist verwendete Arzneimittel in der Geschichte der Menschheit
 
 {% file src="../.gitbook/assets/AB2_Synthese_Lsg132638.pdf" %}
 
-### Wie entstehen Schmerzen?
+### Wie entstehen Schmerzen? Wirkmechanismus von Schmerzmitteln und Nebenwirkungen von Acetylsalicylsäure
 
-{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611315-Wie_entstehen_Schmerzen133143.mp4?play" %}
-
-### Wirkmechanismus von Schmerzmitteln
-
-{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611316-Wirkmechanismus_von_Schmerzmitteln133142.mp4?play" %}
-
-### Nebenwirkungen von Acetylsalicylsäure
-
-{% embed url="https://playout01.edupool.cloud/cloud/63ee4da91a48383f59551b11b0e1e143/video/5611317-Nebenwirkungen_von_Acetylsalicylsaeure133141.mp4?play" %}
-
-
-
-
-
-
+{% embed url="https://www.nanoo.tv/link/v/sashqvkw" %}
 
 ## Artikel der NZZ zu Aspirin (2022)
 
-
-
 {% file src="../.gitbook/assets/aspirin.pdf" %}
-
-## [https://journals.sagepub.com/doi/10.4137/CMT.S4500](https://journals.sagepub.com/doi/10.4137/CMT.S4500)
-
-
 
 ## ZDF Dokumentation zu Aspirin
 
