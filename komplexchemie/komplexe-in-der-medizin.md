@@ -60,7 +60,7 @@ In der Zelle respektive dem Zellkern bindet das Cisplatin an die in der DNA vorh
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p><em>Die Basen Adenin und Guanidin können als Liganden fungieren und über die Stickstoffatome</em></p></figcaption></figure>
 
-Das Cisplatin kann auf verschiedene Weisen an die DNA binden: entweder das Platin-Zentralion bindet innerhalb der gleichen DNA (intramolekolar) (Abbildung 3.29) oder es bindet zwei verschiedene _DNA-Stränge (intermolekular)._
+Das Cisplatin kann auf verschiedene Weisen an die DNA binden: entweder das Platin-Zentralion bindet innerhalb der gleichen DNA (intramolekolar) oder es bindet zwei verschiedene _DNA-Stränge (intermolekular)._
 
 <figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption><p><em>Intramolekulare Bindung des Platin-Komplexes an die DNA</em></p></figcaption></figure>
 
