@@ -36,7 +36,7 @@ Betrachte die folgende pKs- Tabelle. Versuche, die unterschiedlichen pKs-Werte a
 
 Betrachten wir die pKs-Werte der Hydride der ersten Periode:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
 
 Offenbar sinkt der pKs-Wert mit zunehmender Elektronegativität des an das azide H-Atom gebundene Element. HF ist also die stärkste Säure in dieser Gruppe.
 
@@ -95,6 +95,6 @@ Phenol hat einen pKs von 10. _p_-Nitrophenol hat einen pKs von 7.14. Wie erklär
 Die Elektronen in _p_-Nitrophenol können über ein grösseres System verteilt werden:\
 
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

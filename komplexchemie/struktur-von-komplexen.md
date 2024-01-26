@@ -18,9 +18,9 @@ Die Theorie Werners lieferte für obige Tabelle eine stimmige Erklärung. Die $$
 
 Fast alle Komplexe mit der Koordinationszahl sechs haben eine oktaedrische Struktur:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Oktaeder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Oktaeder</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Einfachere Darstellung des Oktaeders</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Einfachere Darstellung des Oktaeders</p></figcaption></figure>
 
 
 
@@ -30,15 +30,15 @@ Die bisher betrachteten Liganden wie $$NH_3$$ und $$Cl^-$$ sind so genannte einz
 
 Ethylendiamin bspw. ist ein mehrzähniger Ligand:
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Ethylendiamin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Ethylendiamin</p></figcaption></figure>
 
 Ethylendiamin, das mit „en“ abgekürzt wird, verfügt über zwei Stickstoffatome mit ungepaarten Elektronen (farbig dargestellt). Diese Donoratome befinden sich weit genug voneinander entfernt, so dass der Ligand ein Metallion umfassen kann und die beiden Stickstoffatome gleichzeitig an benachbarten Positionen an das Metall gebunden werden können:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 EDTA, Ethylendiamintetraacetation $$[EDTA]^{4-}$$ ist ein wichtiger mehrzähniger Ligand mit sechs Donoratomen:
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>EDTA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>EDTA</p></figcaption></figure>
 
 EDTA kann das Metall-Kation vollständig umgeben und sechs Positionen der Koordinations-Sphäre besetzen:
 

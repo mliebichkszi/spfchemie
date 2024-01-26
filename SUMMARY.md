@@ -81,11 +81,17 @@
 * [Antiacida](arzneimittel/antiacida.md)
 * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
 * [Page](arzneimittel/page.md)
+* [Aminosäuren, Proteine](arzneimittel/aminosaeuren-proteine.md)
 
 ## 🇬🇧 Science in English
 
 * [Nobel Prize Papers](science-in-english/nobel-prize-papers.md)
 * [Poster Templates](science-in-english/poster-templates.md)
+
+## 🧬 Biochemie
+
+* [Aminosäuren](biochemie/aminosaeuren.md)
+* [Proteine](biochemie/proteine.md)
 
 ## ⚗ Synthesen
 

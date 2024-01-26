@@ -30,7 +30,7 @@ Das Produkt dieser Reaktion ist der Zucker Glucose (C6 H12 O6), der biologischen
 
 Chlorophylle enthalten ein $$Mg^{2+}$$-Ion, das an vier planar um das Metall angeordnete Stickstoffatome gebunden ist. Die Stickstoffatome sind Teil eines porphinähnlichen Rings. Der Ring verfügt ähnlich wie viele organische Farbstoffe über alternierende bzw. konjugierte Doppelbindungen. Dieses System konjugierter Doppelbindungen ermöglicht Chlorophyll die starke Absorption sichtbaren Lichts mit einer Wellenlänge im Bereich von 400 - 700 nm.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Farbkreis</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Farbkreis</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption><p>Absorptionsspektrum von Chlorophyll. Vergleich des Absorptionsspektrums von Chlorophyll (grüne Kurve) mit der spektralen Verteilung der auf die Erdoberfläche treffenden Sonnenstrahlung (rote Kurve).</p></figcaption></figure>
 
