@@ -80,8 +80,8 @@
 
 * [Antiacida](arzneimittel/antiacida.md)
 * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
-* [Page](arzneimittel/page.md)
-* [Aminosäuren, Proteine](arzneimittel/aminosaeuren-proteine.md)
+* [🧬 Biochemie](arzneimittel/biochemie/README.md)
+  * [🍼 Aminosäuren, Proteine](arzneimittel/biochemie/aminosaeuren-proteine.md)
 
 ## 🇬🇧 Science in English
 
@@ -134,3 +134,7 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
