@@ -4,10 +4,6 @@ description: Schwerpunktfach Biologie Chemie, ML, KZI
 
 # Inhaltsverzeichnis
 
-{% hint style="info" %}
-_**Neu**_ Stellen Sie Fragen über die Suchfunktion ("Lens" wählen).
-{% endhint %}
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
@@ -36,8 +32,8 @@ _**Neu**_ Stellen Sie Fragen über die Suchfunktion ("Lens" wählen).
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="arzneimittel/aminosaeuren-proteine.md" %}
+[aminosaeuren-proteine.md](arzneimittel/aminosaeuren-proteine.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
