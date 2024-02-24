@@ -6,7 +6,7 @@
 
 * [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-fuer-die-pruefung-vom-1.-november-2023-provisorisch.md)
 
-## 〰 Orbitalmodell
+## 〰️ Orbitalmodell
 
 * [Stehende Wellen](orbitalmodell/stehende-wellen.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
@@ -22,7 +22,7 @@
 * [Kohlenwasserstoff-Säuren](säurestärke/kohlenwasserstoff-saeuren.md)
 * [Lewis-Säuren und Basen](säurestärke/lewis-saeuren-und-basen.md)
 
-## 🌡 Thermodynamik
+## 🌡️ Thermodynamik
 
 * [Lernziele](thermodynamik/lernziele.md)
 * [Vorwissen](thermodynamik/vorwissen/README.md)
@@ -49,7 +49,7 @@
   * [Das NO2/N2O4 - Gleichgewicht](thermodynamik/systemdynamik/das-no2-n2o4-gleichgewicht.md)
   * [Katalyse](thermodynamik/systemdynamik/katalyse.md)
 
-## 🧑🔬 Nanotechnologie
+## 🧑‍🔬 Nanotechnologie
 
 * [Der Nano-Bereich](nanotechnologie/der-nano-bereich.md)
 * [Das AFM](nanotechnologie/das-afm.md)
@@ -93,7 +93,7 @@
 * [Aminosäuren](biochemie/aminosaeuren.md)
 * [Proteine](biochemie/proteine.md)
 
-## ⚗ Synthesen
+## ⚗️ Synthesen
 
 * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
   * [Katalysierte Hydrierung](synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
@@ -119,7 +119,7 @@
   * [Links](spektroskopie/infrarot-spektroskopie/links.md)
 * [NMR-Spektroskopie](spektroskopie/nmr-spektroskopie.md)
 
-## ℹ Tabellen und wichtige Begriffe <a href="#tabellen" id="tabellen"></a>
+## ℹ️ Tabellen und wichtige Begriffe <a href="#tabellen" id="tabellen"></a>
 
 * [Säure/Base - Tabelle](tabellen/saeure-base-tabelle.md)
 * [Hydratationsenthalpien](tabellen/hydratationsenthalpien.md)

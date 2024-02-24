@@ -23,7 +23,7 @@ Führe die Experimente in der folgenden 360° - Tour durch. **Wichtig**: Nutze f
 
 {% embed url="https://www.leifiphysik.de/mechanik/mechanische-wellen/versuche/stehende-welle-simulation" %}
 
-{% embed url="https://www.thinglink.com/mediacard/1554896218897776642" %}
+{% embed url="https://www.thinglink.com/card/1554896218897776642" %}
 
 ### Was ist eine Welle?
 
