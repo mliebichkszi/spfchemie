@@ -15,7 +15,7 @@ Aminosäuren (AS) sind wichtige Bausteine für unser Leben. Sie kommen in allen 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Sie müssen diese 20 Aminosäuren auswendig kennen. Überlegen Sie sich eine Strategie, wie man diese AS am einfachsten memorisieren kann. Weiter unten finden Sie ein Memory zu den Aminosäuren.
+Sie müssen **diese 20 Aminosäuren auswendig** kennen. Überlegen Sie sich eine **Strategie**, wie man diese AS am einfachsten memorisieren kann. Weiter unten finden Sie ein Memory zu den Aminosäuren.
 {% endhint %}
 
 Im Alltag treffen wir regelmässig auf verschiedene Aminosäuren, ohne genau zu wissen, was deren Bedeutung für uns ist. So wird die Aminosäure Tryptophan, die in Schokolade vorkommt, in das Glückshormon Serotonin umgewandelt. Sportler bedienen sich der Aminosäure Leucin aus beispielsweise Hülsenfrüchten, um Muskeln aufzubauen. Interessant ist auch der Vermerk „enthält eine Phenylalaninquelle“ auf manchen Lebensmitteln. Dieser Hinweis ist lebensnotwendig für einige Menschen, die an der Stoffwechselkrankheit Phenylketonurie leiden. Diesen Menschen fehlen Enzyme zum Abbau dieser Aminosäure im Körper, sodass sich Phenylalanin im Blut anhäuft. In Folge kann es zu schweren geistigen Behinderungen kommen. Eine weitere bekannte Aminosäure ist die Glutaminsäure, deren Salz der Geschmacksverstärker Glutamat ist und uns dazu verleitet, die Chips-Packung leer zu essen. So sehen wir, dass Aminosäuren unser alltägliches Leben begleiten und prägen.
@@ -37,6 +37,14 @@ Essenzielle Aminosäuren: Einige dieser proteinogenen Aminosäuren können nicht
 <summary>Aufgabe 2<br>Geben Sie ein weiteres Beispiel an, wo Sie Aminosäuren im Alltag finden.</summary>
 
 Valin fungiert zusammen mit Leucin und Isoleucin als wichtiger Energielieferant für die Muskelzellen. Außerdem ist Valin ein wichtiger Botenstoff für das Nervensystem. Die Aminosäure kann über Erbsen, Hühnerfleisch, Käse und Vollkornprodukte aufgenommen werden. Beim Heranwachsen oder während einer Genesung übersteigt der Argininbedarf des Körpers die benötigte Menge. Deshalb muss Arginin zusätzlich über die Nahrung aufgenommen werden. Kürbiskerne, Erdnüsse und Mandeln haben einen hohen Arginin Gehalt und eignen sich besonders gut als Aminosäurenquelle.
+
+</details>
+
+<details>
+
+<summary>Aufgabe 3<br>Die Aminosäure Glycin kann verschiedene Säure/Base-Reaktionen eingehen und daher in unterschiedlich geladener Spezies vorliegen. Zeichnen Sie die zwei Pufferkurven für die drei Spezies der Aminoäsure Glycin. Die pKs-Werte finden Sie in der Formelsammlung.</summary>
+
+Die&#x20;
 
 </details>
 
