@@ -80,8 +80,6 @@
 
 * [Antiacida](arzneimittel/antiacida.md)
 * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
-* [🧬 Biochemie](arzneimittel/biochemie/README.md)
-  * [🍼 Aminosäuren, Proteine](arzneimittel/aminosaeuren-proteine.md)
 
 ## 🇬🇧 Science in English
 
@@ -90,6 +88,7 @@
 
 ## 🧬 Biochemie
 
+* [Aminosäuren (Labor)](biochemie/aminosaeuren-labor.md)
 * [Aminosäuren](biochemie/aminosaeuren.md)
 * [Proteine](biochemie/proteine.md)
 

@@ -42,9 +42,17 @@ Valin fungiert zusammen mit Leucin und Isoleucin als wichtiger Energielieferant 
 
 <details>
 
-<summary>Aufgabe 3<br>Die Aminosäure Glycin kann verschiedene Säure/Base-Reaktionen eingehen und daher in unterschiedlich geladener Spezies vorliegen. Zeichnen Sie die zwei Pufferkurven für die drei Spezies der Aminoäsure Glycin. Die pKs-Werte finden Sie in der Formelsammlung.</summary>
+<summary>Aufgabe 3<br>Die Aminosäure Glycin kann verschiedene Säure/Base-Reaktionen eingehen und daher in unterschiedlich geladener Spezies vorliegen. Zeichnen Sie die zwei Pufferkurven für die drei Spezies der Aminosäure Glycin. Die pKs-Werte von Glycin sind 2.34 und 9.66. Zeichnen Sie das hauptsächlich vorkommende Teilchen über und unter jeder Pufferkurve ein. </summary>
 
-Die&#x20;
+![](<../.gitbook/assets/image (142).png>)
+
+</details>
+
+<details>
+
+<summary>Aufgabe 4<br>0.1 mol Glycin werden in Wasser gelöst und durch Zugabe von Säuren und Basen wird ein pH-Wert von 7.78 eingestellt. Das Volumen der Lösung ist 1 Liter. Jetzt wird solange Lauge hinzugefügt, bis 72.45 % des Glycins als <span class="math">\mathrm{H}_2 \mathrm{~N}-\mathrm{R}-\mathrm{COO}^{-}</span>vorliegen.<br>a) Welcher pH-Wert wird sich einstellen?<br>b) Wieviele mL Natronlauge der Konzentration 5 mol/L müssen zu diesem Zweck zu der ursprünglichen Lösung gegeben werden? </summary>
+
+&#x20; &#x20;
 
 </details>
 
