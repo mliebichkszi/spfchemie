@@ -1,5 +1,5 @@
 ---
-description: 'Quelle: Raabe Verlag, ML'
+description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2022)'
 ---
 
 # Aminosäuren
@@ -53,6 +53,14 @@ Valin fungiert zusammen mit Leucin und Isoleucin als wichtiger Energielieferant 
 <summary>Aufgabe 4<br>0.1 mol Glycin werden in Wasser gelöst und durch Zugabe von Säuren und Basen wird ein pH-Wert von 7.78 eingestellt. Das Volumen der Lösung ist 1 Liter. Jetzt wird solange Lauge hinzugefügt, bis 72.45 % des Glycins als <span class="math">\mathrm{H}_2 \mathrm{~N}-\mathrm{R}-\mathrm{COO}^{-}</span>vorliegen.<br>a) Welcher pH-Wert wird sich einstellen?<br>b) Wieviele mL Natronlauge der Konzentration 5 mol/L müssen zu diesem Zweck zu der ursprünglichen Lösung gegeben werden? </summary>
 
 &#x20; &#x20;
+
+</details>
+
+<details>
+
+<summary>Aufgabe 5<br>Eine der am weitesten verbreiteten genetischen Erkrankungen bei Menschen afrikanischer Abstammung ist die Sichelzellkrankheit, die durch eine Punktmutation (A bis T ) im Beta-Globin-Gen verursacht wird, die Glutaminsäure an der Aminosäureposition 6 der Beta-Globin-Kette des Hämoglobins in Valin umwandelt. Die Veränderung induziert die Bildung von hydrophoben Stellen in Hämoglobinmolekülen unter hypoxischen Bedingungen, die es dem Molekül ermöglichen, verkettete Komplexe zu bilden, die in sichelförmigen roten Blutkörperchen zu finden sind. Glutaminsäure ist eine saure Aminosäure, die neutral geladen ist, und Valin ist eine ungeladene, unpolare hydrophobe Aminosäure bei neutralem pH. Welche der folgenden Aminosäuren würde unter hypoxischen Bedingungen die Bildung von sichelförmigen roten Blutkörperchen verursachen, wenn sie an Position 6 der Beta-Globin-Kette durch Glutaminsäure ersetzt würde?<br>A Asparaginsäure<br>B Arginin<br>C Leucin<br>D Glycin<br>E Prolin</summary>
+
+C Leucin
 
 </details>
 
