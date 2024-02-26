@@ -20,9 +20,7 @@ description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2
 
 Aminosäuren (AS) sind wichtige Bausteine für unser Leben. Sie kommen in allen Lebewesen vor und sind die Grundbausteine von Proteinen (Eiweisse). Im menschlichen Körper unterscheiden wir 20 proteinogene Aminosäuren, also Aminosäuren, die am Aufbau der körpereigenen Proteine verantwortlich sind. Diese sind in Abb. 1 aufgelistet. Die acht gelb markierten Aminosäuren sind essenzielle Aminosäuren, d. h., der Mensch kann diese selbst nicht herstellen und muss sie über die Nahrung aufnehmen. Ein Mensch besitzt Zehntausende verschiedene Proteine im Körper, die ausschliesslich aus diesen 20 Aminosäuren gebildet werden.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sie müssen **diese 20 Aminosäuren auswendig** kennen. Überlegen Sie sich eine **Strategie**, wie man diese AS am einfachsten memorisieren kann. Weiter unten finden Sie ein Memory zu den Aminosäuren.
