@@ -6,7 +6,7 @@ description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2
 
 ## Buchkapitel
 
-{% file src="../.gitbook/assets/aminosäuren.pdf" %}
+{% file src="../.gitbook/assets/aminosaeuren.pdf" %}
 
 ## Filme
 
@@ -15,6 +15,8 @@ description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2
 {% embed url="https://www.fwu-mediathek.de/@/XX9CCDS4" %}
 
 ## 20 Aminosäuren zum auswendiglernen
+
+{% embed url="https://quizlet.com/25757837/aminosauren-flash-cards/?i=30p7lu&x=1jqt" %}
 
 Aminosäuren (AS) sind wichtige Bausteine für unser Leben. Sie kommen in allen Lebewesen vor und sind die Grundbausteine von Proteinen (Eiweisse). Im menschlichen Körper unterscheiden wir 20 proteinogene Aminosäuren, also Aminosäuren, die am Aufbau der körpereigenen Proteine verantwortlich sind. Diese sind in Abb. 1 aufgelistet. Die acht gelb markierten Aminosäuren sind essenzielle Aminosäuren, d. h., der Mensch kann diese selbst nicht herstellen und muss sie über die Nahrung aufnehmen. Ein Mensch besitzt Zehntausende verschiedene Proteine im Körper, die ausschliesslich aus diesen 20 Aminosäuren gebildet werden.
 
