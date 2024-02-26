@@ -14,10 +14,6 @@ description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2
 
 {% embed url="https://www.fwu-mediathek.de/@/XX9CCDS4" %}
 
-## 20 Aminosäuren zum auswendiglernen
-
-{% embed url="https://quizlet.com/25757837/aminosauren-flash-cards/?i=30p7lu&x=1jqt" %}
-
 Aminosäuren (AS) sind wichtige Bausteine für unser Leben. Sie kommen in allen Lebewesen vor und sind die Grundbausteine von Proteinen (Eiweisse). Im menschlichen Körper unterscheiden wir 20 proteinogene Aminosäuren, also Aminosäuren, die am Aufbau der körpereigenen Proteine verantwortlich sind. Diese sind in Abb. 1 aufgelistet. Die acht gelb markierten Aminosäuren sind essenzielle Aminosäuren, d. h., der Mensch kann diese selbst nicht herstellen und muss sie über die Nahrung aufnehmen. Ein Mensch besitzt Zehntausende verschiedene Proteine im Körper, die ausschliesslich aus diesen 20 Aminosäuren gebildet werden.
 
 <figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
@@ -27,6 +23,10 @@ Sie müssen **diese 20 Aminosäuren auswendig** kennen. Überlegen Sie sich eine
 {% endhint %}
 
 Im Alltag treffen wir regelmässig auf verschiedene Aminosäuren, ohne genau zu wissen, was deren Bedeutung für uns ist. So wird die Aminosäure Tryptophan, die in Schokolade vorkommt, in das Glückshormon Serotonin umgewandelt. Sportler bedienen sich der Aminosäure Leucin aus beispielsweise Hülsenfrüchten, um Muskeln aufzubauen. Interessant ist auch der Vermerk „enthält eine Phenylalaninquelle“ auf manchen Lebensmitteln. Dieser Hinweis ist lebensnotwendig für einige Menschen, die an der Stoffwechselkrankheit Phenylketonurie leiden. Diesen Menschen fehlen Enzyme zum Abbau dieser Aminosäure im Körper, sodass sich Phenylalanin im Blut anhäuft. In Folge kann es zu schweren geistigen Behinderungen kommen. Eine weitere bekannte Aminosäure ist die Glutaminsäure, deren Salz der Geschmacksverstärker Glutamat ist und uns dazu verleitet, die Chips-Packung leer zu essen. So sehen wir, dass Aminosäuren unser alltägliches Leben begleiten und prägen.
+
+## 20 Aminosäuren zum auswendiglernen
+
+{% embed url="https://quizlet.com/25757837/aminosauren-flash-cards/?i=30p7lu&x=1jqt" %}
 
 ### Aufgaben
 
