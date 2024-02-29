@@ -49,6 +49,10 @@ Oben haben wir gesehen, wie man einen Wellenimpuls entlang eines Seils sendet, i
 
 ### Beschreibung einer Welle
 
+{% embed url="https://www.nanoo.tv/link/v/mNKyAbNT" %}
+
+{% embed url="https://www.nanoo.tv/link/v/tXsLjXYp" %}
+
 {% embed url="https://www.youtube.com/watch?t=17s&v=Mh-_H2_42NM" %}
 
 ### Wellenfronten
@@ -169,3 +173,4 @@ Kannst du ein Muster in den Amplituden und Energien erkennen?
 ### Stehende Wellen mit der Phet-Simulation erkunden
 
 {% file src="../.gitbook/assets/Seilwelle_PhET_SIM_Stehende_Welle.pdf" %}
+
