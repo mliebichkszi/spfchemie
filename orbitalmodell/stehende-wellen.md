@@ -165,3 +165,7 @@ $$\begin{aligned} & \text { change in } \\ & \text { potential energy } \end{ali
 Um die potenzielle Energie zu berechnen, müssen wir die durchschnittliche Höhe der Welle verwenden. Die durchschnittliche Höhe von Welle B ist doppelt so hoch wie die von Welle A - damit verdoppelt sich die Energie. Welle B hat die doppelte Masse von A - und damit verdoppelt sich auch die Energie. Zusammengenommen erhöhen diese Faktoren die Energie um das Vierfache. Wenn wir die Amplitude von Welle B auf das Dreifache der Amplitude von A erhöhen, steigen die durchschnittliche Höhe und die Masse jeweils um das Dreifache. Dadurch wird die potenzielle Energie 3 × 3 = 9 Mal grösser.
 
 Kannst du ein Muster in den Amplituden und Energien erkennen?
+
+### Stehende Wellen mit der Phet-Simulation erkunden
+
+{% file src="../.gitbook/assets/Seilwelle_PhET_SIM_Stehende_Welle.pdf" %}
