@@ -133,7 +133,3 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
-
-## 🎬 Filme
-
-* [Skateboarding](filme/skateboarding.md)
