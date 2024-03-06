@@ -175,3 +175,7 @@ Kannst du ein Muster in den Amplituden und Energien erkennen?
 {% file src="../.gitbook/assets/Seilwelle_PhET_SIM_Stehende_Welle.pdf" %}
 
 {% embed url="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_de.html" %}
+
+### Transversal- vs Longitudinalwelle
+
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
