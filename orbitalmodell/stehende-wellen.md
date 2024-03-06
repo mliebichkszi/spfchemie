@@ -178,4 +178,4 @@ Kannst du ein Muster in den Amplituden und Energien erkennen?
 
 ### Transversal- vs Longitudinalwelle
 
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.nanoo.tv/link/v/fbATfLjr" %}
