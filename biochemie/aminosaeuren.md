@@ -4,6 +4,10 @@ description: 'Quellen: Raabe Verlag, Arte, Essentials of medical biochemistry (2
 
 # Aminosäuren
 
+## Struktur von Aminosäuren
+
+{% embed url="https://www.nanoo.tv/link/v/YNECpxXj" %}
+
 ## Buchkapitel
 
 {% file src="../.gitbook/assets/aminosaeuren.pdf" %}
