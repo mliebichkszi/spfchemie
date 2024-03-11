@@ -8,8 +8,8 @@
 
 ## 〰️ Orbitalmodell
 
-* [Stehefnde Wellen](orbitalmodell/stehefnde-wellen/README.md)
-  * [Animation einer stehenden Welle](orbitalmodell/stehefnde-wellen/animation-einer-stehenden-welle.md)
+* [Stehende Wellen](orbitalmodell/stehende-wellen/README.md)
+  * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
 * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
