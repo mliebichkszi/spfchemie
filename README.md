@@ -1,5 +1,6 @@
 ---
 description: Schwerpunktfach Biologie Chemie, ML, KZI
+layout: editorial
 ---
 
 # Inhaltsverzeichnis
