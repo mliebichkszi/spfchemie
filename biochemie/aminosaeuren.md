@@ -34,7 +34,7 @@ Aminosäuren haben je nach Seitengruppe R zwei bis drei pKs-Werte. Diese können
 
 ## Buchkapitel
 
-
+Quelle: Chemie Heute SII
 
 {% file src="../.gitbook/assets/aminosundproteine.pdf" %}
 
