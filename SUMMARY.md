@@ -90,7 +90,7 @@
 
 ## 🧬 Biochemie
 
-* [Page](biochemie/page.md)
+* [Aminosäuren](biochemie/aminosaeuren.md)
 * [Aminosäuren (Labor)](biochemie/aminosaeuren-labor.md)
 * [Proteine](biochemie/proteine.md)
 
