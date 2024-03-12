@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Inhaltsverzeichnis](README.md)
-
 ## 🎯 Lernziele
 
-* [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-fuer-die-pruefung-vom-1.-november-2023-provisorisch.md)
+* [Lernziele für die Prüfung vom 1. November 2023](README.md)
 
 ## 〰️ Orbitalmodell
 
