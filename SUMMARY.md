@@ -1,12 +1,8 @@
 # Table of contents
 
-## 🎯 Lernziele
-
-* [Lernziele für die Prüfung vom 1. November 2023](README.md)
-
 ## 〰️ Orbitalmodell
 
-* [Stehende Wellen](orbitalmodell/stehende-wellen/README.md)
+* [Stehende Wellen](README.md)
   * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
@@ -125,6 +121,10 @@
 * [Molare Standardbindungsenthalpien](tabellen/molare-standardbindungsenthalpien.md)
 * [Bildungsenthalpien und Entropien](tabellen/bildungsenthalpien-und-entropien.md)
 * [Wichtige Begriffe](tabellen/wichtige-begriffe.md)
+
+## 🎯 Lernziele
+
+* [Lernziele für die Prüfung vom 1. November 2023](<README (1).md>)
 
 ## 🔗 Links
 
