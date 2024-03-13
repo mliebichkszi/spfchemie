@@ -4,11 +4,11 @@
 
 * [Stehende Wellen](README.md)
   * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
+* [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
 * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
   * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
-* [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
 
 ## 🍋 Stabilität von Säuren und Basen <a href="#säurestärke" id="säurestärke"></a>
 
