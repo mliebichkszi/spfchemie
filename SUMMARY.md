@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Module](README.md)
+* [📖 Module](README.md)
 
 ## 〰️ Orbitalmodell
 
