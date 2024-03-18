@@ -1,10 +1,12 @@
 # Proteine
 
-## Primär- und Sekundärstruktur
+## Sekundärstruktur
 
 ### α-Helix und β-Faltblatt
 
 {% file src="../.gitbook/assets/alpha_beta_ab.pdf" %}
+
+{% file src="../.gitbook/assets/alpha_beta_ab_lsg.pdf" %}
 
 ### α-Helix
 
