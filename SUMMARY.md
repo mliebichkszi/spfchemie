@@ -1,10 +1,8 @@
 # Table of contents
 
-* [📖 Module](README.md)
-
 ## 〰️ Orbitalmodell
 
-* [Stehende Wellen](<README (1).md>)
+* [Stehende Wellen](README.md)
   * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
 * [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
@@ -127,6 +125,7 @@
 ## 🎯 Lernziele
 
 * [Lernziele für die Prüfung vom 1. November 2023](<README (1) (1).md>)
+* [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
 
 ## 🔗 Links
 
