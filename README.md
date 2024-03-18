@@ -1,3 +1,5 @@
-# Module
+# 📖 Module
 
-[Broken link](broken-reference "mention")
+{% content-ref url="biochemie/aminosaeuren.md" %}
+[aminosaeuren.md](biochemie/aminosaeuren.md)
+{% endcontent-ref %}
