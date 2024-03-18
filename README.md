@@ -1,5 +1,5 @@
 # 📖 Module
 
-{% content-ref url="biochemie/aminosaeuren.md" %}
-[aminosaeuren.md](biochemie/aminosaeuren.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
