@@ -1,4 +1,4 @@
-# Page
+# Aminosäuren
 
 ## Struktur von Aminosäuren
 
@@ -33,6 +33,10 @@ Aminosäuren haben je nach Seitengruppe R zwei bis drei pKs-Werte. Diese können
 Quelle: Chemie Heute SII
 
 {% file src="../.gitbook/assets/aminosundproteine.pdf" %}
+
+Quelle: Chemie für Dummies
+
+{% file src="../.gitbook/assets/aminosäurendummies.pdf" %}
 
 ## Filme
 
