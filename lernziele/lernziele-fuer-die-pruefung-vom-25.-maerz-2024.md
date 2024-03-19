@@ -20,5 +20,4 @@
 * [ ] Sie wissen, was Mesomerie ist und können mesomere Formen für eine gegebene Peptidbindung zeichnen.
 * [ ] Sie können zwischen Primär- und Sekundärstruktur unterscheiden.
 * [ ] Sie kennen die Struktur der $$\alpha - Helix$$und das $$\beta - Faltblatt$$ und wissen, wie diese Strukturen auf molekularer Ebene gebildet werden.
-* [ ] Sie wissen, wie sich eine Tertiärstruktur bildet.
 * [ ] Sie wissen, was bei der Denaturierung von Proteinen auf molekularer Ebene passiert und wie die Denaturierung im Körper verhindert wird.
