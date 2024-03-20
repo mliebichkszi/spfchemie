@@ -9,6 +9,7 @@
 * [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
+* [Flammenfarben](orbitalmodell/flammenfarben.md)
 * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
   * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
 
