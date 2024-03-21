@@ -9,7 +9,7 @@
 * [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
 * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
 * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
-* [Film zur Quantenphysik](orbitalmodell/film-zur-quantenphysik.md)
+* [Filme zur Quantenphysik](orbitalmodell/filme-zur-quantenphysik.md)
 * [Flammenfarben](orbitalmodell/flammenfarben.md)
 * [Unschärfebeziehung](orbitalmodell/unschaerfebeziehung.md)
 * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
