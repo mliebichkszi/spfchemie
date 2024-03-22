@@ -1,19 +1,18 @@
 # Table of contents
 
-* [Module](README.md)
-
 ## 〰️ Orbitalmodell
 
-* [Stehende Wellen](<README (1).md>)
-  * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
-* [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
-* [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
-* [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
-* [Filme zur Quantenphysik](orbitalmodell/filme-zur-quantenphysik.md)
-* [Flammenfarben](orbitalmodell/flammenfarben.md)
-* [Unschärfebeziehung](orbitalmodell/unschaerfebeziehung.md)
-* [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
-  * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
+* [〰️ Orbitalmodell](README.md)
+  * [Stehende Wellen](orbitalmodell/orbitalmodell/stehende-wellen/README.md)
+    * [Animation einer stehenden Welle](orbitalmodell/orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
+  * [Elektromagnetische Wellen](orbitalmodell/orbitalmodell/elektromagnetische-wellen.md)
+  * [Elektronenbeugung](orbitalmodell/orbitalmodell/elektronenbeugung.md)
+  * [Der photoelektrische Effekt](orbitalmodell/orbitalmodell/der-photoelektrische-effekt.md)
+  * [Filme zur Quantenphysik](orbitalmodell/orbitalmodell/filme-zur-quantenphysik.md)
+  * [Flammenfarben](orbitalmodell/orbitalmodell/flammenfarben.md)
+  * [Unschärfebeziehung](orbitalmodell/orbitalmodell/unschaerfebeziehung.md)
+  * [Orbitale und Hybridisierung](orbitalmodell/orbitalmodell/orbitale-und-hybridisierung/README.md)
+    * [Visualisierungen](orbitalmodell/orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
 
 ## 🍋 Stabilität von Säuren und Basen <a href="#säurestärke" id="säurestärke"></a>
 
