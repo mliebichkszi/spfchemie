@@ -11,14 +11,12 @@
   * [Unschärfebeziehung](orbitalmodell/unschaerfebeziehung.md)
   * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
     * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
-
-## 🍋 Stabilität von Säuren und Basen <a href="#säurestärke" id="säurestärke"></a>
-
-* [Löslichkeit von Säuren und Basen](säurestärke/datenbanken.md)
-* [pKs-Werte](säurestärke/pks-werte.md)
-* [pKs im Alltag - die Entwicklung des Medikaments Cimetidin](säurestärke/pks-im-alltag-die-entwicklung-des-medikaments-cimetidin.md)
-* [Kohlenwasserstoff-Säuren](säurestärke/kohlenwasserstoff-saeuren.md)
-* [Lewis-Säuren und Basen](säurestärke/lewis-saeuren-und-basen.md)
+* [🍋 Stabilität von Säuren und Basen](stabilitaet-von-saeuren-und-basen/README.md)
+  * [Löslichkeit von Säuren und Basen](stabilitaet-von-saeuren-und-basen/datenbanken.md)
+  * [pKs-Werte](stabilitaet-von-saeuren-und-basen/pks-werte.md)
+  * [pKs im Alltag - die Entwicklung des Medikaments Cimetidin](stabilitaet-von-saeuren-und-basen/pks-im-alltag-die-entwicklung-des-medikaments-cimetidin.md)
+  * [Kohlenwasserstoff-Säuren](stabilitaet-von-saeuren-und-basen/kohlenwasserstoff-saeuren.md)
+  * [Lewis-Säuren und Basen](stabilitaet-von-saeuren-und-basen/lewis-saeuren-und-basen.md)
 
 ## 🌡️ Thermodynamik
 
