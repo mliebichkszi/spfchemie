@@ -44,6 +44,7 @@
     * [Das NO2/N2O4 - Gleichgewicht](thermodynamik/systemdynamik/das-no2-n2o4-gleichgewicht.md)
     * [Katalyse](thermodynamik/systemdynamik/katalyse.md)
 * [🪷 Nanotechnologie](nanotechnologie/README.md)
+  * [Grössenordnungen](nanotechnologie/groessenordnungen.md)
   * [Der Nano-Bereich](nanotechnologie/der-nano-bereich.md)
   * [Das AFM](nanotechnologie/das-afm.md)
   * [Der Lotus-Effekt](nanotechnologie/der-lotus-effekt.md)
