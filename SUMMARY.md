@@ -102,6 +102,7 @@
   * [Hydratationsenthalpien](tabellen-und-wichtige-begriffe/hydratationsenthalpien.md)
   * [Molare Standardbindungsenthalpien](tabellen-und-wichtige-begriffe/molare-standardbindungsenthalpien.md)
   * [Bildungsenthalpien und Entropien](tabellen-und-wichtige-begriffe/bildungsenthalpien-und-entropien.md)
+  * [pKs-Werte von Aminosäuren](tabellen-und-wichtige-begriffe/pks-werte-von-aminosaeuren.md)
   * [Wichtige Begriffe](tabellen-und-wichtige-begriffe/wichtige-begriffe.md)
 * [🎯 Lernziele](lernziele/README.md)
   * [Lernziele für die Prüfung vom 1. November 2023](<README (1) (1).md>)
