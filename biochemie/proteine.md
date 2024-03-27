@@ -10,6 +10,10 @@
 
 {% embed url="https://www.nanoo.tv/link/v/rGWVXTDe" %}
 
+### Sonstige Strukturen&#x20;
+
+{% embed url="https://www.nanoo.tv/link/v/goGqTqAr" %}
+
 ## Denaturierung von Proteinen
 
 {% file src="../.gitbook/assets/denat.AB.pdf" %}
@@ -23,5 +27,3 @@
 {% embed url="https://www.nanoo.tv/link/v/jayhPhYe" %}
 
 {% file src="../.gitbook/assets/AB_Proteine.pdf" %}
-
-{% embed url="https://www.nanoo.tv/link/v/goGqTqAr" %}
