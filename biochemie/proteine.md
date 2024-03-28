@@ -141,8 +141,7 @@ GAGGCCAGCAGCGTGTGCAGCGTGAGCCCCCACGCC
 {% endtab %}
 
 {% tab title="EMBOSS Transeq" %}
-**1.** Rufe die EMBOSS Transeq-Methode im untenstehenden Fenster\
-auf.\
+**1.** [Rufe die EMBOSS Transeq-Methode](https://www.ebi.ac.uk/jdispatcher/st/emboss\_transeq) auf.\
 **2.** Füge die DNA-Sequenz (einschließlich des Größer-als-Symbols (>) und des Sequenznamens) in das Abfragefeld ein (STEP 1). Stelle sicher, dass im Feld “Parameters” (STEP 2) “frame=1” und “Codon table=Standard codon” ausgewählt ist. Sende dann deine Anfrage ab, indem du auf “Submit” klickst. \
 **3.** Sieh dir die angezeigte Datentabelle an und versuche, die mit der Aufgabe verbundenen Fragen zu beantworten. Für eine bessere Visualisierung kannst du auf “Show Colors” klicken.\
 **4.** Speichere oder kopiere die Aminosäuresequenz für die nächste Aufgabe.
