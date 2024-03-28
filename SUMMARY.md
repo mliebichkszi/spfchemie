@@ -105,8 +105,10 @@
   * [pKs-Werte von Aminosäuren](tabellen-und-wichtige-begriffe/pks-werte-von-aminosaeuren.md)
   * [Wichtige Begriffe](tabellen-und-wichtige-begriffe/wichtige-begriffe.md)
 * [🎯 Lernziele](lernziele/README.md)
-  * [Lernziele für die Prüfung vom 1. November 2023](<README (1) (1).md>)
-  * [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
+  * [Lernziele 4. Klasse](lernziele/lernziele-4.-klasse.md)
+  * [Lernziele 6. Klasse](lernziele/lernziele-6.-klasse/README.md)
+    * [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-1.-november-2023.md)
+    * [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
 
 ## 🔗 Links
 
