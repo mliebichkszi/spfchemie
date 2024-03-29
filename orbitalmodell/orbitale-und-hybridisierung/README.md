@@ -93,10 +93,8 @@ Im Fall des $$H_2$$-Moleküls resultiert also eine Bindungsordnung von 1, was ei
 
 Wie geht es weiter? Wie kombinieren wir 1s, 2s und die verschiedenen 2p-Orbitale zu MOs in grösseren Molekülen? Nun, die Prinzipien bleiben die gleichen:
 
-*
-  *
-    1. Man kombiniert die verfügbaren AOs in geeigneter Weise so, dass die gleiche Zahl von MOs verschiedener herauskommt, von denen einige bindend, andere antibindend sind.
-    2. Man füllt die MOs, angefangen beim energieärmsten, mit allen verfügbaren Elektronen auf und zwar pro Orbital zwei.
+1. Man kombiniert die verfügbaren AOs in geeigneter Weise so, dass die gleiche Zahl von MOs verschiedener herauskommt, von denen einige bindend, andere antibindend sind.
+2. Man füllt die MOs, angefangen beim energieärmsten, mit allen verfügbaren Elektronen auf und zwar pro Orbital zwei.
 
 Die geeignete Weise lässt sich mit drei Kombinationsregeln ableiten:
 
@@ -107,41 +105,27 @@ Die geeignete Weise lässt sich mit drei Kombinationsregeln ableiten:
 
 Die folgenden Abbildungen zeigen, wie p-Orbitale zu MOs kombiniert werden können:
 
-![](../../.gitbook/assets/5)
+![Die rot eingefärbten p-Orbital können zur σ-Bindung überlappen, die anderen überlappen zur π- Bindung](../../.gitbook/assets/5)
 
-Abbildung 5: Die rot eingefärbten p-Orbital können zur _σ_-Bindung überlappen, die anderen überlappen zur _π_- Bindung
+![Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt](<../../.gitbook/assets/6 (1)>)
 
-![](<../../.gitbook/assets/6 (1)>)
+![Die p-Orbitale sind in Phase, was zu einem bindenden MO führt](<../../.gitbook/assets/7 (1)>)
 
-Abbildung 6: Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt
+Die folgende Abbildung zeigt ungeeignete Möglichkeiten wie Orbitale überlappen können, ohne dass eine Bindung resultiert.
 
-![](<../../.gitbook/assets/7 (1)>)
+Im nächsten Fall unterscheiden sich die Orbitale zu stark in ihrer Grösse. Dies ist der Fall bei _π_- Bindungen, wenn die benötigten AOs verschiedene Hauptquantenzahlen haben. Ein 2p-Orbital überlappt wesentlich besser mit einem anderen 2p-Orbital als mit einem 3p-Orbital. Ein weiterer Faktor ist die Symmetrie der Orbitale; diese muss bei zwei AOs übereinstimmen, damit eine Bindung gebildet wird.
 
-Abbildung 7: Die p-Orbitale sind in Phase, was zu einem bindenden MO führt
+![Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt](<../../.gitbook/assets/8 (2)>)
 
-Die folgende Abbildung zeigt ungeeignete Möglichkeiten wie Orbitale überlappen können, oh- ne dass eine Bindung resultiert:
+![Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur π-Bindung](<../../.gitbook/assets/9 (2)>)
 
-Im nächsten Fall unterscheiden sich die Orbitale zu stark in ihrer Grösse. Dies ist der Fall bei _π_- Bindungen, wenn die benötigten AOs verschiedene Hauptquantenzahlen haben. Ein 2p-Orbital überlappt wesentlich besser mit einem anderen 2p-Orbital als mit einem 3p-Orbital. Ein weiterer Faktor ist die Symmetrie der Orbitale; diese muss bei zwei AOs übereinstimmen, damit eine
+So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen (vgl. Abbildung 5 ganz links).
 
-![](<../../.gitbook/assets/8 (2)>)
+![Ungeeignete (beide links) und geeignete Ausrichtung (rechts)](<../../.gitbook/assets/10 (2)>)
 
-Abbildung 8: Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt
+![Überlappung bei gleicher Grösse (links) und unterschiedlicher Grösse (rechts)](<../../.gitbook/assets/11 (2)>)
 
-![](<../../.gitbook/assets/9 (2)>)
-
-Abbildung 9: Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur _π_-Bindung
-
-Bindung resultiert. So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen (vgl. Abbildung 5 ganz links).
-
-![](<../../.gitbook/assets/10 (2)>)
-
-Abbildung 10: Ungeeignete (beide links) und geeignete Ausrichtung (rechts)
-
-![](<../../.gitbook/assets/11 (2)>)
-
-Abbildung 11: Überlappung bei gleicher Grösse (links) und unterschiedlicher Grösse (rechts)
-
-Mit diesen Informationen können wir es einmal wagen, das MO-Diagramm eines einfa- chen zweiatomigen Moleküls wie Sauerstoff zu entwickeln. Dazu zeichnen wir zuerst das Energieniveau-Schema für jedes einzelne Sauerstoff-Atom auf. Danach kombinieren wir die AOs nach den Regeln, die oben dargestellt sind. Im letzten Schritt füllen wir die MOs mit Elektronen auf und berechnen die Bindungsordnung.
+Mit diesen Informationen können wir es einmal wagen, das MO-Diagramm eines einfachen zweiatomigen Moleküls wie Sauerstoff zu entwickeln. Dazu zeichnen wir zuerst das Energieniveau-Schema für jedes einzelne Sauerstoff-Atom auf. Danach kombinieren wir die AOs nach den Regeln, die oben dargestellt sind. Im letzten Schritt füllen wir die MOs mit Elektronen auf und berechnen die Bindungsordnung.
 
 Da die beiden 2s-Orbitale gleiche Energie haben, werden sie vorzugsweise kombiniert, ebenso die 2p-Orbitale. Die beiden px-Orbitale zeigen entlang der Kernverbindungsachse aufeinan- der zu; deshalb können sie sich so überlappen, dass eine _σ_-Bindung entsteht. Je grösser aber die mögliche Überlappung der Orbitale, desto grösser ist die Energiedifferenz zwischen dem bindenden und antibindenden Zustand - oder anders ausgedrückt, das _σ_-MO ist in der Re-
 
@@ -149,9 +133,7 @@ gel energieärmer als die _π_-MOs, da sich die py- und pz-Orbitale aus geometri
 
 jedoch genau hin, so entdeckt man, dass sich im _π∗_2px und _π∗_2py je ein ungepaartes Elektron befindet. Das Sauerstoffmolekül sollte also ein Diradikal sein! Und genau so ist es - magnetische
 
-![](<../../.gitbook/assets/12 (1)>)
-
-Abbildung 12: a) MO-Schema für Fluor, b) für Sauerstoff
+![a) MO-Schema für Fluor, b) für Sauerstoff](<../../.gitbook/assets/12 (1)>)
 
 Messungen beweisen eindeutig, dass Sauerstoff paramagnetisch ist und damit ein Diradikal ist, was im übrigen seine Reaktionsfähigkeit erklärt. Eine solche Struktur ist aber auf keine Art durch eine Lewisschreibweise darstellbar oder erklärbar.
 
@@ -205,25 +187,15 @@ Abbildung 15: Hybridisierung von einem s- mit einem p-Orbital zu 2 sp-Orbitalen
    2. Ab welcher Quantenzahl sind d-Orbitale möglich?
    3. Welche anschauliche physikalische Bedeutung misst man der Ψ2-Wellenfunktion zu?
    4. Wenn man Elektronen Energie zuführt, so wechseln sie in einen höheren Energiezu- stand über. Ist das mit dem Bohrschen “Schalenmodell” mit exakten Bahnen erklärbar? Ist dies mit der Orbitaltheorie erklärbar?
-
-N O
-
-1. (a) Ist Oxazol
-
-eine Base?
-
-HN N
-
-*
-  1. Welches N-Atom im Imidazol ist basischer?
-
-1. (a) Wieviele MOs entstehen aus einer bestimmten Zahl von AOs?
+4. (a) Ist Oxazol eine Base?
+5. Welches N-Atom im Imidazol ist basischer?
+6. (a) Wieviele MOs entstehen aus einer bestimmten Zahl von AOs?
    1. Wodurch unterscheiden sich bindende und antibindende MOs?
    2. Wieviele Elektronen kann jedes MO aufnehmen?
    3. Nach welchen Regeln werden AOs und MOs besetzt?
-2. (a) Warum tragen in den wasserstoffähnlichen, zweiatomigen Molekülen H2+, H2–, He2+ und He2 die ersten zwei beiden Elektronen zur Bindung bei, während das dritte und vierte sie lockern?
+7. (a) Warum tragen in den wasserstoffähnlichen, zweiatomigen Molekülen H2+, H2–, He2+ und He2 die ersten zwei beiden Elektronen zur Bindung bei, während das dritte und vierte sie lockern?
    1. Wie gross ist in jedem dieser Moleküle oder Molekülionen die Bindungsordnung?
-3. Sie sehen unten links die MOlekülorbitalenergien des MO-Diagramms (die AOs sind weg- gelassen), so wie sie für O2 und F2 gelten. Rechts daneben sehen Sie die leicht veränderten Molekülorbitalenergien, wie sie für die Elemente der 2. Periode von Li2 bis N2 gelten. Ihre Aufgabe besteht darin herauszufinden, welche Elemente als zweiatomige Moleküle vor- kommen, wie die Bindungsordnung ist, und wo Radikale auftreten.
+8. Sie sehen unten links die MOlekülorbitalenergien des MO-Diagramms (die AOs sind weg- gelassen), so wie sie für O2 und F2 gelten. Rechts daneben sehen Sie die leicht veränderten Molekülorbitalenergien, wie sie für die Elemente der 2. Periode von Li2 bis N2 gelten. Ihre Aufgabe besteht darin herauszufinden, welche Elemente als zweiatomige Moleküle vor- kommen, wie die Bindungsordnung ist, und wo Radikale auftreten.
 
 ![](../../.gitbook/assets/16)
 
