@@ -67,25 +67,19 @@ Wir können jetzt die Verhältnisse im $$H_2$$-Molekül und im $$H^+$$ und $$He^
 
 Dazu verteilen wir die Elektronen nach den gleichen Besetzungsregeln wie bei den AOs auf die MOs.
 
-![](<../../.gitbook/assets/3 (2)>)
+![-Molekül](<../../.gitbook/assets/3 (2)>)
 
-Abbildung 3: H2-Molekül
+Es bildet sich ein bindendes _σ_ und antibindendes _σ\*_ MO. Beide Elektronen befinden sich im bindenden MO - sie bewirken den Zusammenhalt des Moleküls.
 
-Es bildet sich ein bindendes _σ_ und antibindendes _σ∗_ MO. Beide Elektronen befinden sich im bindenden MO - sie bewirken den Zusammenhalt des Moleküls.
+Betrachten wir als Nächstes das $$H_2^+$$-Molekülion, das $$He^+$$-Molekülion und das hypothetische
 
-Betrachten wir als Nächstes das H2+-Molekülion, das He +-Molekülion und das hypothetische
+$$He_2$$-Molekül:
 
-2
+![Energetisch günstige (a, b) und ungünstige Bindungen (c)](../../.gitbook/assets/4)
 
-He2-Molekül:
+Beim experimentell nachweisbaren Ion $$He_2^+$$ befinden sich zwei Elektronen im bindenden MO, eines im antibindenden.
 
-![](../../.gitbook/assets/4)
-
-Abbildung 4: Energetisch günstige (a, b) und ungünstige Bindungen (c)
-
-Beim experimentell nachweisbaren Ion He2+ befinden sich zwei Elektronen im bindenden MO, eines im antibindenden.
-
-Im nicht existierenden He2-Molekül sind gleich viele Elektronen im bindenden wie im antibin- denden Zustand.
+Im nicht existierenden $$He_2$$-Molekül sind gleich viele Elektronen im bindenden wie im antibin- denden Zustand.
 
 Es gibt eine einfache Regel, um den Grad der Bindung, die Bindungsordnung auszurechnen:
 
@@ -93,7 +87,7 @@ Es gibt eine einfache Regel, um den Grad der Bindung, die Bindungsordnung auszur
 
 (bindende - antibindende Elektronen) : 2 = Bindungsordnung
 
-Im Fall des H2-Moleküls resultiert also eine Bindungsordnung von 1, was einer Einfachbindung entspricht; beim He2+ resultiert eine Bindungsordnung von (2-1):2 = 0.5, beim nur theoretischen He2-Molekül resultiert 0, was der Erfahrung entspricht, dass He atomar vorliegt.
+Im Fall des $$H_2$$-Moleküls resultiert also eine Bindungsordnung von 1, was einer Einfachbindung entspricht; beim $$He_2^+$$ resultiert eine Bindungsordnung von (2-1):2 = 0.5, beim nur theoretischen $$He_2$$-Molekül resultiert 0, was der Erfahrung entspricht, dass He atomar vorliegt.
 
 ### Grössere zweiatomige Moleküle <a href="#bookmark11" id="bookmark11"></a>
 
