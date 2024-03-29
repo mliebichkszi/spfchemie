@@ -6,9 +6,9 @@ Der österreichische Physiker Erwin Schrödinger schlug 1926 eine Gleichung vor,
 
 Die Lösung der Schrödingergleichung führt zu einer Reihe mathematischer Funktionen, den **Wellenfunktionen**, mit denen das Elektron beschrieben wird. Diese Wellenfunktionen werden durch das Symbol _ψ_ repräsentiert (gr. psi).
 
-Beim Wasserstoffatom stimmen die erlaubten Energien mit denen des Bohr’schen Atommodells überein. Im Bohr’schen Atommodell befindet sich das Elektron aber auf einer kreisförmigen Umlaufbahn mit einem bestimmten Abstand vom Kern. Im quantenmechanischen MOdell kann der Aufenthaltsort des Elektrons nicht auf derart einfache Weise beschrieben werden. Gemäss der Unschärferelation ist unsere Kenntnis über den Aufenthaltsort des Elektrons bei einem mit hoher Genauigkeit bekannten Impuls sehr ungenau.
+Beim Wasserstoffatom stimmen die erlaubten Energien mit denen des Bohr’schen Atommodells überein. Im Bohr’schen Atommodell befindet sich das Elektron aber auf einer kreisförmigen Umlaufbahn mit einem bestimmten Abstand vom Kern. Im quantenmechanischen Modell kann der Aufenthaltsort des Elektrons nicht auf derart einfache Weise beschrieben werden. Gemäss der Unschärferelation ist unsere Kenntnis über den Aufenthaltsort des Elektrons bei einem mit hoher Genauigkeit bekannten Impuls sehr ungenau.
 
-Man kann also den Aufenthaltsort eines einzelnen Elektrons um den Kern nicht exakt angeben, sondern muss sich vielmehr mit einer Art statistischen Wissens zufrieden geben. Im quanten- mechanischen Modell betrachten wir daher die Wahrscheinlichkeit, mit der sich das Elektron zu einem bestimmten Zeitpunkt in einem bestimmten Bereich aufhält. Wie sich herausstellt, gibt das Quadrat der Wellenfunktion _ψ_2 an einem bestimmten Ort die Wahrscheinlichkeit an, mit der sich das Elektron an diesem Ort aufhält. Aus diesem Grund wird _ψ_2 die **Wahrscheinlichkeits- dichte** bzw. **Elektronendichte** genannt. Elektronen können sich also nur in einem bestimmten abgegrenzten Raum aufhalten und somit auch nur bestimmte (diskrete) Energiezustände ein- nehmen. Dies entspricht genau der Schlussfolgerung, die man aus den Spektrallinien ziehen muss.
+Man kann also den Aufenthaltsort eines einzelnen Elektrons um den Kern nicht exakt angeben, sondern muss sich vielmehr mit einer Art statistischen Wissens zufrieden geben. Im quanten- mechanischen Modell betrachten wir daher die Wahrscheinlichkeit, mit der sich das Elektron zu einem bestimmten Zeitpunkt in einem bestimmten Bereich aufhält. Wie sich herausstellt, gibt das Quadrat der Wellenfunktion _ψ_2 an einem bestimmten Ort die Wahrscheinlichkeit an, mit der sich das Elektron an diesem Ort aufhält. Aus diesem Grund wird _ψ_2 die **Wahrscheinlichkeitsdichte** bzw. **Elektronendichte** genannt. Elektronen können sich also nur in einem bestimmten abgegrenzten Raum aufhalten und somit auch nur bestimmte (diskrete) Energiezustände ein- nehmen. Dies entspricht genau der Schlussfolgerung, die man aus den Spektrallinien ziehen muss.
 
 ### Orbitale <a href="#bookmark1" id="bookmark1"></a>
 
@@ -32,9 +32,9 @@ Ein Orbital mit den Quantenzahlen n = 3, l = 2 sind also 3d-Orbitale.
 
 ### Formen der Orbitale <a href="#bookmark3" id="bookmark3"></a>
 
-Die Aufenthaltswahrscheinlichkeiten kann man dreidimensional darstellen und erhält so unter- schiedlich geformte Orbitale. Da wir uns in der organischen Chemie im PK fast nur mit den Elementen der 1. und 2. Periode (H, C, N, O) beschäftigen, können wir uns auf die Formen der s- und p-Orbitale beschränken (Animation: [https://www.chemtube3d.com/a-level-orbitals-all/)](https://www.chemtube3d.com/a-level-orbitals-all/\)): Man sieht, dass die s-Orbitale keine Knotenfläche besitzen, die p-Orbitale eine. So ausgerüstet
+Die Aufenthaltswahrscheinlichkeiten kann man dreidimensional darstellen und erhält so unter- schiedlich geformte Orbitale. Da wir uns in der organischen Chemie fast nur mit den Elementen der 1. und 2. Periode (H, C, N, O) beschäftigen, können wir uns auf die Formen der s- und p-Orbitale beschränken (Animation: [https://www.chemtube3d.com/a-level-orbitals-all/)](https://www.chemtube3d.com/a-level-orbitals-all/\)): Man sieht, dass die s-Orbitale keine Knotenfläche besitzen, die p-Orbitale eine. So ausgerüstet
 
-![](../../../.gitbook/assets/1)
+![](../../.gitbook/assets/1)
 
 Abbildung 1: Formen der s- und p-Orbitale
 
@@ -48,7 +48,7 @@ Beide Theorien gehen davon aus, dass eine kovalente Bindung durch Überlappung g
 
 Ein Beispiel: Wie bereits in der Wellentheorie angetroffen, kann eine Interferenz konstruktiv (a)
 
-![](../../../.gitbook/assets/2)
+![](../../.gitbook/assets/2)
 
 Abbildung 2: Überlappung von Atomorbitalen. a) konstruktive Überlappung, b) desktruktive Überlappung
 
@@ -75,7 +75,7 @@ Wir können jetzt die Verhältnisse im H2-Molekül und im H + und He + Molekül-
 
 Dazu verteilen wir die Elektronen nach den gleichen Besetzungsregeln wie bei den AOs auf die MOs.
 
-![](<../../../.gitbook/assets/3 (2)>)
+![](<../../.gitbook/assets/3 (2)>)
 
 Abbildung 3: H2-Molekül
 
@@ -87,7 +87,7 @@ Betrachten wir als Nächstes das H2+-Molekülion, das He +-Molekülion und das h
 
 He2-Molekül:
 
-![](../../../.gitbook/assets/4)
+![](../../.gitbook/assets/4)
 
 Abbildung 4: Energetisch günstige (a, b) und ungünstige Bindungen (c)
 
@@ -121,15 +121,15 @@ Die geeignete Weise lässt sich mit drei Kombinationsregeln ableiten:
 
 Die folgenden Abbildungen zeigen, wie p-Orbitale zu MOs kombiniert werden können:
 
-![](../../../.gitbook/assets/5)
+![](../../.gitbook/assets/5)
 
 Abbildung 5: Die rot eingefärbten p-Orbital können zur _σ_-Bindung überlappen, die anderen überlappen zur _π_- Bindung
 
-![](<../../../.gitbook/assets/6 (1)>)
+![](<../../.gitbook/assets/6 (1)>)
 
 Abbildung 6: Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt
 
-![](<../../../.gitbook/assets/7 (1)>)
+![](<../../.gitbook/assets/7 (1)>)
 
 Abbildung 7: Die p-Orbitale sind in Phase, was zu einem bindenden MO führt
 
@@ -137,21 +137,21 @@ Die folgende Abbildung zeigt ungeeignete Möglichkeiten wie Orbitale überlappen
 
 Im nächsten Fall unterscheiden sich die Orbitale zu stark in ihrer Grösse. Dies ist der Fall bei _π_- Bindungen, wenn die benötigten AOs verschiedene Hauptquantenzahlen haben. Ein 2p-Orbital überlappt wesentlich besser mit einem anderen 2p-Orbital als mit einem 3p-Orbital. Ein weiterer Faktor ist die Symmetrie der Orbitale; diese muss bei zwei AOs übereinstimmen, damit eine
 
-![](<../../../.gitbook/assets/8 (2)>)
+![](<../../.gitbook/assets/8 (2)>)
 
 Abbildung 8: Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt
 
-![](<../../../.gitbook/assets/9 (2)>)
+![](<../../.gitbook/assets/9 (2)>)
 
 Abbildung 9: Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur _π_-Bindung
 
 Bindung resultiert. So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen (vgl. Abbildung 5 ganz links).
 
-![](<../../../.gitbook/assets/10 (2)>)
+![](<../../.gitbook/assets/10 (2)>)
 
 Abbildung 10: Ungeeignete (beide links) und geeignete Ausrichtung (rechts)
 
-![](<../../../.gitbook/assets/11 (2)>)
+![](<../../.gitbook/assets/11 (2)>)
 
 Abbildung 11: Überlappung bei gleicher Grösse (links) und unterschiedlicher Grösse (rechts)
 
@@ -163,7 +163,7 @@ gel energieärmer als die _π_-MOs, da sich die py- und pz-Orbitale aus geometri
 
 jedoch genau hin, so entdeckt man, dass sich im _π∗_2px und _π∗_2py je ein ungepaartes Elektron befindet. Das Sauerstoffmolekül sollte also ein Diradikal sein! Und genau so ist es - magnetische
 
-![](<../../../.gitbook/assets/12 (1)>)
+![](<../../.gitbook/assets/12 (1)>)
 
 Abbildung 12: a) MO-Schema für Fluor, b) für Sauerstoff
 
@@ -190,7 +190,7 @@ dass die Anzahl der Atomorbitale gleich der ANzahl der hybridisierten Orbitale i
 
 mischt man das 2s- mit drei 2p-Orbitalen, so erhält man einen Satz von 4 neuen sp3 hybridi- sierten Orbitalen. Diese haben nicht nur eine etwas verschiedene Energie wie die reinen s- und p-Orbitale, sie unterscheiden sich auch in der Gestalt und der geometrischen Ausrichtung im Raum. Sie zeigen in die Ecken eines Tetraeders.
 
-![](../../../.gitbook/assets/13)
+![](../../.gitbook/assets/13)
 
 Abbildung 13: Hybridisierung von einem s- mit drei p-Orbitalen zu 4 sp3-Orbitalen
 
@@ -198,7 +198,7 @@ Abbildung 13: Hybridisierung von einem s- mit drei p-Orbitalen zu 4 sp3-Orbitale
 
 Man kann die s- und p-Orbitale auch so mischen, dass man nur das s- und zwei p-Orbitale benutzt. Das unveränderte p-Orbital, in der Regel als pz-Orbital bezeichnet, steht dann senk- recht zur Ebene, die durch die drei sp2-Orbitale aufgespannt ist. Mit zwei pz-Orbitalen kann eine _π_-Bindung realisiert werden (pz-Orbital oben nicht dargestellt).
 
-![](../../../.gitbook/assets/14)
+![](../../.gitbook/assets/14)
 
 Abbildung 14: Hybridisierung von einem s- mit zwei p-Orbitalen zu 3 sp2-Orbitalen
 
@@ -206,7 +206,7 @@ Abbildung 14: Hybridisierung von einem s- mit zwei p-Orbitalen zu 3 sp2-Orbitale
 
 Die dritte Möglichkeit ist die sp-Hybridisierung, in der das s- und ein p-Orbital vermischt werden, während zwei p-Orbitale senkrecht dazu unverändert bestehen bleiben. Dies führt zu einer Dreifachbindung (pz-Orbitale oben nicht dargestellt)
 
-![](../../../.gitbook/assets/15)
+![](../../.gitbook/assets/15)
 
 Abbildung 15: Hybridisierung von einem s- mit einem p-Orbital zu 2 sp-Orbitalen
 
@@ -239,7 +239,7 @@ HN N
    1. Wie gross ist in jedem dieser Moleküle oder Molekülionen die Bindungsordnung?
 3. Sie sehen unten links die MOlekülorbitalenergien des MO-Diagramms (die AOs sind weg- gelassen), so wie sie für O2 und F2 gelten. Rechts daneben sehen Sie die leicht veränderten Molekülorbitalenergien, wie sie für die Elemente der 2. Periode von Li2 bis N2 gelten. Ihre Aufgabe besteht darin herauszufinden, welche Elemente als zweiatomige Moleküle vor- kommen, wie die Bindungsordnung ist, und wo Radikale auftreten.
 
-![](../../../.gitbook/assets/16)
+![](../../.gitbook/assets/16)
 
 1. Die Energiedifferenz zwischen dem HOMO und dem LUMO von H2 beträgt 436 kJ/mol, was einer Wellenlänge im UV-Bereich entspricht. Wenn man H2 mit Licht dieser Wellen- länge bestrahlt, enstehen einzelne Wasserstoffatome. Begründen Sie dies mit Hilfe der MO-Theorie und Ihrer Kenntnisse über Absorption.
 2. Zeichnen Sie die mesomeren Grenzstrukturen für das 1,3,5-Hexatrienmolekül. .
@@ -252,11 +252,11 @@ Diese Grenzstrukturen sind nur ein Hilfsmittel, das die Wirklichkeit nicht richt
 
 
 
-![](<../../../.gitbook/assets/17 (1)>)
+![](<../../.gitbook/assets/17 (1)>)
 
 1. Welche Hybridisierung liegt am markierten Kohlenstoff im ungewöhnlichen Molekül \[2.2.2]- Propellan vor?
 
-![](<../../../.gitbook/assets/18 (1)>)
+![](<../../.gitbook/assets/18 (1)>)
 
 1. Ein Kohlenwasserstoff mit einem System aus 8 konjugierten Doppelbindungen ist gelb, einer mit 14 konjugierten Doppelbindungen ist rot.
 2. Welches Licht wird jeweils absorbiert?
