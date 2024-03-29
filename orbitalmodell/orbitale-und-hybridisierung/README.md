@@ -34,9 +34,7 @@ Ein Orbital mit den Quantenzahlen n = 3, l = 2 sind also 3d-Orbitale.
 
 Die Aufenthaltswahrscheinlichkeiten kann man dreidimensional darstellen und erhält so unter- schiedlich geformte Orbitale. Da wir uns in der organischen Chemie fast nur mit den Elementen der 1. und 2. Periode (H, C, N, O) beschäftigen, können wir uns auf die Formen der s- und p-Orbitale beschränken (Animation: [https://www.chemtube3d.com/a-level-orbitals-all/)](https://www.chemtube3d.com/a-level-orbitals-all/\)): Man sieht, dass die s-Orbitale keine Knotenfläche besitzen, die p-Orbitale eine. So ausgerüstet
 
-![](../../.gitbook/assets/1)
-
-Abbildung 1: Formen der s- und p-Orbitale
+![Abbildung 1: Formen der s- und p-Orbitale](../../.gitbook/assets/1)
 
 können wir den nächsten und für die Chemie wichtigsten Schritt in Angriff nehmen, nämlich die chemische Bindung. Dafür gibt es zwei Theorien, die von einem unterschiedlichen Ansatz aus- gehen und auch eine verschiedene Sprache benutzen, mathematisch jedoch völlig kongruent sind.
 
@@ -46,15 +44,11 @@ Wie schon gesagt, gibt es zwei gleichwertige Theorien, die von veschiedenen Ans�
 
 Beide Theorien gehen davon aus, dass eine kovalente Bindung durch Überlappung geeigneter Orbitale zustande kommt.
 
-Ein Beispiel: Wie bereits in der Wellentheorie angetroffen, kann eine Interferenz konstruktiv (a)
+Ein Beispiel: Wie bereits in der Wellentheorie angetroffen, kann eine Interferenz konstruktiv (a) oder destruktiv verlaufen (b):
 
-![](../../.gitbook/assets/2)
+![Abbildung 2: Überlappung von Atomorbitalen. a) konstruktive Überlappung, b) desktruktive Überlappung](../../.gitbook/assets/2)
 
-Abbildung 2: Überlappung von Atomorbitalen. a) konstruktive Überlappung, b) desktruktive Überlappung
-
-oder destruktiv verlaufen (b).
-
-### MO-Theorie <a href="#bookmark7" id="bookmark7"></a>
+### Molekülorbital-Theorie (MO-Theorie) <a href="#bookmark7" id="bookmark7"></a>
 
 Der MO-Theorie liegt der Gedanke zu Grunde, dass man die Atomorbitale (AOs) aller Atome in einem Molekül zu einer gleich grossen Anzahl Molekülorbitale (MOs) zusammenfassen kann.
 
@@ -64,14 +58,12 @@ Wie die AOs unterscheiden sich auch die MOs in Form, Grösse und Energie. Jedes 
 
 ### Wasserstoffähnliche Moleküle <a href="#bookmark8" id="bookmark8"></a>
 
-Wasserstoff H2 als einfachstes Molekül lässt das Prinzip der MO-Bildung auf einfache Weise erkennen. Es stehen zwei AO zur Verfügung, nämlich die beiden 1s-Orbitale der beiden Was- serstoffatome. Es müssen wie erwähnt zwei MOs entstehen. Aber wie? Man greift zu einem mathematisch einfach zu formulierenden Verfahren: man addiert die beiden Wellenfunktionen der beiden 1s-Atomorbitale. Dabei treten zwei Fälle auf:
+Wasserstoff $$H_2$$ als einfachstes Molekül lässt das Prinzip der MO-Bildung auf einfache Weise erkennen. Es stehen zwei AO zur Verfügung, nämlich die beiden 1s-Orbitale der beiden Was- serstoffatome. Es müssen wie erwähnt zwei MOs entstehen. Aber wie? Man greift zu einem mathematisch einfach zu formulierenden Verfahren: Man addiert die beiden Wellenfunktionen der beiden 1s-Atomorbitale. Dabei treten zwei Fälle auf:
 
 * beide AOs sind positiv, das Ergebnis ist eine Addition der Wellenfunktion
 * ein AO ist positiv, das andere negativ. In diesem Fall ist das Ergebnis eine Subtraktion der beiden Wellenfunktionen.
 
-Wir können jetzt die Verhältnisse im H2-Molekül und im H + und He + Molekül-Ion untersuchen.
-
-2 2
+Wir können jetzt die Verhältnisse im $$H_2$$-Molekül und im $$H^+$$ und $$He^+$$ Molekül-Ion untersuchen.
 
 Dazu verteilen wir die Elektronen nach den gleichen Besetzungsregeln wie bei den AOs auf die MOs.
 
