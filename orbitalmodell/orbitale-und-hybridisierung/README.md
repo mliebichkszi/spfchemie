@@ -8,7 +8,7 @@ Die Lösung der Schrödingergleichung führt zu einer Reihe mathematischer Funkt
 
 Beim Wasserstoffatom stimmen die erlaubten Energien mit denen des Bohr’schen Atommodells überein. Im Bohr’schen Atommodell befindet sich das Elektron aber auf einer kreisförmigen Umlaufbahn mit einem bestimmten Abstand vom Kern. Im quantenmechanischen Modell kann der Aufenthaltsort des Elektrons nicht auf derart einfache Weise beschrieben werden. Gemäss der Unschärferelation ist unsere Kenntnis über den Aufenthaltsort des Elektrons bei einem mit hoher Genauigkeit bekannten Impuls sehr ungenau.
 
-Man kann also den Aufenthaltsort eines einzelnen Elektrons um den Kern nicht exakt angeben, sondern muss sich vielmehr mit einer Art statistischen Wissens zufrieden geben. Im quanten- mechanischen Modell betrachten wir daher die Wahrscheinlichkeit, mit der sich das Elektron zu einem bestimmten Zeitpunkt in einem bestimmten Bereich aufhält. Wie sich herausstellt, gibt das Quadrat der Wellenfunktion _ψ_2 an einem bestimmten Ort die Wahrscheinlichkeit an, mit der sich das Elektron an diesem Ort aufhält. Aus diesem Grund wird _ψ_2 die **Wahrscheinlichkeitsdichte** bzw. **Elektronendichte** genannt. Elektronen können sich also nur in einem bestimmten abgegrenzten Raum aufhalten und somit auch nur bestimmte (diskrete) Energiezustände ein- nehmen. Dies entspricht genau der Schlussfolgerung, die man aus den Spektrallinien ziehen muss.
+Man kann also den Aufenthaltsort eines einzelnen Elektrons um den Kern nicht exakt angeben, sondern muss sich vielmehr mit einer Art statistischen Wissens zufrieden geben. Im quanten- mechanischen Modell betrachten wir daher die Wahrscheinlichkeit, mit der sich das Elektron zu einem bestimmten Zeitpunkt in einem bestimmten Bereich aufhält. Wie sich herausstellt, gibt das Quadrat der Wellenfunktion $$\psi ^2$$ an einem bestimmten Ort die Wahrscheinlichkeit an, mit der sich das Elektron an diesem Ort aufhält. Aus diesem Grund wird $$\psi ^2$$ die **Wahrscheinlichkeitsdichte** bzw. **Elektronendichte** genannt. Elektronen können sich also nur in einem bestimmten abgegrenzten Raum aufhalten und somit auch nur bestimmte (diskrete) Energiezustände ein- nehmen. Dies entspricht genau der Schlussfolgerung, die man aus den Spektrallinien ziehen muss.
 
 ### Orbitale <a href="#bookmark1" id="bookmark1"></a>
 
@@ -22,11 +22,11 @@ Die Hauptquantenzahl n kann positive ganzzahlige Werte (**1, 2, 3 ...**) annehme
 
 **Die Nebenquantenzahl l - Form**
 
-Die Nebenquantenzahl l kann für jeden Wert von n positive ganzzahlige Werte von **0 bis n-1** annehmen. Diese Quantenzahl bestimmt die Form des Orbitals. Der Wert von l eines bestimmten Orbitals wird im Allgemeinen durch die Buchstaben s, p, d und f ausgedrückt, die für die Werte von 0, 1, 2 und 3 stehen.
+Die Nebenquantenzahl l kann für jeden Wert von n positive ganzzahlige Werte von **0 bis n-1** annehmen. Diese Quantenzahl bestimmt die Form des Orbitals. Der Wert von l eines bestimmten Orbitals wird im Allgemeinen durch die Buchstaben s, p, d und f ausgedrückt, die für die Werte von 0, 1, 2 und 3 stehen. Die Buchstaben wurden im 19. Jahrhundert für die Emissionslinien (sharp, principal, diffuse und fundamental) verwendet, die aus diesen Wellenfunktionen herrührten.&#x20;
 
-**Die magnetische Quantenzahl m**_l_ **- räumliche Orientierung**
+**Die magnetische Quantenzahl m - räumliche Orientierung**
 
-Die magnetische Quantenzahl m kann ganzzahlige Werte von **-l** und **l** einschliesslich null annehmen. Diese Quantenzahl beschreibt die räumliche Orientierung des Orbitals in ei- nem Magnetfeld.
+Die magnetische Quantenzahl m kann ganzzahlige Werte von **-l** und **l** einschliesslich null annehmen. Diese Quantenzahl beschreibt die räumliche Orientierung des Orbitals in einem Magnetfeld.
 
 Ein Orbital mit den Quantenzahlen n = 3, l = 2 sind also 3d-Orbitale.
 
@@ -40,7 +40,7 @@ können wir den nächsten und für die Chemie wichtigsten Schritt in Angriff neh
 
 ### Die chemische Bindung <a href="#bookmark5" id="bookmark5"></a>
 
-Wie schon gesagt, gibt es zwei gleichwertige Theorien, die von veschiedenen Ansätzen ausge- hen. Die eine ist die Molekülorbital-Theorie, kurz MO-Theorie, die andere die Valenzbindungs- Theorie, kurz VB-Theorie.
+Es gibt zwei gleichwertige Theorien, die von veschiedenen Ansätzen ausgehen. Die eine ist die Molekülorbital-Theorie, kurz MO-Theorie, die andere die Valenzbindungs- Theorie, kurz VB-Theorie.
 
 Beide Theorien gehen davon aus, dass eine kovalente Bindung durch Überlappung geeigneter Orbitale zustande kommt.
 
@@ -119,7 +119,7 @@ Im nächsten Fall unterscheiden sich die Orbitale zu stark in ihrer Grösse. Die
 
 ![Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur π-Bindung](<../../.gitbook/assets/9 (2)>)
 
-So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen (vgl. Abbildung 5 ganz links).
+So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen:
 
 ![Ungeeignete (beide links) und geeignete Ausrichtung (rechts)](<../../.gitbook/assets/10 (2)>)
 
@@ -127,15 +127,11 @@ So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kom
 
 Mit diesen Informationen können wir es einmal wagen, das MO-Diagramm eines einfachen zweiatomigen Moleküls wie Sauerstoff zu entwickeln. Dazu zeichnen wir zuerst das Energieniveau-Schema für jedes einzelne Sauerstoff-Atom auf. Danach kombinieren wir die AOs nach den Regeln, die oben dargestellt sind. Im letzten Schritt füllen wir die MOs mit Elektronen auf und berechnen die Bindungsordnung.
 
-Da die beiden 2s-Orbitale gleiche Energie haben, werden sie vorzugsweise kombiniert, ebenso die 2p-Orbitale. Die beiden px-Orbitale zeigen entlang der Kernverbindungsachse aufeinan- der zu; deshalb können sie sich so überlappen, dass eine _σ_-Bindung entsteht. Je grösser aber die mögliche Überlappung der Orbitale, desto grösser ist die Energiedifferenz zwischen dem bindenden und antibindenden Zustand - oder anders ausgedrückt, das _σ_-MO ist in der Re-
-
-gel energieärmer als die _π_-MOs, da sich die py- und pz-Orbitale aus geometrischen Gründen nicht so stark überlappen können. Die beiden _π_-MOs sind energiegleich (entartet), da die py- und pz-AOs in der genau gleichen Weise miteinander in Wechselwirkung treten können. Bei- de AOs haben natürlich auch die gleiche Symmetrie bezüglich der Bindungsachse: sie bilden beide einen rechten Winkel zur Bindungsachse. Wenn wir nun als letzten Schritt die insgesamt verfügbaren 12 Aussenelektronen der beiden O-Atome auf die Energiezustände verteilen, so erleben wir eine Überraschung, die der MO-Theorie zum Durchbruch verholfen hat. Wenn man nämlich die Bindungsordnung berechnet, so kommt man auf (8-4):2 = 2, also eine Doppelbin- dung. Dies entspricht auch dem Ergebnis der viel einfacheren Lewisschreibweise. Schaut man
-
-jedoch genau hin, so entdeckt man, dass sich im _π∗_2px und _π∗_2py je ein ungepaartes Elektron befindet. Das Sauerstoffmolekül sollte also ein Diradikal sein! Und genau so ist es - magnetische
+Da die beiden 2s-Orbitale gleiche Energie haben, werden sie vorzugsweise kombiniert, ebenso die 2p-Orbitale. Die beiden px-Orbitale zeigen entlang der Kernverbindungsachse aufeinander zu; deshalb können sie sich so überlappen, dass eine _σ_-Bindung entsteht. Je grösser aber die mögliche Überlappung der Orbitale, desto grösser ist die Energiedifferenz zwischen dem bindenden und antibindenden Zustand - oder anders ausgedrückt, das _σ_-MO ist in der Regel energieärmer als die _π_-MOs, da sich die py- und pz-Orbitale aus geometrischen Gründen nicht so stark überlappen können. Die beiden _π_-MOs sind energiegleich (entartet), da die py- und pz-AOs in der genau gleichen Weise miteinander in Wechselwirkung treten können. Beide AOs haben natürlich auch die gleiche Symmetrie bezüglich der Bindungsachse: sie bilden beide einen rechten Winkel zur Bindungsachse. Wenn wir nun als letzten Schritt die insgesamt verfügbaren 12 Aussenelektronen der beiden O-Atome auf die Energiezustände verteilen, so erleben wir eine Überraschung, die der MO-Theorie zum Durchbruch verholfen hat. Wenn man nämlich die Bindungsordnung berechnet, so kommt man auf (8-4):2 = 2, also eine Doppelbindung. Dies entspricht auch dem Ergebnis der viel einfacheren Lewisschreibweise. Schaut man jedoch genau hin, so entdeckt man, dass sich im _π∗_2px und _π∗_2py je ein ungepaartes Elektron befindet. Das Sauerstoffmolekül sollte also ein Diradikal sein! Und genau so ist es - magnetische
 
 ![a) MO-Schema für Fluor, b) für Sauerstoff](<../../.gitbook/assets/12 (1)>)
 
-Messungen beweisen eindeutig, dass Sauerstoff paramagnetisch ist und damit ein Diradikal ist, was im übrigen seine Reaktionsfähigkeit erklärt. Eine solche Struktur ist aber auf keine Art durch eine Lewisschreibweise darstellbar oder erklärbar.
+Messungen beweisen eindeutig, dass Sauerstoff paramagnetisch ist und damit ein Diradikal ist, was im übrigen seine Reaktionsfähigkeit erklärt. Eine solche Struktur ist aber auf keine Art durch eine Lewis-Schreibweise darstellbar oder erklärbar.
 
 Wir sind am Ende unserer kleinen Einführung angelangt. Wohin geht die Reise weiter? Nun, zu grösseren Molekülen. Selbstverständlich wäre ein vollständiges MO viel zu kompliziert. Deshalb behilft man sich mit einem genial einfachen Konzept: man schaut nur eine kleine Auswahl in- teressierender MOs an und landet schlussendlich bei den höchsten besetzten, **HOMO** (highest occupied molecular orbital), und den niedrigsten unbesetzten Orbitalen, den **LUMO** (lowest unoccupied molecular orbital).
 
@@ -148,11 +144,11 @@ Die VB-Theorie geht vom einzelnen Atom aus. Sie mischt die Atomorbitale dieses A
 * Kopf an Kopf
 * Seitwärts
 
-Die Kopf-an-Kopf-Variante führt zu _σ_-Bindungen, die seitwärts-Variatne zu _π_-Bindungen
+Die Kopf-an-Kopf-Variante führt zu _σ_-Bindungen, die seitwärts-Variante zu _π_-Bindungen
 
 Wir haben früher schon gesehen, dass das C-Atom hybridisiert werden muss, damit es vier gleichartige Bindungen gibt. Die VB-Theorie führt dieses Prinzip konsequent durch. Dabei gilt,
 
-dass die Anzahl der Atomorbitale gleich der ANzahl der hybridisierten Orbitale ist. Im Vergleich zur MO-Theorie liefert dieser Ansatz weniger Information über die Energie, dafür mehr über die Geometrie.
+dass die Anzahl der Atomorbitale gleich der Anzahl der hybridisierten Orbitale ist. Im Vergleich zur MO-Theorie liefert dieser Ansatz weniger Information über die Energie, dafür mehr über die Geometrie.
 
 **sp3**-Hybride:
 
