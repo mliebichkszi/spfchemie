@@ -150,7 +150,7 @@ Wir haben früher schon gesehen, dass das C-Atom hybridisiert werden muss, damit
 
 dass die Anzahl der Atomorbitale gleich der Anzahl der hybridisierten Orbitale ist. Im Vergleich zur MO-Theorie liefert dieser Ansatz weniger Information über die Energie, dafür mehr über die Geometrie.
 
-**sp3**-Hybride:
+$$\bold{sp^3}$$-Hybride:
 
 mischt man das 2s- mit drei 2p-Orbitalen, so erhält man einen Satz von 4 neuen sp3 hybridi- sierten Orbitalen. Diese haben nicht nur eine etwas verschiedene Energie wie die reinen s- und p-Orbitale, sie unterscheiden sich auch in der Gestalt und der geometrischen Ausrichtung im Raum. Sie zeigen in die Ecken eines Tetraeders.
 
@@ -158,7 +158,7 @@ mischt man das 2s- mit drei 2p-Orbitalen, so erhält man einen Satz von 4 neuen 
 
 Abbildung 13: Hybridisierung von einem s- mit drei p-Orbitalen zu 4 sp3-Orbitalen
 
-**sp2**-Hybride:
+$$\bold{sp^2}$$-Hybride:
 
 Man kann die s- und p-Orbitale auch so mischen, dass man nur das s- und zwei p-Orbitale benutzt. Das unveränderte p-Orbital, in der Regel als pz-Orbital bezeichnet, steht dann senk- recht zur Ebene, die durch die drei sp2-Orbitale aufgespannt ist. Mit zwei pz-Orbitalen kann eine _π_-Bindung realisiert werden (pz-Orbital oben nicht dargestellt).
 
@@ -176,37 +176,199 @@ Abbildung 15: Hybridisierung von einem s- mit einem p-Orbital zu 2 sp-Orbitalen
 
 ### Aufgaben <a href="#bookmark24" id="bookmark24"></a>
 
-1. Beim Abbau von Proteinen und Nukleinsäuren ensteht Ammoniak, der giftig ist. Unter Ein- satz von Energie (ATP) kann aus Ammoniak fast ungiftiger Harnstoff oder nahezu unlösliche Harnsäure entstehen, letztere kann mit sehr wenig Wasser ausgeschieden werden. Viele Wassertiere scheiden direkt Ammoniak aus, die meisten Landtiere inkl. Mensch verwan- deln in vor der Ausscheidung in Harnstoff, Vögel und Reptilien in Harnsäure. Wieso wirkt die Amingruppe bei Ammoniak basisch, bei Harnstoff neutral und bei Harnsäure sauer? Erklären Sie dies mit Hilfe geeigneter Orbitaldarstellungen.
-2. Geben Sie für alle C-Atome in den folgenden Verbindungen die Hybridisierung an: CO2, HCN, Methanal, H2C O, H2C C CH2, O
-3. (a) Welche Winkel haben die p-Orbitale untereinander?
-   1. Wenn die Bindungsachse zweier C-Atome in x-Richtung liegt, welche der p-Orbitale können dann _π_-Bindungen eingehen?
-   2. Ab welcher Quantenzahl sind d-Orbitale möglich?
-   3. Welche anschauliche physikalische Bedeutung misst man der Ψ2-Wellenfunktion zu?
-   4. Wenn man Elektronen Energie zuführt, so wechseln sie in einen höheren Energiezu- stand über. Ist das mit dem Bohrschen “Schalenmodell” mit exakten Bahnen erklärbar? Ist dies mit der Orbitaltheorie erklärbar?
-4. (a) Ist Oxazol eine Base?
-5. Welches N-Atom im Imidazol ist basischer?
-6. (a) Wieviele MOs entstehen aus einer bestimmten Zahl von AOs?
-   1. Wodurch unterscheiden sich bindende und antibindende MOs?
-   2. Wieviele Elektronen kann jedes MO aufnehmen?
-   3. Nach welchen Regeln werden AOs und MOs besetzt?
-7. (a) Warum tragen in den wasserstoffähnlichen, zweiatomigen Molekülen H2+, H2–, He2+ und He2 die ersten zwei beiden Elektronen zur Bindung bei, während das dritte und vierte sie lockern?
-   1. Wie gross ist in jedem dieser Moleküle oder Molekülionen die Bindungsordnung?
-8. Sie sehen unten links die MOlekülorbitalenergien des MO-Diagramms (die AOs sind weg- gelassen), so wie sie für O2 und F2 gelten. Rechts daneben sehen Sie die leicht veränderten Molekülorbitalenergien, wie sie für die Elemente der 2. Periode von Li2 bis N2 gelten. Ihre Aufgabe besteht darin herauszufinden, welche Elemente als zweiatomige Moleküle vor- kommen, wie die Bindungsordnung ist, und wo Radikale auftreten.
+
+
+{% tabs %}
+{% tab title="Aufgabe 1" %}
+Beim Abbau von Proteinen und Nukleinsäuren ensteht Ammoniak, der giftig ist. Unter Ein- satz von Energie (ATP) kann aus Ammoniak fast ungiftiger Harnstoff oder nahezu unlösliche Harnsäure entstehen, letztere kann mit sehr wenig Wasser ausgeschieden werden. Viele Wassertiere scheiden direkt Ammoniak aus, die meisten Landtiere inkl. Mensch verwandeln ihn vor der Ausscheidung in Harnstoff, Vögel und Reptilien in Harnsäure. Wieso wirkt die Amingruppe bei Ammoniak basisch, bei Harnstoff neutral und bei Harnsäure sauer? Erklären Sie dies mit Hilfe geeigneter Orbitaldarstellungen.
+{% endtab %}
+
+{% tab title="Lösung 1" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 2" %}
+Geben Sie für alle C-Atome in den folgenden Verbindungen die Hybridisierung an: $$CO_2$$, HCN, Methanal,  Propadien, 2,4-Cyclopentadien-1-on
+{% endtab %}
+
+{% tab title="Lösung 2" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 3" %}
+
+
+a) Welche Winkel haben die p-Orbitale untereinander?
+
+b) Wenn die Bindungsachse zweier C-Atome in x-Richtung liegt, welche der p-Orbitale können dann _π_-Bindungen eingehen?
+
+c) Ab welcher Quantenzahl sind d-Orbitale möglich?
+
+d) Welche anschauliche physikalische Bedeutung misst man der $$\psi^2$$-Wellenfunktion zu
+
+e) Wenn man Elektronen Energie zuführt, so wechseln sie in einen höheren Energiezustand über. Ist das mit dem Bohrschen “Schalenmodell” mit exakten Bahnen erklärbar? Ist dies mit der Orbitaltheorie erklärbar?
+{% endtab %}
+
+{% tab title="Lösung 3" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 4" %}
+(a) Welche Winkel haben die p-Orbitale untereinander?
+
+(b) Wenn die Bindungsachse zweier C-Atome in x-Richtung liegt, welche der p-Orbitale können dann _π_-Bindungen eingehen?
+
+(c) Ab welcher Quantenzahl sind d-Orbitale möglich?
+
+(d) Welche anschauliche physikalische Bedeutung misst man der $$\psi^2$$-Wellenfunktion zu
+
+(e) Wenn man Elektronen Energie zuführt, so wechseln sie in einen höheren Energiezustand über. Ist das mit dem Bohrschen “Schalenmodell” mit exakten Bahnen erklärbar? Ist dies mit der Orbitaltheorie erklärbar?
+{% endtab %}
+
+{% tab title="Lösung 4" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 5" %}
+(a) Welche Winkel haben die p-Orbitale untereinander?
+
+(b) Wenn die Bindungsachse zweier C-Atome in x-Richtung liegt, welche der p-Orbitale können dann _π_-Bindungen eingehen?
+
+(c) Ab welcher Quantenzahl sind d-Orbitale möglich?
+
+(d) Welche anschauliche physikalische Bedeutung misst man der $$\psi^2$$-Wellenfunktion zu
+
+(e) Wenn man Elektronen Energie zuführt, so wechseln sie in einen höheren Energiezustand über. Ist das mit dem Bohrschen “Schalenmodell” mit exakten Bahnen erklärbar? Ist dies mit der Orbitaltheorie erklärbar?
+{% endtab %}
+
+{% tab title="Lösung 5" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 6" %}
+(a) Ist Oxazol eine Base?
+
+(b) Welches N-Atom im Imidazol ist basischer?
+{% endtab %}
+
+{% tab title="Lösung 6" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 7" %}
+(a) Wieviele MOs entstehen aus einer bestimmten Zahl von AOs?
+
+(b) Wodurch unterscheiden sich bindende und antibindende MOs?
+
+(c) Wieviele Elektronen kann jedes MO aufnehmen?
+
+(d) Nach welchen Regeln werden AOs und MOs besetzt?
+{% endtab %}
+
+{% tab title="Lösung 7" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 8" %}
+(a) Warum tragen in den wasserstoffähnlichen, zweiatomigen Molekülen H2+, H2–, He2+ und He2 die ersten zwei beiden Elektronen zur Bindung bei, während das dritte und vierte sie lockern?
+
+(b) Wie gross ist in jedem dieser Moleküle oder Molekülionen die Bindungsordnung
+{% endtab %}
+
+{% tab title="Lösung 8" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 9" %}
+Sie sehen unten links die Molekülorbitalenergien des MO-Diagramms (die AOs sind weg- gelassen), so wie sie für $$O_2$$ und $$F_2$$ gelten. Rechts daneben sehen Sie die leicht veränderten Molekülorbitalenergien, wie sie für die Elemente der 2. Periode von $$Li_2$$bis $$N_2$$gelten. Ihre Aufgabe besteht darin herauszufinden, welche Elemente als zweiatomige Moleküle vorkommen, wie die Bindungsordnung ist, und wo Radikale auftreten.
 
 ![](../../.gitbook/assets/16)
+{% endtab %}
 
-1. Die Energiedifferenz zwischen dem HOMO und dem LUMO von H2 beträgt 436 kJ/mol, was einer Wellenlänge im UV-Bereich entspricht. Wenn man H2 mit Licht dieser Wellen- länge bestrahlt, enstehen einzelne Wasserstoffatome. Begründen Sie dies mit Hilfe der MO-Theorie und Ihrer Kenntnisse über Absorption.
-2. Zeichnen Sie die mesomeren Grenzstrukturen für das 1,3,5-Hexatrienmolekül. .
+{% tab title="Lösung 9" %}
 
-Diese Grenzstrukturen sind nur ein Hilfsmittel, das die Wirklichkeit nicht richtig wiederge- ben kann. Mit der Orbitaltheorie kann man dies besser veranschaulichen. Zeichnen Sie das Molekül mit den geeigneten Orbitalen.
+{% endtab %}
+{% endtabs %}
 
-1. Die Bindungslängen im N2-Molekül beträgt 109 pm, im N2+ 112 pm. Im O2-Molekül 121 pm und im O2+ 112 pm. Geben Sie die Bindungsordnungen an und erklären Sie den Gang der Bindungslängen-Unterschiede.
-2. Der Bindungswinkel H-O-H im Wassermolekül beträgt 104.5°, derjenige im H2Se 90°. Wel- chen Schluss bezüglich der verwendeten Orbitale können Sie daraus nach der VB-Theorie ziehen?
-3. Zeichnen Sie die Orbitaldarstellung für das _π_-Bindungssystem für das Allyl-Anion, C H –.
+{% tabs %}
+{% tab title="Aufgabe 10" %}
+Die Energiedifferenz zwischen dem HOMO und dem LUMO von $$H_2$$ beträgt 436 kJ/mol, was einer Wellenlänge im UV-Bereich entspricht. Wenn man $$H_2$$ mit Licht dieser Wellen- länge bestrahlt, enstehen einzelne Wasserstoffatome. Begründen Sie dies mit Hilfe der MO-Theorie und Ihrer Kenntnisse über Absorption.
+{% endtab %}
 
+{% tab title="Lösung 10" %}
 
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 11" %}
+Zeichnen Sie die mesomeren Grenzstrukturen für das 1,3,5-Hexatrienmolekül.
+
+Diese Grenzstrukturen sind nur ein Hilfsmittel, das die Wirklichkeit nicht richtig wiedergeben kann. Mit der Orbitaltheorie kann man dies besser veranschaulichen. Zeichnen Sie das Molekül mit den geeigneten Orbitalen.
+{% endtab %}
+
+{% tab title="Lösung 12" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 12" %}
+Die Bindungslängen im $$N_2$$-Molekül beträgt 109 pm, im $$N_2^+$$ 112 pm. Im $$O_2$$-Molekül 121 pm und im $$O_2^+$$ 112 pm. Geben Sie die Bindungsordnungen an und erklären Sie den Gang der Bindungslängen-Unterschiede.
+{% endtab %}
+
+{% tab title="Lösung 12" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 13" %}
+Der Bindungswinkel H-O-H im Wassermolekül beträgt 104.5°, derjenige im $$H_2Se$$ 90°. Wel- chen Schluss bezüglich der verwendeten Orbitale können Sie daraus nach der VB-Theorie ziehen?
+{% endtab %}
+
+{% tab title="Lösung 13" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 14" %}
+Zeicbnensie die Orbitaldarstellung für das r-Bindungssystem (s. Butadien) und das MO-Diagramm für das Allyl-Anion, $$C_3H_5^-$$.
 
 ![](<../../.gitbook/assets/17 (1)>)
+{% endtab %}
+
+{% tab title="Lösung 14" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 15" %}
+Welche Hybridisierung liegt am markierten Kohlenstoff im ungewöhnlichen Molekül \[2.2.2]- Propellan vor?
+{% endtab %}
+
+{% tab title="Lösung 14" %}
+
+{% endtab %}
+{% endtabs %}
 
 1. Welche Hybridisierung liegt am markierten Kohlenstoff im ungewöhnlichen Molekül \[2.2.2]- Propellan vor?
 

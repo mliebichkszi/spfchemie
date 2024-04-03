@@ -11,6 +11,7 @@
   * [Flammenfarben](orbitalmodell/flammenfarben.md)
   * [Unschärfebeziehung](orbitalmodell/unschaerfebeziehung.md)
   * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
+    * [Vortrag](orbitalmodell/orbitale-und-hybridisierung/vortrag.md)
     * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
 * [🍋 Stabilität von Säuren und Basen](stabilitaet-von-saeuren-und-basen/README.md)
   * [Löslichkeit von Säuren und Basen](stabilitaet-von-saeuren-und-basen/datenbanken.md)
