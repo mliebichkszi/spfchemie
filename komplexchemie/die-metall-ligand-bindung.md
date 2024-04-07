@@ -10,7 +10,7 @@ Metalle wirken als **Lewis-Säuren (Elektronenpaar-Akzeptoren)**, die Liganden a
 
 In der Bindung zwischen dem Metall-Ion und dem Liganden wird das Elektronenpaar geteilt:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Durch die Komplexbildung wird die Reduktionsneigung des $$Ag^+$$ reduziert, weil es durch die Ammoniak-Moleküle maskiert wird.
 

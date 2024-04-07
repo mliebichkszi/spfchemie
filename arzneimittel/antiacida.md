@@ -31,13 +31,13 @@ $$\mathrm{NaHCO}_{3(\mathrm{aq})}+\mathrm{HCl}_{(\mathrm{aq})} \longrightarrow \
 Mit Antiacida werden Symptome wie das "saure Aufstossen" behandelt. Natriumhydrogencarbonat (auch: Natron, Natriumbicarbonat) sollte aber nicht mehr alleine verwendet werden, da es sehr rasch mit Salzsäure zu $$CO_2$$ reagiert und der pH-Wert zu rasch ansteigt, was wiederum zu einer vermehrten Ausschüttung von Gastrin, einem Hormon, führt, das die Sekretion von Salzsäure auslöst. Bis in die 70er-Jahre wurde Natron aber als Bestandteil von "Bullrich Salz" vertrieben.\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Seit den 70er-Jahren gibt es Aluminium- und Magnesiumhydroxidgele vertrieben, sowie Mischungen aus Calcium- und Magnesiumcarbonat oder Aluminium-Magnesium-Silicathydrat entwickelt.
 
 Auch in Form von Kaugummis werden Antiacida heute angeboten. Die Kaugummis enthalten Calcium- und Magnesiumcarbonat.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Experimente
 
@@ -65,7 +65,7 @@ Neuere Medikamente enthalten $$H_2$$-Rezeptor-Antagonisten ( $$H_2$$ -Blocker) o
 
 Spezielle Magenschleimhaut-Zellen (enterochromaffinartige Zellen, auch H-Zellen genannt) geben bei der Verdauung Histamin ab. Histamin stimuliert die Bildung von Magensäure. Die Sekretion von Histamin wird vom Vagusnerv im Gehirn acetylcholinvermittelt gesteuert. $$H_2$$-Antagonisten blockieren die Aufnahme von Histamin durch den $$H_2$$-Rezeptor (ein Rezeptor-Protein) von Parietalzellen der Magenschleimhaut. Parietalzellen sind grosse, mit Eosin anfärbbare Drüsenzellen, die aus Kohlensäure Protonen abspalten und im Austausch gegen Kaliumionen sezernieren (ein Sekret abgeben) können. Ausserdem transportieren sie Chloridionen in das Mageninnere, wodurch Salzsäure gebildet wird. $$H_2$$-Blocker verringern vor allem die nächtliche Säuresekretion. Die Hemmung ist aber schwächer als bei Protonenpumpenhemmern.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>Histamin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>Histamin</p></figcaption></figure>
 
 ### Wirkungsweise von Protonenpumpenhemmern
 
@@ -73,7 +73,7 @@ Diese Wirkstoffe sind säureempfindlich und werden erst im Dünndarm resorbiert.
 
 Ein Beispiel für einen Protonenpumpenhemmer-Medikament ist Ranitidin:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption><p>Ranitidin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Ranitidin</p></figcaption></figure>
 
 
 

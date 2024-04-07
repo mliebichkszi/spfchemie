@@ -4,7 +4,7 @@
 
 ### α-Helix und β-Faltblatt
 
-{% file src="../.gitbook/assets/alpha_beta_ab.pdf" %}
+{% file src="../../.gitbook/assets/alpha_beta_ab.pdf" %}
 
 ### α-Helix
 
@@ -26,13 +26,13 @@ Beta-Faltblatt : ILVELDGDVNGHKFSVSGEG (20 Aminosäuren)
 
 Buchstabencodes der Aminosäuren und das Vorkommen verschiedener Aminosäuren in den Proteinmodellen (Alpha = α-Helix, Beta =β-Faltblatt):
 
-<figure><img src="../.gitbook/assets/image (161).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% embed url="https://swissmodel.expasy.org/interactive" %}
 
 ## Denaturierung von Proteinen
 
-{% file src="../.gitbook/assets/denat.AB.pdf" %}
+{% file src="../../.gitbook/assets/denat.AB.pdf" %}
 
 ## Ostern
 
@@ -44,7 +44,7 @@ Buchstabencodes der Aminosäuren und das Vorkommen verschiedener Aminosäuren in
 
 ### Arbeitsblatt
 
-{% file src="../.gitbook/assets/AB_Proteine.pdf" %}
+{% file src="../../.gitbook/assets/AB_Proteine.pdf" %}
 
 ## Das rätselhafte Protein: Eine Bioinformatik-Expedition
 

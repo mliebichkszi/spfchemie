@@ -125,7 +125,7 @@ Reihenfolge der Lückenwörter: Verbindung – Kohlenstoffatom – proteinogenen
 Aminosäuren sind chemische \_\_\_\_\_\_\_\_\_\_\_\_ , welche sowohl mindestens eine Carboxyl- als auch mindestens eine Aminogruppe besitzen. Sind diese am selben \_\_\_\_\_\_\_\_\_\_\_\_ gebunden, werden sie als a-Aminosäure bezeichnet. Die \_\_\_\_\_\_\_\_\_\_\_\_\_ Aminosäuren besitzen alle die gleiche Grundstruktur. Ein zentrales a-Kohlenstoffatom, an das folgende vier Substituenten gebunden sind:\
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Die a-Aminosäuren unterscheiden sich lediglich in der \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (-R), diese ist für jede Aminosäure charakteristisch. Die Reste können selbst mehrere verschiedene \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Gruppen enthalten und somit polar, unpolar, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ oder alkalisch sein. Die einfachste Aminosäure ist das \_\_\_\_\_\_\_\_\_\_\_\_\_\_ , in diesem Fall besteht der Rest nur aus einem Wasserstoffatom.&#x20;
 
@@ -133,7 +133,7 @@ Aminosäuren liegen als Zwitterionen vor. Das bedeutet, dass am selben \_\_\_\_\
 
 Aminosäuren sind Ampholyte, da die deprotonierte Carboxylgruppe Protonen aufnehmen und die protonierte Aminogruppe Protonen abgeben kann. Je nach pH-Wert liegt eine \_\_\_\_\_\_\_\_\_\_\_\_\_\_also als Kation, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_oder Zwitterion vor. Der pH-Wert, bei dem die Aminosäure in wässriger Lösung ausschließlich in der Zwitterform vorliegt, wird als Punkt (IEP) bezeichnet.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@ Arginin, Lysin und Histidin besitzen in ihren Seitenketten einen Protonenakzepto
 
 <summary>Bearbeiten Sie die nachfolgende Learningapp-Aufgabe.</summary>
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ![](<../.gitbook/assets/image (6).png>)
 
