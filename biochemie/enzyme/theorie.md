@@ -254,7 +254,7 @@ Erklären Sie anschaulich in etwa drei Sätzen, wie eine durch Hydrolasen kataly
 
 </details>
 
-Nennen Sie einen Vertreter aus der Enzymklasse der Hydrolasen, den Sie in diesem Kapitel kennengelernt haben.
+Nennen Sie einen Vertreter aus der Enzymklasse der Hydrolasen, den Sie kennengelernt haben.
 
 <details>
 
