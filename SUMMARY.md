@@ -81,6 +81,7 @@
   * [Enzyme](biochemie/enzyme/README.md)
     * [Theorie](biochemie/enzyme/theorie.md)
     * [Aufgaben](biochemie/proteine/enzyme.md)
+    * [Experimente](biochemie/enzyme/experimente.md)
 * [⚗️ Synthesen](synthesen/README.md)
   * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
     * [Katalysierte Hydrierung](synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)

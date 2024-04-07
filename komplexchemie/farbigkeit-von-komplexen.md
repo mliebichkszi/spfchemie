@@ -18,7 +18,7 @@ $$\begin{array}{|l|c|c|c|c|c|c|c|} \hline \text { mit } \quad \mathbf{M}= & \mat
 
 Löst man aber verschiedene Metallsalze in Wasser, so beobachten wir ganz andere Farben als die in der Tabelle aufgeführten. Chrom(III)-salze zum Beispiel sind in Lösung ihrer Salze nicht violett, sondern grün. Das liegt an den anderen potentiellen Liganden, die sich ja noch in der Lösung befinden und die wir nicht aus den Augen verlieren dürfen. Bei Chrom(III)-salzen sind das normalerweise die Chlorid- und der Sulfat-Ionen. Die bilden zusammen mit Wassermolekülen die allseits bekannten grünen Chrom(III)-Komplexe. In denen finden sich weniger also weniger als sechs Wassermoleküle.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Farben verschiedener Aqua-Komplexe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Farben verschiedener Aqua-Komplexe</p></figcaption></figure>
 
 Mangan(II)-, Eisen(II)- und Eisen(III)-Aquakomplexe sind übrigens so unauffällig gefärbt, dass man ihre eigentliche Farbe erst in hoher Konzentration erkennt.
 
@@ -59,9 +59,9 @@ Im Mittelpunkt der Betrachtung steht das Zentralteilchen. Es ist von einem elekt
 
 Wir wollen das etwas genauer am Beispiel der oktaedrischen Komplexe von Eisen(II) erläutern.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Energieschema der 3d-Orbitale des Eisen(II)-Ions nach der Kristallfeldtheorie</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Energieschema der 3d-Orbitale des Eisen(II)-Ions nach der Kristallfeldtheorie</em></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Das Bild oben zeigt das Energieschema der 3d-Orbitale des Zentralteilchens $$Fe^{2+}$$. Im freien  Zentralteilchen (links) sind die d-Orbitale fünffach entartet, haben also alle gleiche Energie (links). Wenn sich die sechs Liganden nähern, steigt aufgrund der Abstossung deren Energie (Mitte). Nach Einklinken der Liganden spalten die d-Orbitale in zwei Gruppen auf (rechts). Die $$d_g$$-Gruppe hat eine höhere und die $$d_e$$-Gruppe eine niedrigere Energie. Die Energiedifferenz D ("Kristallfeldaufspaltungsenergie") zwischen den beiden d-Orbitalgruppen entscheidet darüber, welche Komplextypen gebildet werden. Ist die Differenz D gering, so verteilen sich die 3d-Elektronen gleichmässig über beide d-Orbitalgruppen. Es bildet sich ein Anlagerungs-, Outer-orbital- bzw. High-spin-Komplex. (Das zeigt das obere Bild.) Ist die Differenz D gross, so ist es günstiger, wenn sich alle 3d-Elektronen in der energetisch tiefgelegenen de-Orbitalgruppe versammeln. In diesem Fall bildet sich ein Durchdringungs-, Inner-orbital- bzw. Low-spin-Komplex.
 
@@ -90,7 +90,7 @@ Mit solchen Erkenntnissen kann man eine **spektroskopische Ligandenreihe** aufba
 
 Die Grösse der Energielücke (ΔE oder auch nur Δ) und damit die Farbe des Komplexes hängen sowohl vom Metall als auch von den Liganden ab. Liganden können in der Reihenfolge ihrer Fähigkeit geordnet werden, die Energielücke zu erhöhen. Im Folgenden sind einige häufig auftretende Liganden in der Reihenfolge eines ansteigenden Werts von Δ aufgeführt:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Eine derartige Auflistung wird **spektrochemische Reihe** genannt. Die Grösse von Δ steigt in der spektrochemischen Reihe von links nach rechts etwa um den Faktor 2 an. Liganden, die auf der linken Seite stehen, werden als schwache Liganden, solche auf der rechten Seite als starke Liganden bezeichnet. Je grösser die Energielücke Δ ist, desto grösser muss die Frequenz des Lichts für die Anregung der Elektronen sein.
 

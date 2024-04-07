@@ -18,9 +18,9 @@ Die Theorie Werners lieferte für obige Tabelle eine stimmige Erklärung. Die $$
 
 Fast alle Komplexe mit der Koordinationszahl sechs haben eine oktaedrische Struktur:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Oktaeder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Oktaeder</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Einfachere Darstellung des Oktaeders</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Einfachere Darstellung des Oktaeders</p></figcaption></figure>
 
 
 

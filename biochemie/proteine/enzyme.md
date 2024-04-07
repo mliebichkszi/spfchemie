@@ -18,7 +18,7 @@ Skizziere das Energiediagramm einer katalysierten sowie einer nicht katalysierte
 {% endtab %}
 
 {% tab title="Lösung" %}
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -28,7 +28,7 @@ Enzyme sind Eiweisse und sind aus Aminosäuren aufgebaut. Beschreibe die verschi
 {% endtab %}
 
 {% tab title="Lösung" %}
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -95,7 +95,7 @@ Informiere dich darüber, welche Enzymklassen es gibt. Welcher Reaktionstyp wird
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -121,7 +121,7 @@ Wie unterscheiden sich Energiediagramme von „gehemmten“ Reaktionen im Vergle
 {% endtab %}
 
 {% tab title="Lösung" %}
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bei der kompetitiven Hemmung kann die maximale Enzymaktivität durch erhöhte Substratkonzentration erreicht werden.&#x20;
 
