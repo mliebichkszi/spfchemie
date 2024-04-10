@@ -5,6 +5,7 @@
   * [Stehende Wellen](orbitalmodell/stehende-wellen/README.md)
     * [Animation einer stehenden Welle](orbitalmodell/stehende-wellen/animation-einer-stehenden-welle.md)
   * [Elektromagnetische Wellen](orbitalmodell/elektromagnetische-wellen.md)
+  * [Photonenbeugung](orbitalmodell/photonenbeugung.md)
   * [Elektronenbeugung](orbitalmodell/elektronenbeugung.md)
   * [Der photoelektrische Effekt](orbitalmodell/der-photoelektrische-effekt.md)
   * [Filme zur Quantenphysik](orbitalmodell/filme-zur-quantenphysik.md)
