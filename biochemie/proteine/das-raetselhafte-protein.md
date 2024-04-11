@@ -114,6 +114,16 @@ Du kannst auf “Show Colors” klicken, um Informationen über die chemischen E
 {% endtab %}
 {% endtabs %}
 
+<details>
+
+<summary>Antworten zu den Fragen</summary>
+
+<mark style="color:green;">Wenn wir auf "Farben anzeigen" klicken, sehen wir, dass die meisten Aminosäuren entweder rot oder grün gefärbt sind.</mark>
+
+<mark style="color:green;">Rot weist auf kleine und hydrophobe Aminosäuren hin, während Grün Aminosäuren mit entweder einer Hydroxyl-, Sulfhydryl- oder Aminogruppe anzeigt.</mark>
+
+</details>
+
 ### Teil 2: Identität und Funktion von Proteinen
 
 {% tabs %}
@@ -147,6 +157,26 @@ Greife auf die[ NCBI BLAST-Methode](https://www.ebi.ac.uk/jdispatcher/sss/ncbibl
 **3.** Welche biologische Funktion ist für den besten Treffer bekannt? Um diese Informationen zu erhalten, klicke mit der rechten Maustaste auf die zweite Spalte der Ergebnistabelle (DB:ID) und öffne den Link in einer neuen Registerkarte.
 {% endtab %}
 {% endtabs %}
+
+<details>
+
+<summary>Antworten zu den Fragen</summary>
+
+1. Welches Protein und welche Spezies erzielt den besten Treffer in der Protein-Datenbank?
+
+<mark style="color:green;">Das Protein Rhodopsin der Spezies Sardina pilchardus liefert den besten Treffer. (Datenbank-ID:</mark>
+
+<mark style="color:green;">SP:OPSD\_SARPI)</mark>
+
+2. Wie hoch ist der Prozentsatz der Identität, die das "unbekannte Protein" und der beste Treffer teilen?
+
+<mark style="color:green;">Das unbekannte Protein teilt eine Identität von 98,9 % mit dem besten Treffer, dem Rhodopsin von Sardina pilchardus.</mark>
+
+3. Was ist die bekannte biologische Funktion des besten Treffers? Diese Information kann gefunden werden, indem man auf den Link in der zweiten Spalte der Ergebnistabelle (DB:ID) klickt.
+
+<mark style="color:green;">Rhodopsin (der beste Treffer), auch bekannt als Sehpurpur, ist ein Protein, das für die Bildformation unter Bedingungen mit wenig Licht erforderlich ist. Es handelt sich um einen sensorischen Rezeptor, der in einer breiten Palette von Organismen vorhanden ist, von Wirbeltieren bis zu Bakterien.</mark>
+
+</details>
 
 ### Teil 3: Multiples Sequenzalignment
 
@@ -366,6 +396,17 @@ S
 {% endtab %}
 {% endtabs %}
 
+<details>
+
+<summary>Antworten zu den Fragen</summary>
+
+1. <mark style="color:green;">Aus der Ausrichtung kann man schließen, dass sich die Längen der Rhodopsin-Sequenzen der 21 ausgewählten Arten zwischen 301 und 369 Aminosäuren variieren. Die meisten Sequenzen haben eine Länge von entweder 348 oder 354 Aminosäuren und zeigen eine hohe Ähnlichkeit. Die auffälligsten Unterschiede finden sich bei den Sequenzen von Drosophila melanogaster und Lacunicambarus ludovicianus.</mark>\
+
+2. <mark style="color:green;">Die Rhodopsin-Sequenz von Drosophila melanogaster besitzt die längste Aminosäuresequenz mit insgesamt 369 Aminosäuren.</mark>
+3. <mark style="color:green;">Es gibt konservierte Reste oder Sequenzteile, die in allen Arten vorhanden sind? Gibt es einige Teile, die nur in einer oder wenigen Arten gefunden werden?</mark>
+
+</details>
+
 ### Teil 4: Phylogenetische Analyse
 
 {% tabs %}
@@ -401,6 +442,15 @@ Um einen phylogenetischen Baum auf der Grundlage unseres Sequenzalignments zu er
 **2.** Beobachte die Struktur des “Cladograms”. Der Baum teilt die Sequenzen zunächst in drei Hauptgruppen auf. Spiegelt diese Aufteilung im Allgemeinen die evolutionären Beziehungen zwischen den Arten wider? Gibt es irgendwelche Ausnahmen oder Unstimmigkeiten?
 {% endtab %}
 {% endtabs %}
+
+<details>
+
+<summary>Antworten zu den Fragen </summary>
+
+1. <mark style="color:green;">Die zwei abweichenden Sequenzen gehören zu</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Drosophila melanogaster</mark>_ <mark style="color:green;"></mark><mark style="color:green;">und</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Lacunicambarus ludovicianus</mark>_<mark style="color:green;">. Diese Sequenzen unterscheiden sich in der Anzahl der Aminosäuren im Vergleich zu den anderen Sequenzen aufgrund zusätzlicher Einfügungen oder Deletionen.</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Lacunicambarus ludovicianus</mark>_ <mark style="color:green;"></mark><mark style="color:green;">fehlen mehrere Aminosäuren am Anfang und am Ende seiner Sequenz. In der Mitte weist es dieselbe Einfügung wie</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Drosophila melanogaster</mark>_ <mark style="color:green;"></mark><mark style="color:green;">auf, die zusätzlich weitere Aminosäureeinfügungen besitzt.</mark>
+2. <mark style="color:green;">Im Großen und Ganzen reflektiert der auf den Rhodopsin-Sequenzen basierende phylogenetische Baum die evolutionären Beziehungen zwischen den Arten. Die anfängliche Teilung resultiert in einer Gruppe, die nur Arten aus der Klasse der Säugetiere (Mammalia) enthält. In dieser Gruppe werden</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Rattus norvegicus</mark>_<mark style="color:green;">,</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Mus musculus</mark>_ <mark style="color:green;"></mark><mark style="color:green;">und</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Cricetulus griseus</mark>_ <mark style="color:green;"></mark><mark style="color:green;">(alle Mitglieder der Ordnung Rodentia) zusammengefasst, und die zwei Carnivora-Arten</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Canis lupus familiaris</mark>_ <mark style="color:green;"></mark><mark style="color:green;">und</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Phoca vitulina</mark>_ <mark style="color:green;"></mark><mark style="color:green;">werden ebenfalls zusammengefasst.</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Bos taurus</mark>_ <mark style="color:green;"></mark><mark style="color:green;">wird jedoch nicht mit den anderen Säugetierarten gruppiert und bildet eine separate Gruppe. Die letzte große Gruppe umfasst 14 Arten, einschließlich der neu entdeckten Arten.</mark>
+
+</details>
 
 ### Teil 5: Strukturanalyse
 
@@ -454,3 +504,15 @@ Es sind einige Monate vergangen, seit du dem TREC-Team geholfen hast, und jetzt 
 {% embed url="https://www.embl.org/ells/wp-content/uploads/2023/07/Rhodopsin-Movie.mp4" %}
 {% endtab %}
 {% endtabs %}
+
+<details>
+
+<summary>Antworten zu den Fragen</summary>
+
+1. Das Rhodopsin der Sardina pilchardus hat 7 Transmembrandomänen, die regelmäßig über das Protein verteilt sind. Diese Domänen sind durch topologische Domänen getrennt, die zwischen extrazellulären und zytoplasmatischen Regionen wechseln.&#x20;
+2. Aufgrund des Vorhandenseins von 7 Transmembrandomänen können wir davon ausgehen, dass Rhodopsin zur Gruppe der 7-Transmembrandomänen-Rezeptoren gehört, die auch als G-Protein-gekoppelte Rezeptoren (GPCRs) bezeichnet werden.&#x20;
+3. Zu den üblichen posttranslationalen Modifikationen (PTM) des Sardina pilchardus-Rhodopsins gehören Glykosylierung, Lipidierung und die Bildung von Disulfidbindungen.
+4. Die Struktur des Rhodopsins von Sardina pilchardus ähnelt einer Röhre oder einem Fass. Die Struktur des Rhodopsins von Sardina pilchardus zeigt deutlich das Vorhandensein von sieben transmembranen Alpha-Helices, die zusammen die tonnenförmige Struktur bilden.&#x20;
+5. Die beiden Beta-Folien befinden sich am oberen Ende der tonnenförmigen Struktur und sind auf beiden Seiten mit zwei Alpha-Helices verbunden.
+
+</details>
