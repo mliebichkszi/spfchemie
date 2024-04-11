@@ -454,5 +454,3 @@ Es sind einige Monate vergangen, seit du dem TREC-Team geholfen hast, und jetzt 
 {% embed url="https://www.embl.org/ells/wp-content/uploads/2023/07/Rhodopsin-Movie.mp4" %}
 {% endtab %}
 {% endtabs %}
-
-asdfadsf
