@@ -1,4 +1,4 @@
-# Das mysteriöse Protein
+# Das rätselhafte Protein
 
 ## Das rätselhafte Protein: Eine Bioinformatik-Expedition
 

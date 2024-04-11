@@ -79,7 +79,7 @@
   * [Aminosäuren](biochemie/aminosaeuren.md)
   * [Aminosäuren (Labor)](biochemie/aminosaeuren-labor.md)
   * [Proteine](biochemie/proteine/README.md)
-    * [Das mysteriöse Protein](biochemie/proteine/das-mysterioese-protein.md)
+    * [Das rätselhafte Protein](biochemie/proteine/das-raetselhafte-protein.md)
   * [Enzyme](biochemie/enzyme/README.md)
     * [Theorie](biochemie/enzyme/theorie.md)
     * [Aufgaben](biochemie/proteine/enzyme.md)
