@@ -110,13 +110,14 @@
   * [Molare Standardbindungsenthalpien](tabellen-und-wichtige-begriffe/molare-standardbindungsenthalpien.md)
   * [Bildungsenthalpien und Entropien](tabellen-und-wichtige-begriffe/bildungsenthalpien-und-entropien.md)
   * [pKs-Werte von Aminosäuren](tabellen-und-wichtige-begriffe/pks-werte-von-aminosaeuren.md)
+  * [Wellenlängenbereiche und zugehörige Farben](tabellen-und-wichtige-begriffe/wellenlaengenbereiche-und-zugehoerige-farben.md)
   * [Wichtige Begriffe](tabellen-und-wichtige-begriffe/wichtige-begriffe.md)
 * [🎯 Lernziele](lernziele/README.md)
   * [Lernziele 4. Klasse](lernziele/lernziele-4.-klasse.md)
   * [Lernziele 6. Klasse](lernziele/lernziele-6.-klasse/README.md)
     * [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-1.-november-2023.md)
     * [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
-  * [Lernziele Maturprüfung](lernziele/lernziele-maturpruefung/README.md)
+  * [Lernziele Maturprüfung](lernziele/lernziele-maturpruefung.md)
     * [Maturprüfungen aus anderen Kantonen (öffentlich zugänglich)](lernziele/lernziele-maturpruefung/maturpruefungen-aus-anderen-kantonen-oeffentlich-zugaenglich.md)
 
 ## 🔗 Links
