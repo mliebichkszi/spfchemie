@@ -20,17 +20,22 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 ### Orbitalmodell
 
 * [ ] Licht und Elektronen als Teilchen- und Wellenerscheinung
+* [ ] Formen der Orbitale
 * [ ] Hybridisierung
+* [ ] Valenzbindungstheorie und MO-Theorie
 * [ ] MO-Diagramme
 * [ ] Bindungsordnung
+* [ ] HOMO/LUMO
 
 ### Farbigkeit
 
 * [ ] Konjugation und Mesomerie
+  * [ ] Elektronendelokalisierung
+  * [ ] Mesomerer Effekt
 * [ ] Absorption
 * [ ] Komplementärfarben
-* [ ] Chromophore
-*
+* [ ] Chromophore, Auxochrome/Antiauxochrome, Bathochrome
+* [ ] Grundzustand, Anregungszustand
 
 ### Reaktionen
 
