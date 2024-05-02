@@ -41,7 +41,11 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 
 * [ ] Säure/Base-Reaktionen
 * [ ] Redoxreaktionen
-* [ ] Nucleophile Substitution
+  * [ ] Oxidation von Alkoholen
+* [ ] Nucleophile Substitutionen
+* [ ] Elektrophile Addition
+* [ ] Radikalische Substitution
+* [ ] Katalysierte Hydrierung
 
 ### Thermodynamik
 
@@ -51,12 +55,17 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 
 ### Arzneimittel
 
+* [ ] Synthese und Wirkungsweise eines Antibiotikums: Sulfamethoxazol
+
 ### Biochemie
 
 ### Analytische Chemie
 
-* [ ] IR-Spektrometer
-* [ ] UV/Vis-Spektrometer
+* [ ] Absorption und Emission
+* [ ] Wellenlänge und Frequenz
+* [ ] Spektroskopie
+  * [ ] IR
+  * [ ] UV/Vis
 
 
 
