@@ -40,18 +40,34 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 ### Reaktionen
 
 * [ ] Säure/Base-Reaktionen
+  * [ ] Brønstedt- und Lewis-Säuren
+  * [ ] [Stabilität von Säuren und Basen](../stabilitaet-von-saeuren-und-basen/)
 * [ ] Redoxreaktionen
   * [ ] Oxidation von Alkoholen
 * [ ] Nucleophile Substitutionen
 * [ ] Elektrophile Addition
 * [ ] Radikalische Substitution
-* [ ] Katalysierte Hydrierung
+* [ ] [Katalysierte Hydrierung](../synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
 
-### Thermodynamik
+### [Thermodynamik](../thermodynamik/)
+
+* [ ] Hauptsätze
+* [ ] Enthalpie
+* [ ] Entropie
+* [ ] Gibbs-Helmholtz-Gleichung
+* [ ] Spontanität einer Reaktion
 
 ### Nanotechnologie
 
+* [ ] [Grössenordnungen](../nanotechnologie/groessenordnungen.md)
+* [ ] AFM
+* [ ] Nano-Gold
+  * [ ] Anwendung von Nano-Gold
+* [ ] Quantenpunkte
+
 ### Komplexchemie
+
+*
 
 ### Arzneimittel
 
