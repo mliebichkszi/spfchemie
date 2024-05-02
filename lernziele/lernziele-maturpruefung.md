@@ -41,15 +41,15 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 
 * [ ] Säure/Base-Reaktionen
   * [ ] Brønstedt- und Lewis-Säuren
-  * [ ] [Stabilität von Säuren und Basen](../../stabilitaet-von-saeuren-und-basen/)
+  * [ ] [Stabilität von Säuren und Basen](../stabilitaet-von-saeuren-und-basen/)
 * [ ] Redoxreaktionen
   * [ ] Oxidation von Alkoholen
 * [ ] Nucleophile Substitutionen
 * [ ] Elektrophile Addition
 * [ ] Radikalische Substitution
-* [ ] [Katalysierte Hydrierung](../../synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
+* [ ] [Katalysierte Hydrierung](../synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
 
-### [Thermodynamik](../../thermodynamik/)
+### [Thermodynamik](../thermodynamik/)
 
 * [ ] Hauptsätze
 * [ ] Enthalpie
@@ -59,13 +59,13 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 
 ### Nanotechnologie
 
-* [ ] [Grössenordnungen](../../nanotechnologie/groessenordnungen.md)
+* [ ] [Grössenordnungen](../nanotechnologie/groessenordnungen.md)
 * [ ] AFM
 * [ ] Nano-Gold
   * [ ] Anwendung von Nano-Gold
 * [ ] Quantenpunkte
 
-### [Komplexchemie](./#komplexchemie)
+### [Komplexchemie](lernziele-maturpruefung.md#komplexchemie)
 
 * [ ] Lewis-Säuren und -Basen
 * [ ] Koordinationszahl
@@ -77,7 +77,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 * [ ] Kristallfeld- und Ligandenfeldtheorie
 * [ ] Komplexe in der Medizin
 
-### Arzneimittel
+### [Arzneimittel](lernziele-maturpruefung.md#arzneimittel)
 
 * [ ] Synthese und Wirkungsweise eines Antibiotikums: Sulfamethoxazol
 * [ ] Antiacida
@@ -85,7 +85,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Protonenpumpenhemmer
 * [ ] Aspirin-Synthese und Wirkungsweise
 
-### Biochemie
+### [Biochemie](lernziele-maturpruefung.md#biochemie)
 
 * [ ] Aminosäuren
   * [ ] Struktur
@@ -94,12 +94,15 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Fischer-Projektion
 * [ ] Proteine
   * [ ] Sekundärstrukturen
+* [ ] Enzyme
+  * [ ] RGT-Regel
+* [ ] Enzym-Kinetik
 
 ### Analytische Chemie
 
 * [ ] Absorption und Emission
 * [ ] Wellenlänge und Frequenz
-* [ ] Spektroskopie
+* [ ] [Spektroskopie](../spektroskopie/)
   * [ ] IR
   * [ ] UV/Vis
 
