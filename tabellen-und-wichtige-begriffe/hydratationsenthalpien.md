@@ -6,5 +6,3 @@ $$\begin{array}{|l|l|} \hline \text { lon } & \text { Hydratationsenthalpie }\le
 
 
 
-[https://cdn.mathpix.com/snip/images/qpTIeto-tcNw6JHs\_hfgXDExXEkS6eJSsXjjRc0H\_5g.original.fullsize.png](https://cdn.mathpix.com/snip/images/qpTIeto-tcNw6JHs\_hfgXDExXEkS6eJSsXjjRc0H\_5g.original.fullsize.png)
-

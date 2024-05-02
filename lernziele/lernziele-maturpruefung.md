@@ -2,12 +2,7 @@
 
 ## Hilfsmittel
 
-* Periodensystem
-* S/B-Tabelle
-* Redox-Tabelle
-* AS-Tabelle
-* Thermodynamik-Tabelle
-* IR-Tabelle
+{% file src="../.gitbook/assets/tabellen_formeln_matur.pdf" %}
 
 ## Dauer
 
