@@ -101,5 +101,9 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] IR
   * [ ] UV/Vis
 
+### Synthesen
+
+* [ ] Rheosmin-Synthese
+
 
 
