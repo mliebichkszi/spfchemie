@@ -86,6 +86,7 @@
     * [Experimente](biochemie/enzyme/experimente.md)
     * [Michaelis-Menten-Kinetik](biochemie/enzyme/michaelis-menten-kinetik.md)
 * [⚗️ Labor](synthesen/README.md)
+  * [Checkliste Laborbericht](labor/checkliste-laborbericht.md)
   * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
     * [Katalysierte Hydrierung](synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
   * [Michaelis Menten Kinetik](labor/michaelis-menten-kinetik.md)
