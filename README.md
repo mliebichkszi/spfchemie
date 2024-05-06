@@ -32,8 +32,8 @@
 [biochemie](biochemie/)
 {% endcontent-ref %}
 
-{% content-ref url="labor/" %}
-[labor](labor/)
+{% content-ref url="synthesen/" %}
+[synthesen](synthesen/)
 {% endcontent-ref %}
 
 {% content-ref url="extraktionen/" %}

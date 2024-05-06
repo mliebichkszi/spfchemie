@@ -1,5 +1,3 @@
-# Michaelis Menten Kineti
-
-
+# Michaelis Menten Kinetik
 
 {% file src="../.gitbook/assets/MichaelisMentenKinetik.pdf" %}
