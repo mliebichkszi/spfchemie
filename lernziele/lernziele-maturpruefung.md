@@ -42,7 +42,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 * [ ] Nucleophile Substitutionen
 * [ ] Elektrophile Addition
 * [ ] Radikalische Substitution
-* [ ] [Katalysierte Hydrierung](../synthesen/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
+* [ ] [Katalysierte Hydrierung](../labor/synthese-von-rheosmin-himbeerketon/katalysierte-hydrierung.md)
 
 ### [Thermodynamik](../thermodynamik/)
 
