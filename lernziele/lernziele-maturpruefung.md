@@ -98,7 +98,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 * [ ] Absorption und Emission
 * [ ] Wellenlänge und Frequenz
 * [ ] [Spektroskopie](../spektroskopie/)
-  * [ ] IR
+  * [ ] IR ([https://www.swisseduc.ch/chemie/molekularium/spectroscopy/IR/b/index.html](https://www.swisseduc.ch/chemie/molekularium/spectroscopy/IR/b/index.html))
   * [ ] UV/Vis
 
 ### Synthesen
