@@ -8,6 +8,12 @@
 
 2 Stunden
 
+## Grundlagen
+
+* [ ] Funktionelle Gruppen:
+
+<figure><img src="../.gitbook/assets/funktionelleGruppen.png" alt=""><figcaption></figcaption></figure>
+
 ## Prüfungsstoff
 
 Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen auf der Webseite aufgelistet. Bis zum Semesterende sind noch kleinere Anpassungen notwendig.
