@@ -1,3 +1,7 @@
+---
+description: 'Quellen: kobra.uni-kassel, studyflix'
+---
+
 # Michaelis-Menten-Kinetik
 
 ## Einleitung
@@ -43,9 +47,28 @@ $$
 v _0=\frac{ V _{\max } \cdot c ( S )}{ K _{ M }+ c ( S )}
 $$
 
+c(S): Substratkonzentration bei Beginn der Reaktion
+
+v0 : Anfangsgeschwindigkeit der Reaktion bei der entsprechenden Substratkonzentration
+
+Vmax: Maximalgeschwindigkeit der Reaktion, die bei Substratsättigung erreicht wird
+
+KM: Michaelis-Menten-Konstante; bei dieser Substratkonzentration läuft die Reaktion mit halbmaximaler Geschwindigkeit ab. Oft ist die Michaelis-Konstante ein Mass für die Affinität des Enzyms zum Substrat.
 
 
 
+Die experimentell ermittelten Steigungen der Geraden kann man gegen die Harnstoff-Konzentrationen auftragen und erhält die folgende Sättigungskurve:\
+
+
+<figure><img src="../../.gitbook/assets/image (164).png" alt="" width="384"><figcaption></figcaption></figure>
+
+Die Maximalgeschwindigkeit und der $$K_M$$-Wert (Michaelis Menten - Konstante) bei $$0.5 v_{max}$$ kann direkt aus dem Graphen gelesen werden.
+
+Trägt man doppelt reziprok auf, so können die Werte an den Achsenabschnitten abgelesen werden (Lineweaver Burk Diagramm):
+
+<figure><img src="../../.gitbook/assets/image (167).png" alt="" width="332"><figcaption></figcaption></figure>
+
+Die Michaelis-Menten-Konstante ist spezifisch für die Reaktion eines Enzyms mit einem Substrat und gibt die Substratkonzentration an, bei der das Enzym mit der Hälfte der Maximalgeschwindigkeit arbeitet.
 
 ## Michaelis Menten - Gleichung
 
