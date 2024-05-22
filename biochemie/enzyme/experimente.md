@@ -12,19 +12,19 @@ Es stehen Ihnen für die Experimente folgende Chemikalien zur Verfügung:
 
 ## Ananas
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
 In Ananas ist ein Enzym enthalten. Führen Sie ein Experiment mit roher und gekochter/erhitzter Ananas durch.
 
 ## Papaia
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="175"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="175"><figcaption></figcaption></figure>
 
 In der Papaia ist ein Enzym enthalten. Führen Sie ein Experiment mit roher und gekochter Papaia durch.
 
 ## Hefe
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Kartoffel
 

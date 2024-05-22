@@ -121,7 +121,7 @@ Wie unterscheiden sich Energiediagramme von „gehemmten“ Reaktionen im Vergle
 {% endtab %}
 
 {% tab title="Lösung" %}
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bei der kompetitiven Hemmung kann die maximale Enzymaktivität durch erhöhte Substratkonzentration erreicht werden.&#x20;
 
