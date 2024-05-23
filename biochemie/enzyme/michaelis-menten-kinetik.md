@@ -68,6 +68,10 @@ Trägt man doppelt reziprok auf, so können die Werte an den Achsenabschnitten a
 
 <figure><img src="../../.gitbook/assets/image (167).png" alt="" width="332"><figcaption></figcaption></figure>
 
+$$
+\frac{1}{\mathrm{v}_0}=\frac{\mathrm{K}_{\mathrm{M}}}{\mathrm{V}_{\max } \cdot \mathrm{c}(\mathrm{S})}+\frac{1}{\mathrm{~V}_{\max }}
+$$
+
 Die Michaelis-Menten-Konstante ist spezifisch für die Reaktion eines Enzyms mit einem Substrat und gibt die Substratkonzentration an, bei der das Enzym mit der Hälfte der Maximalgeschwindigkeit arbeitet.
 
 ## Michaelis Menten - Gleichung
