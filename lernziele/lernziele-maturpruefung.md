@@ -95,6 +95,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Fischer-Projektion
 * [ ] Proteine
   * [ ] Sekundärstrukturen
+  * [ ] Bildung von Tertiär- und Quartärstrukturen
 * [ ] Enzyme
   * [ ] RGT-Regel
 * [ ] Enzym-Kinetik (Michaelis Menten)
