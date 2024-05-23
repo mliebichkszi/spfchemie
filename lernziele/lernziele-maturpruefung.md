@@ -97,7 +97,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Sekundärstrukturen
 * [ ] Enzyme
   * [ ] RGT-Regel
-* [ ] Enzym-Kinetik
+* [ ] Enzym-Kinetik (Michaelis Menten)
 
 ### Analytische Chemie
 
