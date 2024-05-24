@@ -1,4 +1,4 @@
-# Lernziele 4. Klasse
+# Prüfung 1: Wellentheorie
 
 ### **Inhalt**
 
@@ -16,7 +16,7 @@
 
 ### **Quellen**
 
-* [Modul Orbitalmodell](<../README (1).md>)
+* [Modul Orbitalmodell](<../../README (1).md>)
 * Leitprogramm (LP) "Quantenchemie und chemische Bindung"&#x20;
 
 ### Lernziele
