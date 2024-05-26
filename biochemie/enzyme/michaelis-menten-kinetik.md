@@ -44,7 +44,7 @@ Wird Urease zu unterschiedlich konzentrierten Harnstoff-Lösungen gegeben, so ze
 Die Abhängigkeit der Geschwindigkeit von der Substratkonzentration lässt sich mit der MM-Gleichung beschreiben:
 
 $$
-v _0=\frac{ V _{\max } \cdot c ( S )}{ K _{ M }+ c ( S )}
+v _0=\frac{ v _{\max } \cdot c ( S )}{ K _{ M }+ c ( S )}
 $$
 
 c(S): Substratkonzentration bei Beginn der Reaktion
