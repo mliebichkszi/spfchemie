@@ -6,6 +6,6 @@
 
 ## Konjugierte Systeme
 
-
+Je ausgedehnter das konjugierte System, desto tiefer die Energie. Das folgende Diagramm veranschaulicht dies ausgehend von einem einzelnen p-Orbital links (Ansicht von oben):
 
 <figure><img src="../.gitbook/assets/konjugiertesSystem.jpg" alt=""><figcaption></figcaption></figure>
