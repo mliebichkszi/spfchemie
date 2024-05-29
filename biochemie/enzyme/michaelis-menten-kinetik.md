@@ -8,7 +8,7 @@ description: 'Quellen: kobra.uni-kassel, studyflix'
 
 Das Enzym Urease kommt unter anderem in der Sojabohne vor.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>3D-Struktur von Sojabohnen-Urease</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>3D-Struktur von Sojabohnen-Urease</p></figcaption></figure>
 
 Es spaltet Harnstoff in Ammoniak und Kohlendioxid:
 
@@ -39,7 +39,7 @@ $$
 
 Wird Urease zu unterschiedlich konzentrierten Harnstoff-Lösungen gegeben, so zeigt sich, dass bei höherer Harnstoffkonzentration die Umsetzung rascher passiert.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Die Abhängigkeit der Geschwindigkeit von der Substratkonzentration lässt sich mit der MM-Gleichung beschreiben:
 

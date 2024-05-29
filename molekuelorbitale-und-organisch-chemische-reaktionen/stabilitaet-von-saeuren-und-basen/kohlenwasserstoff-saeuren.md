@@ -8,7 +8,7 @@ Methan ist eine schwache Säure mit einem berechneten pKs von 48. Dementsprechen
 Merke: Je mehr s-Charakter ein Orbital hat, desto näher sind die Elektronen am Kern (s->p->d)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Links: Acetaldehyd, rechts: Enolat-Anion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Links: Acetaldehyd, rechts: Enolat-Anion</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Übung" %}
@@ -16,7 +16,7 @@ Welche der folgenden Säuren ist am schwächsten? Argumentieren Sie auf der mole
 {% endtab %}
 
 {% tab title="Lösung" %}
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Ganz links: Keton Enolat, Mitte: Amid-Anion, Rechts. Carbon </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Ganz links: Keton Enolat, Mitte: Amid-Anion, Rechts. Carbon </p></figcaption></figure>
 
 Am effektivsten ist die Delokalisierung der Elektronen auf die Sauerstoff-Atome.
 {% endtab %}

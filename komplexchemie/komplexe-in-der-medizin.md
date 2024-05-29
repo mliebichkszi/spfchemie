@@ -24,7 +24,7 @@ Die Formel $$\begin{equation} \left[\mathrm{Pt}\left(\mathrm{NH}_3\right)_2 \mat
 
 Obschon hier ein 50:50 Gemisch der beiden Verbindungen entstehen könnte, wird primär das cis-Isomer gebildet. Dies liegt an dem sogenannten trans-Effekt.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Trans-Effekt**
@@ -134,7 +134,7 @@ Die Ladung des $$Pt^{2+}$$-Ions wird nicht aufgehoben, da ein negatives Chlorid-
 
 <details>
 
-<summary>Das folgende Diagramm zeigt ein Nukleotid mit Guanin. Kreisen Sie zwei Atome ein, an das Cisplatin binden könnte.<br> <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></summary>
+<summary>Das folgende Diagramm zeigt ein Nukleotid mit Guanin. Kreisen Sie zwei Atome ein, an das Cisplatin binden könnte.<br> <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></summary>
 
 
 

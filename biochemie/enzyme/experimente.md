@@ -18,7 +18,7 @@ In Ananas ist ein Enzym enthalten. Führen Sie ein Experiment mit roher und geko
 
 ## Papaia
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="175"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="175"><figcaption></figcaption></figure>
 
 In der Papaia ist ein Enzym enthalten. Führen Sie ein Experiment mit roher und gekochter Papaia durch.
 
