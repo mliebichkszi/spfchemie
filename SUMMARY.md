@@ -14,7 +14,7 @@
   * [Orbitale und Hybridisierung](orbitalmodell/orbitale-und-hybridisierung/README.md)
     * [Vortrag](orbitalmodell/orbitale-und-hybridisierung/vortrag.md)
     * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
-* [Molekülorbitale und organisch-chemische Reaktionen](molekuelorbitale-und-organisch-chemische-reaktionen/README.md)
+* [🫧 Molekülorbitale und organisch-chemische Reaktionen](molekuelorbitale-und-organisch-chemische-reaktionen/README.md)
   * [🍋 Stabilität von Säuren und Basen](molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/README.md)
     * [Löslichkeit von Säuren und Basen](molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/datenbanken.md)
     * [pKs-Werte](molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/pks-werte.md)
