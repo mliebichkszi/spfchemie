@@ -44,7 +44,7 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Brønstedt- und Lewis-Säuren
   * [ ] [Stabilität von Säuren und Basen](../molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/)
 * [ ] Redoxreaktionen
-  * [ ] Oxidation von Alkoholen
+  * [ ] [Oxidation von Alkoholen](https://de.serlo.org/chemie/128041/oxidation-von-alkoholen-durch-permanganatl%C3%B6sung)
 * [ ] Nucleophile Substitutionen
 * [ ] Elektrophile Addition
 * [ ] Radikalische Substitution
