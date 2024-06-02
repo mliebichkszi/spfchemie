@@ -57,8 +57,9 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
   * [ ] Reaktionsenthalpie einer Reaktion berechnen können.
 * [ ] Entropie
   * [ ] Reaktionsentropie einer Reaktion berechnen können.
-* [ ] Gibbs-Helmholtz-Gleichung
+* [ ] Gibbs-Helmholtz-Gleichung ( $$\Delta G=\Delta H-T \Delta S)$$
 * [ ] Spontanität einer Reaktion
+  * [ ] Die Gibbs-Energie ( $$\Delta G$$) berechnen und bestimmen, auf welcher Seite das generelle Gleichgewicht liegt.
 
 ### Nanotechnologie
 
