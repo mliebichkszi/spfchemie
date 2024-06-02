@@ -54,7 +54,9 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 
 * [ ] Hauptsätze
 * [ ] Enthalpie
+  * [ ] Reaktionsenthalpie einer Reaktion berechnen können.
 * [ ] Entropie
+  * [ ] Reaktionsentropie einer Reaktion berechnen können.
 * [ ] Gibbs-Helmholtz-Gleichung
 * [ ] Spontanität einer Reaktion
 
