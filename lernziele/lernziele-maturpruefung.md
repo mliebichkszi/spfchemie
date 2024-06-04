@@ -108,7 +108,8 @@ Nachfolgend sind die Themenbereiche mit Verweisen zu den entsprechenden Modulen 
 * [ ] Absorption und Emission
 * [ ] Wellenlänge und Frequenz
 * [ ] [Spektroskopie](../spektroskopie/)
-  * [ ] IR ([https://www.swisseduc.ch/chemie/molekularium/spectroscopy/IR/b/index.html](https://www.swisseduc.ch/chemie/molekularium/spectroscopy/IR/b/index.html))
+  * [ ] IR&#x20;
+    * [ ] Sie können bspw. Alkohole, Carbonsäuren und Aldehyde voneinander unterscheiden.
   * [ ] UV/Vis
 
 ### Synthesen
