@@ -124,9 +124,6 @@
   * [Lernziele 6. Klasse](lernziele/lernziele-6.-klasse/README.md)
     * [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-1.-november-2023.md)
     * [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
-  * [Stoffübersicht Maturprüfung](lernziele/lernziele-maturpruefung.md)
-    * [Videos](lernziele/stoffuebersicht-maturpruefung/videos.md)
-    * [Maturprüfungen aus anderen Kantonen (öffentlich zugänglich)](lernziele/lernziele-maturpruefung/maturpruefungen-aus-anderen-kantonen-oeffentlich-zugaenglich.md)
 
 ## 🔗 Links
 
