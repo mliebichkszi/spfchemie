@@ -1,5 +1,11 @@
 # Prüfung 3: Einführung S/B-Chemie
 
+## Zusammenfassung
+
+{% file src="../../.gitbook/assets/ZusammenfassungSB.pdf" %}
+
+## Lernziele
+
 * [ ] Moleküle und Ionen in Lewis- und Skelettformel zeichnen können.
 * [ ] Mehratomige Ionen auswendig kennen (und zeichnen können).
 * [ ] Definieren können: pH-Wert, saure/neutrale/basische Lösung, Säure/Base, konjugierte Säure/Base, Ampholyt
