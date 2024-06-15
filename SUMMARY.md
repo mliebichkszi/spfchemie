@@ -121,6 +121,7 @@
   * [Lernziele 4. Klasse](lernziele/lernziele-4.-klasse/README.md)
     * [Prüfung 1: Wellentheorie](lernziele/lernziele-4.-klasse/pruefung-1-wellentheorie.md)
     * [Prüfung 2: Atome und Bindung im Orbitalmodell](lernziele/lernziele-4.-klasse/pruefung-2-atome-und-bindung-im-orbitalmodell.md)
+    * [Prüfung 3: Einführung S/B-Chemie](lernziele/lernziele-4.-klasse/pruefung-3-einfuehrung-s-b-chemie.md)
   * [Lernziele 6. Klasse](lernziele/lernziele-6.-klasse/README.md)
     * [Lernziele für die Prüfung vom 1. November 2023](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-1.-november-2023.md)
     * [Lernziele für die Prüfung vom 25. März 2024](lernziele/lernziele-6.-klasse/lernziele-fuer-die-pruefung-vom-25.-maerz-2024.md)
