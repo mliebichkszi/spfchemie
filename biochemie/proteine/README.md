@@ -8,7 +8,7 @@
 
 ### α-Helix
 
-{% embed url="https://www.nanoo.tv/link/v/rGWVXTDe" %}
+{% include "../../.gitbook/includes/untitled.md" %}
 
 ### Sonstige Strukturen&#x20;
 
@@ -67,7 +67,7 @@ Kürzlich stieß das TREC-Team auf eine verblüffende Entdeckung in einer ihrer 
 Die meisten der Methoden, die wir im Rahmen dieser Aktivität einsetzen werden, wurden vom EMBL-EBI entwickelt und Wissenschaftler\*innen in aller Welt **kostenlos** zur Verfügung gestellt.
 
 **EMBOSS Transeq**\
-Link:[ https://www.ebi.ac.uk/Tools/st/emboss\_transeq/](https://www.ebi.ac.uk/Tools/st/emboss\_transeq/)\
+Link:[ https://www.ebi.ac.uk/Tools/st/emboss\_transeq/](https://www.ebi.ac.uk/Tools/st/emboss_transeq/)\
 Eine Methode zur Übersetzung von Nukleinsäuresequenzen (DNA oder RNA) in ihre entsprechenden Aminosäuresequenzen.
 
 **NCBI BLAST+ (Basic Local Alignment Search Tool)**\
@@ -79,7 +79,7 @@ Link:[ https://www.ebi.ac.uk/Tools/msa/clustalo/](https://www.ebi.ac.uk/Tools/ms
 Eine Methode für das Alignment und den Vergleich mehrerer Sequenzen, die speziell für Aminosäuresequenzen geeignet ist.
 
 **Simple Phylogeny**\
-Link**:**[ https://www.ebi.ac.uk/Tools/phylogeny/simple\_phylogeny/](https://www.ebi.ac.uk/Tools/phylogeny/simple\_phylogeny/)  \
+Lin&#x6B;**:**[ https://www.ebi.ac.uk/Tools/phylogeny/simple\_phylogeny/](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)  \
 Eine Methode zur Durchführung grundlegender phylogenetischer Analysen an einem multiplen Sequenzalignment.
 
 **UniProt-Datenbank (Universal Protein Resource)**\
@@ -141,7 +141,7 @@ GAGGCCAGCAGCGTGTGCAGCGTGAGCCCCCACGCC
 {% endtab %}
 
 {% tab title="EMBOSS Transeq" %}
-**1.** [Rufe die EMBOSS Transeq-Methode](https://www.ebi.ac.uk/jdispatcher/st/emboss\_transeq) auf.\
+**1.** [Rufe die EMBOSS Transeq-Methode](https://www.ebi.ac.uk/jdispatcher/st/emboss_transeq) auf.\
 **2.** Füge die DNA-Sequenz (einschließlich des Größer-als-Symbols (>) und des Sequenznamens) in das Abfragefeld ein (STEP 1). Stelle sicher, dass im Feld “Parameters” (STEP 2) “frame=1” und “Codon table=Standard codon” ausgewählt ist. Sende dann deine Anfrage ab, indem du auf “Submit” klickst. \
 **3.** Sieh dir die angezeigte Datentabelle an und versuche, die mit der Aufgabe verbundenen Fragen zu beantworten. Für eine bessere Visualisierung kannst du auf “Show Colors” klicken.\
 **4.** Speichere oder kopiere die Aminosäuresequenz für die nächste Aufgabe.
@@ -171,7 +171,7 @@ Wir werden die Bioinformatik-Methode NCBI BLAST+ verwenden, um uns bei diesem Pr
 
 {% tab title="AUFGABE" %}
 **Bitte befolge die unten aufgeführten Schritte:**\
-**1.** Kopiere die Aminosäuresequenz, die du kürzlich übersetzt hast. Du findest sie in der vorangegangenen Aufgabe oder kannst sie über den angegebenen [Link hier](https://drive.google.com/file/d/1M-65TwCxZ\_DPRwjGs9hHMjhUjA2lJwPz/view?usp=sharing) herunterladen. Verwende einen Texteditor (z.B. TextEdit und Notepad), um FASTA-Dateien zu öffnen.\
+**1.** Kopiere die Aminosäuresequenz, die du kürzlich übersetzt hast. Du findest sie in der vorangegangenen Aufgabe oder kannst sie über den angegebenen [Link hier](https://drive.google.com/file/d/1M-65TwCxZ_DPRwjGs9hHMjhUjA2lJwPz/view?usp=sharing) herunterladen. Verwende einen Texteditor (z.B. TextEdit und Notepad), um FASTA-Dateien zu öffnen.\
 **2.** Gehe auf die Registerkarte “NCBI BLAST+” und befolge die Anweisungen, um mit der NCBI BLAST+ Methode nach der Identität des Proteins zu suchen.  \
 **3.** Versuche, die Fragen auf der Registerkarte “Fragen” zu beantworten.
 {% endtab %}
@@ -388,7 +388,7 @@ S
 {% endtab %}
 
 {% tab title="CLUSTAL OMEGA" %}
-**1.** Füge alle Aminosäuresequenzen, einschließlich der Größer-als-Symbole und den Artnamen, in das Eingabefeld [der EMBL Job Dispatcher - Seite](https://www.ebi.ac.uk/jdispatcher/) ein. (Alternativ kannst du auch [diese FASTA-Datei](https://drive.google.com/file/d/1KDqNuCz0dGR0WpanujVZ0HUd2xMJz0B2/view?usp=drive\_link) mit den Sequenzen von deinem Computer hochladen).
+**1.** Füge alle Aminosäuresequenzen, einschließlich der Größer-als-Symbole und den Artnamen, in das Eingabefeld [der EMBL Job Dispatcher - Seite](https://www.ebi.ac.uk/jdispatcher/) ein. (Alternativ kannst du auch [diese FASTA-Datei](https://drive.google.com/file/d/1KDqNuCz0dGR0WpanujVZ0HUd2xMJz0B2/view?usp=drive_link) mit den Sequenzen von deinem Computer hochladen).
 
 **2.** Wähle “ClustalW with character counts” als Ausgabeformat.
 
@@ -430,7 +430,7 @@ Um einen phylogenetischen Baum auf der Grundlage unseres Sequenzalignments zu er
 {% endtab %}
 
 {% tab title="SIMPLE PHYLOGENY" %}
-**1.** Füge das Alignment der Aminosäuresequenzen, einschließlich “CLUSTAL O(1.2.4) multiple sequence alignment”, [in das Eingabefeld](https://www.ebi.ac.uk/jdispatcher/) ein. (Alternativ kannst du auch [diese FASTA-](https://drive.google.com/file/d/1\_QwQ9w6LzBDceP2LvVcHTS9yYrUIKfiP/view?usp=drive\_link)[Datei](https://drive.google.com/file/d/1\_QwQ9w6LzBDceP2LvVcHTS9yYrUIKfiP/view?usp=drive\_link) mit den Sequenzen von deinem Computer hochladen).
+**1.** Füge das Alignment der Aminosäuresequenzen, einschließlich “CLUSTAL O(1.2.4) multiple sequence alignment”, [in das Eingabefeld](https://www.ebi.ac.uk/jdispatcher/) ein. (Alternativ kannst du auch [diese FASTA-](https://drive.google.com/file/d/1_QwQ9w6LzBDceP2LvVcHTS9yYrUIKfiP/view?usp=drive_link)[Datei](https://drive.google.com/file/d/1_QwQ9w6LzBDceP2LvVcHTS9yYrUIKfiP/view?usp=drive_link) mit den Sequenzen von deinem Computer hochladen).
 
 **2.** Behalte in ‘STEP 2’ die Standardeinstellungen bei.
 
