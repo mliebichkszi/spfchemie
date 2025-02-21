@@ -16,7 +16,7 @@
 
 ### Modellierung eines Proteins mit SWISS-MODEL
 
-#### Aufgabe
+#### AufgabE
 
 Modellieren Sie mit Hilfe von SWISS-MODEL ein Protein aus den Sequenzen der $$\alpha$$ - Helix und des $$\beta$$ - Faltblatts, die Sie im Unterricht untersucht haben. \
 \
