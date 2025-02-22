@@ -120,8 +120,6 @@
 
 ## 🔗 Links
 
-* [Diverse Links](links/datenbanken.md)
-
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
@@ -137,3 +135,4 @@
   * [Experimente](archiv/enzyme/experimente.md)
   * [Michaelis-Menten-Kinetik](archiv/enzyme/michaelis-menten-kinetik.md)
 * [Page 1](archiv/page-1.md)
+* [Diverse Links](archiv/datenbanken.md)
