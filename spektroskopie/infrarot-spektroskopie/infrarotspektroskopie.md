@@ -7,7 +7,7 @@ coverY: 0
 
 Zu den wichtigsten Verfahren der instrumentellen Analytik gehören die _spektroskopischen Verfahren._ Diese Methoden beruhen darauf, dass Moleküle elektromagnetische Strahlung absorbieren. Je nach der Energie der Strahlung werden dabei _Elektronen_ auf ein energetisch höheres Niveau angehoben oder es werden _Schwingungen_ und _Rotationen_ von Atomen oder Atomgruppen im Molekül ausgelöst. Mit niedriger Energie kann auch der _Spin_ von Elektronen oder von Atomkernen verändert werden.
 
-Die ältesten spektroskopischen Verfahren beruhen auf der Wechselwirkung von Stoffen mit Licht. Neben dem Absorptionsverhalten im sichtbaren (_visu­_ellen) Bereich des Lichtes (VIS-Spektroskopie) wird häufig auch die Wech­selwirkung der Stoffe mit Ultraviolett-Strahlung (UV-Spektroskopie) oder Infrarot-Strahlung (IR-Spektroskopie) untersucht.
+Die ältesten spektroskopischen Verfahren beruhen auf der Wechselwirkung von Stoffen mit Licht. Neben dem Absorptionsverhalten im sichtbaren (_visu&#xAD;_&#x65;llen) Bereich des Lichtes (VIS-Spektroskopie) wird häufig auch die Wech­selwirkung der Stoffe mit Ultraviolett-Strahlung (UV-Spektroskopie) oder Infrarot-Strahlung (IR-Spektroskopie) untersucht.
 
 **LAMBERT-BEERsches Gesetz.** Die Wechselwirkung mit elektromagne­tischer Strahlung ist _stoffspezifisch._ Strahlt man beispielsweise Licht der Wellenlänge 590 nm in eine Lösung von Kristallviolett, so wird ein Teil des eingestrahlten Lichtes absorbiert. Im Photometer vergleicht man mit Hilfe einer Photozelle die ursprüngliche Intensität /0 mit der Lichtintensität /, die durch die Probe hindurchtritt. Als Mass für die Absorption verwendet man eine logarithmische Größe, die _**Extinktion** E._ Dabei gilt:
 

@@ -79,14 +79,6 @@
   * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
 * [🧬 Biochemie](biochemie/README.md)
   * [Aminosäuren](biochemie/aminosaeuren.md)
-  * [Aminosäuren (Labor)](biochemie/aminosaeuren-labor.md)
-  * [Proteine](biochemie/proteine/README.md)
-    * [Das rätselhafte Protein](biochemie/proteine/das-raetselhafte-protein.md)
-  * [Enzyme](biochemie/enzyme/README.md)
-    * [Theorie](biochemie/enzyme/theorie.md)
-    * [Aufgaben](biochemie/proteine/enzyme.md)
-    * [Experimente](biochemie/enzyme/experimente.md)
-    * [Michaelis-Menten-Kinetik](biochemie/enzyme/michaelis-menten-kinetik.md)
 * [⚗️ Labor](synthesen/README.md)
   * [Checkliste Laborbericht](labor/checkliste-laborbericht.md)
   * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
@@ -133,3 +125,15 @@
 ## 📚 Literatur
 
 * [Organische Chemie](literatur/organische-chemie.md)
+
+## Archiv
+
+* [Aminosäuren (Labor)](archiv/aminosauren-labor.md)
+* [Proteine](archiv/proteine/README.md)
+  * [Das rätselhafte Protein](archiv/proteine/das-ratselhafte-protein.md)
+* [Enzyme](archiv/enzyme/README.md)
+  * [Theorie](archiv/enzyme/theorie.md)
+  * [Aufgaben](archiv/enzyme/aufgaben.md)
+  * [Experimente](archiv/enzyme/experimente.md)
+  * [Michaelis-Menten-Kinetik](archiv/enzyme/michaelis-menten-kinetik.md)
+* [Page 1](archiv/page-1.md)

@@ -82,14 +82,14 @@ Informiere dich darüber, welche Enzymklassen es gibt. Welcher Reaktionstyp wird
 {% endtab %}
 
 {% tab title="Lösung" %}
-|  Enzymklasse       | Katalysierter Reaktionstyp                                              | Beispiel                             |
-| ------------------ | ----------------------------------------------------------------------- | ------------------------------------ |
-| O_xidoreduktasen_  | _Redoxreaktionen (Oxidation / Reduktion)_                               | _Alkohol-Dehydrogenase_              |
-| T_ransferasen_     | _Übertragung funktioneller Gruppen von einem Substrat auf ein anderes_  | _Transaldolase Peptidyltransferase_  |
-| H_ydrolasen_       | _hydrolytische Spaltung von Bindungen_                                  | α_-Amylase_                          |
-| Ly_asen_           | _nicht-hydrolytische Spaltung von Substraten_                           | _Pyruvat-Decarboxylase_              |
-| I_somerasen_       | _Umwandlung von chemischen Isomeren_                                    | _Triosephosphat-Isomerase_           |
-| Li_gasen_          | _Verknüpfung zweier Substrate unter ATP-Verbrauch_                      | _DNA-Ligase_                         |
+|  Enzymklasse                 | Katalysierter Reaktionstyp                                              | Beispiel                             |
+| ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
+| &#x4F;_&#x78;idoreduktasen_  | _Redoxreaktionen (Oxidation / Reduktion)_                               | _Alkohol-Dehydrogenase_              |
+| &#x54;_&#x72;ansferasen_     | _Übertragung funktioneller Gruppen von einem Substrat auf ein anderes_  | _Transaldolase Peptidyltransferase_  |
+| &#x48;_&#x79;drolasen_       | _hydrolytische Spaltung von Bindungen_                                  | &#x3B1;_-Amylase_                    |
+| L&#x79;_&#x61;sen_           | _nicht-hydrolytische Spaltung von Substraten_                           | _Pyruvat-Decarboxylase_              |
+| &#x49;_&#x73;omerasen_       | _Umwandlung von chemischen Isomeren_                                    | _Triosephosphat-Isomerase_           |
+| L&#x69;_&#x67;asen_          | _Verknüpfung zweier Substrate unter ATP-Verbrauch_                      | _DNA-Ligase_                         |
 {% endtab %}
 {% endtabs %}
 

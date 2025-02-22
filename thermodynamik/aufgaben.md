@@ -291,15 +291,15 @@ a) Reaktionsgleichung: $$\begin{equation} \mathrm{N} 2(\mathrm{~g})+3 \mathrm{H}
 
 b) Ja, die Reaktion ist auch exergonisch, da dRG0 negativ ist. Die Berechnung ergibt:
 
-dRG0 = dH° - T_dS° dH° = \[2_dH°(NH3) - dH°(N2) - 3_dH°(H2)] = (-91.8 kJ/mol) dS° = \[2_S°(NH3) - S°(N2) - 3_S°(H2)] = (-197.9 J/K_mol) \* (1 kJ/1000 J) = (-0.1979 kJ/K\*mol) T = 298 K
+dRG0 = dH° - &#x54;_&#x64;S° dH° = \[&#x32;_&#x64;H°(NH3) - dH°(N2) - &#x33;_&#x64;H°(H2)] = (-91.8 kJ/mol) dS° = \[&#x32;_&#x53;°(NH3) - S°(N2) - &#x33;_&#x53;°(H2)] = (-197.9 J/&#x4B;_&#x6D;ol) \* (1 kJ/1000 J) = (-0.1979 kJ/K\*mol) T = 298 K
 
-dRG0 = (-91.8 kJ/mol) - (298 K)_(−0.1979 kJ/K_mol) = −91.2 kJ/mol
+dRG0 = (-91.8 kJ/mol) - (298 K)_(−0.1979 kJ/&#x4B;_&#x6D;ol) = −91.2 kJ/mol
 
 c) Die Gleichgewichtskonstante K kann mit der Formel dG° = -RT\*ln(K) berechnet werden. Dabei ist R die Gaskonstante und T die Temperatur in Kelvin. Die Standardbildungsenthalpien dH° und die Standardentropien dS° der beteiligten Stoffe sind aus Tabellen bekannt.
 
-K bei 298 K: dG° = -RT_ln(K) dG° = (-91.2 kJ/mol) + (298 K)_(8.314 J/K_mol)ln(K) -ln(K) = (-91.2 kJ/mol + 298 K8.314 J/K_mol)/(8.314 J/K\*mol) -ln(K) = -39.06 K = exp(39.06) = 8.6 × 10^16
+K bei 298 K: dG° = -R&#x54;_&#x6C;n(K) dG° = (-91.2 kJ/mol) + (298 K)_(8.314 J/&#x4B;_&#x6D;ol)ln(K) -ln(K) = (-91.2 kJ/mol + 298 K8.314 J/&#x4B;_&#x6D;ol)/(8.314 J/K\*mol) -ln(K) = -39.06 K = exp(39.06) = 8.6 × 10^16
 
-K bei 450 °C (723 K): dG° = -RT_ln(K) dG° = (-91.2 kJ/mol) + (723 K)_(8.314 J/K_mol)ln(K) -ln(K) = (-91.2 kJ/mol + 723 K8.314 J/K_mol)/(8.314 J/K\*mol) -ln(K) = -65.34 K = exp(65.34) = 5.5 × 10^28
+K bei 450 °C (723 K): dG° = -R&#x54;_&#x6C;n(K) dG° = (-91.2 kJ/mol) + (723 K)_(8.314 J/&#x4B;_&#x6D;ol)ln(K) -ln(K) = (-91.2 kJ/mol + 723 K8.314 J/&#x4B;_&#x6D;ol)/(8.314 J/K\*mol) -ln(K) = -65.34 K = exp(65.34) = 5.5 × 10^28
 
 Das GG liegt bei 450 °C deutlich weiter rechts auf der Seite der Produkte.
 
