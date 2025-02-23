@@ -21,7 +21,11 @@ Eine Abgangsgruppe ist ein Substituent, der seine Bindungselektronen anzieht und
 
 
 
-<figure><img src=".gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+## Theorie
+
+[https://kszich-my.sharepoint.com/:b:/g/personal/michael\_liebich\_kszi\_ch/EV6bV8lBzANFlJIe4uq-kosBT-vrR7dhDlJj\_yHCoqpDeg?e=Iq1JEh](https://kszich-my.sharepoint.com/:b:/g/personal/michael_liebich_kszi_ch/EV6bV8lBzANFlJIe4uq-kosBT-vrR7dhDlJj_yHCoqpDeg?e=Iq1JEh)
+
+## Übung
 
 
 
