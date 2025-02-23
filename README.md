@@ -4,8 +4,8 @@
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
-{% content-ref url="molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/" %}
-[stabilitaet-von-saeuren-und-basen](molekuelorbitale-und-organisch-chemische-reaktionen/stabilitaet-von-saeuren-und-basen/)
+{% content-ref url="stabilitat-von-sauren-und-basen/" %}
+[stabilitat-von-sauren-und-basen](stabilitat-von-sauren-und-basen/)
 {% endcontent-ref %}
 
 {% content-ref url="thermodynamik/" %}
