@@ -23,7 +23,7 @@ Eine Abgangsgruppe ist ein Substituent, der seine Bindungselektronen anzieht und
 
 ## Theorie
 
-[https://kszich-my.sharepoint.com/:b:/g/personal/michael\_liebich\_kszi\_ch/EV6bV8lBzANFlJIe4uq-kosBT-vrR7dhDlJj\_yHCoqpDeg?e=Iq1JEh](https://kszich-my.sharepoint.com/:b:/g/personal/michael_liebich_kszi_ch/EV6bV8lBzANFlJIe4uq-kosBT-vrR7dhDlJj_yHCoqpDeg?e=Iq1JEh)
+[Nucleophile Substitution](https://kszich-my.sharepoint.com/:b:/r/personal/michael_liebich_kszi_ch/Documents/Chemie/02_SPF/SN1SN2/NucleophileSubstitution.pdf?csf=1\&web=1\&e=7vq4qU)
 
 ## Übung
 
